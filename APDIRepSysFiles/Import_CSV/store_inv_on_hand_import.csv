@@ -1,0 +1,3414 @@
+﻿id,Product/Name,Partner Store,Location/Full Location Name,Quantity
+,D17255-10,SMH Makati,SMHMK/Stock,1
+,D18162-10,SMH Makati,SMHMK/Stock,2
+,D18247-10,SMH Makati,SMHMK/Stock,1
+,D21060-7N,SMH Makati,SMHMK/Stock,2
+,D21062-7N,SMH Makati,SMHMK/Stock,1
+,D1788-6,SMH Makati,SMHMK/Stock,1
+,C1833-6,OH Megamall,OHMEG/Stock,1
+,M1665-10,SMH North Edsa,SMHNE/Stock,1
+,M1705-19,SMH North Edsa,SMHNE/Stock,1
+,M1706-19,SMH Ortigas,SMHOR/Stock,3
+,M21010-18,SMH North Edsa,SMHNE/Stock,1
+,M21053-23,SMH North Edsa,SMHNE/Stock,1
+,W19102-2,SMH North Edsa,SMHNE/Stock,1
+,W19215-16,SMH North Edsa,SMHNE/Stock,2
+,W19217-16,SMH North Edsa,SMHNE/Stock,2
+,W19299-10,SMH Ortigas,SMHOR/Stock,2
+,WS19122-7,SMH North Edsa,SMHNE/Stock,1
+,M1537-24,OH Clark,OHCLK/Stock,1
+,W1948-10,OH Clark,OHCLK/Stock,1
+,W21005-10,OH Clark,OHCLK/Stock,1
+,W21035-9,OH Clark,OHCLK/Stock,1
+,W21044-12,OH Clark,OHCLK/Stock,1
+,W21045-12,OH Clark,OHCLK/Stock,2
+,W21049-12,OH Clark,OHCLK/Stock,1
+,W21162-10,OH Clark,OHCLK/Stock,1
+,1175169-8PS,SMH Clark,SMHCL/Stock,1
+,M1919-34,SMH Clark,SMHCL/Stock,1
+,SW21320-8,SMH Clark,SMHCL/Stock,1
+,W19114-6,SMH Clark,SMHCL/Stock,1
+,W19185-13,SMH Clark,SMHCL/Stock,1
+,W21168-8,SMH Clark,SMHCL/Stock,1
+,M1717-12,OH Dasma,OHDAS/Stock,1
+,M1853-27,OH Dasma,OHDAS/Stock,1
+,M21059-27,OH Cabanatuan,OHCAB/Stock,1
+,W21044-12,OH Cabanatuan,OHCAB/Stock,1
+,M21029-29,OH Lucena,OHLUC/Stock,1
+,T21013-1,OH Lucena,OHLUC/Stock,1
+,W19185-13,SMH Lipa,SMHLI/Stock,1
+,D22001-8,SMH Pampanga,SMHPA/Stock,1
+,D20059-5,OH Pampanga,OHPAM/Stock,1
+,T21013-1,OH Pampanga,OHPAM/Stock,1
+,TS19132-2,OH Pampanga,OHPAM/Stock,1
+,W21720-12,OH Pampanga,OHPAM/Stock,1
+,1086027-10WH,OH Cebu,OHCEB/Stock,1
+,1086028-10BK,OH Cebu,OHCEB/Stock,1
+,1621858-6,OH Cebu,OHCEB/Stock,1
+,17-06112-5-067,OH Cebu,OHCEB/Stock,1
+,D1645-6,OH Cebu,OHCEB/Stock,1
+,D20043-10,OH Cebu,OHCEB/Stock,1
+,M1653-12,OH Cebu,OHCEB/Stock,1
+,M1853-15,OH Cebu,OHCEB/Stock,3
+,M1853-22,OH Cebu,OHCEB/Stock,1
+,SW21193-8,OH Cebu,OHCEB/Stock,1
+,SW21194-8,OH Cebu,OHCEB/Stock,1
+,SW21196-8,OH Cebu,OHCEB/Stock,1
+,SW21197-8,OH Cebu,OHCEB/Stock,1
+,W16195-10,OH Cebu,OHCEB/Stock,2
+,W16199-10,OH Cebu,OHCEB/Stock,1
+,W16211-10,OH Cebu,OHCEB/Stock,2
+,W16255-6,OH Cebu,OHCEB/Stock,1
+,W18254-10N,OH Cebu,OHCEB/Stock,1
+,W18255-10N,OH Cebu,OHCEB/Stock,1
+,W1981-16,OH Cebu,OHCEB/Stock,2
+,W21081-7,OH Cebu,OHCEB/Stock,1
+,W21160-6,OH Cebu,OHCEB/Stock,1
+,W18161-11,OH Davao,OHDV/Stock,2
+,M1703-12,OH Lanang,OHLAN/Stock,3
+,O1803-1,OH Lanang,OHLAN/Stock,3
+,O20022-1,OH Lanang,OHLAN/Stock,3
+,O20029-1,OH Lanang,OHLAN/Stock,2
+,W21160-6,OH Lanang,OHLAN/Stock,1
+,W21720-12,OH Lanang,OHLAN/Stock,1
+,C21003-4,OH Mandurriao,OHMDR/Stock,2
+,D18156-14,OH Mandurriao,OHMDR/Stock,3
+,D20064-10,OH Mandurriao,OHMDR/Stock,1
+,M1512-21,OH Mandurriao,OHMDR/Stock,1
+,M21021-2,OH Mandurriao,OHMDR/Stock,1
+,M21021-3,OH Mandurriao,OHMDR/Stock,1
+,M21021-4,OH Mandurriao,OHMDR/Stock,1
+,W21064-7,OH Mandurriao,OHMDR/Stock,1
+,W21082-7,OH Mandurriao,OHMDR/Stock,1
+,W21738-12,OH Mandurriao,OHMDR/Stock,1
+,5011157-39,SMH Mandurriao,SMHMD/Stock,1
+,BM1913-19,SMH Mandurriao,SMHMD/Stock,1
+,D1942-15,SMH Mandurriao,SMHMD/Stock,1
+,M21053-23,SMH Mandurriao,SMHMD/Stock,2
+,RM250,SMH Mandurriao,SMHMD/Stock,4
+,RW16312-10,SMH Mandurriao,SMHMD/Stock,2
+,W21490-8,SMH Mandurriao,SMHMD/Stock,1
+,0373905-7,SMH Davao,SMHDV/Stock,1
+,RM250,SMH Davao,SMHDV/Stock,3
+,W19112-6,SMH Davao,SMHDV/Stock,1
+,W19217-16,SMH Davao,SMHDV/Stock,1
+,W19173-13,SMH Las Pinas,SMHLP/Stock,1
+,W21119-8,SMH Ortigas,SMHOR/Stock,1
+,W21121-8,SMH Ortigas,SMHOR/Stock,1
+,W21005-10,OH Lanang,OHLAN/Stock,2
+,D1987-12,SMH Cebu,SMHCE/Stock,2
+,W21122-8,SMH Cebu,SMHCE/Stock,1
+,1177136-8,OH Bacolod,OHBCD/Stock,1
+,D1798-6BL,OH Bacolod,OHBCD/Stock,1
+,D20106-17,OH Bacolod,OHBCD/Stock,1
+,M21051-10,OH Bacolod,OHBCD/Stock,1
+,SW21289-8,OH Bacolod,OHBCD/Stock,1
+,SW21345-8,OH Bacolod,OHBCD/Stock,1
+,W18298-8,OH Bacolod,OHBCD/Stock,1
+,M21029-29,OH Dasma,OHDAS/Stock,1
+,W21005-10,OH Dasma,OHDAS/Stock,1
+,W21119-8,SMH Mandurriao,SMHMD/Stock,2
+,W21120-8,SMH Mandurriao,SMHMD/Stock,2
+,W21121-8,SMH Mandurriao,SMHMD/Stock,2
+,W21122-8,SMH Mandurriao,SMHMD/Stock,1
+,122007-8,SMH Mandurriao,SMHMD/Stock,1
+,122009-8,SMH Mandurriao,SMHMD/Stock,2
+,D1951-10,SMH Mandurriao,SMHMD/Stock,1
+,W21120-8,SMH Davao,SMHDV/Stock,1
+,D18156-14,OH Dasma,OHDAS/Stock,1
+,D20041-6,OH Cebu,OHCEB/Stock,1
+,M1657-12,OH Lanang,OHLAN/Stock,1
+,D1833-11,SMH Makati,SMHMK/Stock,1
+,W22107-8,SMH Cubao,SMHCU/Stock,2
+,W22108-8,SMH Pampanga,SMHPA/Stock,1
+,M21059-27,OH Pampanga,OHPAM/Stock,1
+,W22122-12,SMH Lipa,SMHLI/Stock,1
+,M1630-12,SMH Cebu,SMHCE/Stock,2
+,M1631-12,SMH Cebu,SMHCE/Stock,1
+,M1701-19,SMH Cebu,SMHCE/Stock,2
+,M1705-12,SMH Cebu,SMHCE/Stock,1
+,M1722-12,SMH Cebu,SMHCE/Stock,2
+,M21053-23,SMH Cebu,SMHCE/Stock,2
+,W21005-10,SMH Cebu,SMHCE/Stock,1
+,W22107-8,SMH Davao,SMHDV/Stock,1
+,D18292-8,SMH Davao,SMHDV/Stock,1
+,D20042-12,SMH Davao,SMHDV/Stock,1
+,D18214-11,SMH Cebu,SMHCE/Stock,2
+,D18292-8,SMH Cebu,SMHCE/Stock,2
+,W22107-8,SMH Cebu,SMHCE/Stock,2
+,122031-5,OH Cebu,OHCEB/Stock,1
+,D20096-6,SMH Mandurriao,SMHMD/Stock,1
+,D20097-6,SMH Mandurriao,SMHMD/Stock,1
+,D18214-11,SMH Mandurriao,SMHMD/Stock,2
+,D21002-9,SMH Mandurriao,SMHMD/Stock,1
+,D1833-11,SMH Mandurriao,SMHMD/Stock,2
+,D1908-16,SMH Mandurriao,SMHMD/Stock,1
+,W19216-16,SMH North Edsa,SMHNE/Stock,1
+,D18143-8,SMH Makati,SMHMK/Stock,2
+,W21355-8,SMH Cubao,SMHCU/Stock,2
+,T21115-1,OH Lanang,OHLAN/Stock,1
+,SW22088-12,SMH North Edsa,SMHNE/Stock,1
+,122002-10,OH Mandurriao,OHMDR/Stock,1
+,W21430-8,OH Cebu,OHCEB/Stock,1
+,W21434-8,OH Cebu,OHCEB/Stock,1
+,M21052-16,OH Clark,OHCLK/Stock,1
+,122008-8,SMH North Edsa,SMHNE/Stock,1
+,M1703-12,SMH Ortigas,SMHOR/Stock,1
+,W21011-6,OH Lanang,OHLAN/Stock,2
+,122008-8,SMH Clark,SMHCL/Stock,1
+,122014-8,SMH Clark,SMHCL/Stock,1
+,W22032-25,SMH Makati,SMHMK/Stock,1
+,W21400-8,OH Cabanatuan,OHCAB/Stock,1
+,M1703-12,SMH Mall of Asia,SMHMO/Stock,1
+,W19185-13,SMH North Edsa,SMHNE/Stock,1
+,W21689-12,OH Dasma,OHDAS/Stock,1
+,W21690-12,OH Dasma,OHDAS/Stock,1
+,T21013-1,OH Cebu,OHCEB/Stock,1
+,W22075-12,SMH Cebu,SMHCE/Stock,1
+,W22076-12,SMH Cebu,SMHCE/Stock,1
+,W22077-12,SMH Cebu,SMHCE/Stock,1
+,W22100-8,SMH Lipa,SMHLI/Stock,2
+,W22101-8,SMH Lipa,SMHLI/Stock,1
+,W22102-8,SMH Lipa,SMHLI/Stock,1
+,1322072-8,OH Mall of Asia,OHMOA/Stock,1
+,W21392-8,OH Mandurriao,OHMDR/Stock,2
+,W21393-8,OH Mandurriao,OHMDR/Stock,2
+,W21435-8,OH Mandurriao,OHMDR/Stock,2
+,1322095-9,OH Mandurriao,OHMDR/Stock,1
+,1322071-8,OH Mandurriao,OHMDR/Stock,2
+,1322072-8,OH Mandurriao,OHMDR/Stock,2
+,1322071-8,OH Bacolod,OHBCD/Stock,1
+,1322045-8,OH Pampanga,OHPAM/Stock,2
+,W21719-8,OH Pampanga,OHPAM/Stock,2
+,1322071-8,OH Pampanga,OHPAM/Stock,2
+,1322072-8,OH Pampanga,OHPAM/Stock,1
+,1322078-8,OH Pampanga,OHPAM/Stock,1
+,W22101-8,SMH Pampanga,SMHPA/Stock,2
+,W21389-8,OH Lanang,OHLAN/Stock,1
+,M21012-19,SMH North Edsa,SMHNE/Stock,1
+,W21491-8,OH Cabanatuan,OHCAB/Stock,1
+,D18198-13,OH Clark,OHCLK/Stock,1
+,D20071-17,OH Clark,OHCLK/Stock,1
+,W21043-12,OH Clark,OHCLK/Stock,1
+,RW16318-6,OH Mandurriao,OHMDR/Stock,3
+,D18135-19,SMH Davao,SMHDV/Stock,1
+,122008-8,SMH Davao,SMHDV/Stock,1
+,W22034-25,SMH Davao,SMHDV/Stock,1
+,0373149-12N3,OH Mandurriao,OHMDR/Stock,1
+,501868-10,OH Mandurriao,OHMDR/Stock,1
+,502904-10,OH Mandurriao,OHMDR/Stock,1
+,502905-10,OH Mandurriao,OHMDR/Stock,1
+,D18185-13,OH Mandurriao,OHMDR/Stock,1
+,M1536-34,OH Mandurriao,OHMDR/Stock,1
+,M1767-12,OH Mandurriao,OHMDR/Stock,1
+,M1769-12,OH Mandurriao,OHMDR/Stock,1
+,M1853-22,OH Mandurriao,OHMDR/Stock,1
+,M1853-27,OH Mandurriao,OHMDR/Stock,1
+,M21022-10,OH Mandurriao,OHMDR/Stock,1
+,W16493-13,OH Mandurriao,OHMDR/Stock,1
+,W17235-8,OH Mandurriao,OHMDR/Stock,1
+,W18297-8,OH Mandurriao,OHMDR/Stock,1
+,W18353-9,OH Mandurriao,OHMDR/Stock,1
+,W18364-10,OH Mandurriao,OHMDR/Stock,1
+,W21043-12,OH Mandurriao,OHMDR/Stock,1
+,174779-19,SMH Mandurriao,SMHMD/Stock,1
+,501474-34N,SMH Mandurriao,SMHMD/Stock,1
+,501749-18,SMH Mandurriao,SMHMD/Stock,1
+,501780-19,SMH Mandurriao,SMHMD/Stock,1
+,501796-20,SMH Mandurriao,SMHMD/Stock,1
+,M1531-22,SMH Mandurriao,SMHMD/Stock,1
+,M1540-36,SMH Mandurriao,SMHMD/Stock,2
+,M1638-34,SMH Mandurriao,SMHMD/Stock,1
+,M21052-16,SMH Mandurriao,SMHMD/Stock,2
+,RW19116-8,SMH Mandurriao,SMHMD/Stock,1
+,W1614-10,SMH Mandurriao,SMHMD/Stock,1
+,W18308-8,SMH Mandurriao,SMHMD/Stock,1
+,W19113-6,SMH Mandurriao,SMHMD/Stock,1
+,W1918-8,SMH Mandurriao,SMHMD/Stock,1
+,W1921-8,SMH Mandurriao,SMHMD/Stock,1
+,W1975-4,SMH Mandurriao,SMHMD/Stock,1
+,0553491-6,SMH Cebu,SMHCE/Stock,2
+,D16642-13,SMH Cebu,SMHCE/Stock,1
+,D16648-13,SMH Cebu,SMHCE/Stock,1
+,D16650-10,SMH Cebu,SMHCE/Stock,1
+,D16652-13,SMH Cebu,SMHCE/Stock,1
+,D1727-11,SMH Cebu,SMHCE/Stock,1
+,D18227-5,SMH Cebu,SMHCE/Stock,1
+,M1717-12,SMH Cebu,SMHCE/Stock,2
+,M21012-19,SMH Cebu,SMHCE/Stock,1
+,SW21296-8,SMH Cebu,SMHCE/Stock,1
+,W16319-10,SMH Cebu,SMHCE/Stock,2
+,W18254-10,SMH Cebu,SMHCE/Stock,1
+,W18294-15,SMH Cebu,SMHCE/Stock,2
+,W19113-6,SMH Cebu,SMHCE/Stock,1
+,W19114-6,SMH Cebu,SMHCE/Stock,1
+,W1963-12,SMH Cebu,SMHCE/Stock,1
+,W1974-5,SMH Cebu,SMHCE/Stock,13
+,W1975-4,SMH Cebu,SMHCE/Stock,15
+,WS19121-7,SMH Cebu,SMHCE/Stock,2
+,WS19122-7,SMH Cebu,SMHCE/Stock,1
+,WS19129-7,SMH Cebu,SMHCE/Stock,3
+,1322095-9,OH Cabanatuan,OHCAB/Stock,1
+,1322097-10,OH Cabanatuan,OHCAB/Stock,1
+,1322071-8,OH Lucena,OHLUC/Stock,1
+,1322072-8,OH Lucena,OHLUC/Stock,1
+,T19148-1,OH Clark,OHCLK/Stock,1
+,1322025-9,SMH Clark,SMHCL/Stock,1
+,1322026-9,SMH Clark,SMHCL/Stock,1
+,1086026-10WH,OH Bacolod,OHBCD/Stock,1
+,1176371-12,OH Bacolod,OHBCD/Stock,1
+,M1725-12,OH Bacolod,OHBCD/Stock,1
+,W21540-7,OH Bacolod,OHBCD/Stock,1
+,0373149-12N3,OH Cebu,OHCEB/Stock,1
+,707108-5G,OH Cebu,OHCEB/Stock,1
+,D1644-4,OH Cebu,OHCEB/Stock,1
+,M21020-2,OH Cebu,OHCEB/Stock,1
+,W16211-10,SMH North Edsa,SMHNE/Stock,2
+,W16195-10,SMH North Edsa,SMHNE/Stock,2
+,1322042-8,SMH Cebu,SMHCE/Stock,2
+,W17352-6,SMH Cebu,SMHCE/Stock,1
+,W17344-6,SMH Cebu,SMHCE/Stock,2
+,W21168-8,SMH Cebu,SMHCE/Stock,1
+,1323003-5,SMH Cebu,SMHCE/Stock,1
+,1323006-5,SMH Cebu,SMHCE/Stock,1
+,D16530-9,SMH Cebu,SMHCE/Stock,1
+,W17352-6,SMH Davao,SMHDV/Stock,2
+,1502974-13,SMH Davao,SMHDV/Stock,1
+,D1728-6,SMH Davao,SMHDV/Stock,1
+,1206351-6TC,SMH Davao,SMHDV/Stock,1
+,0373144-4,SMH Davao,SMHDV/Stock,1
+,0373784-4,SMH Davao,SMHDV/Stock,2
+,0413158-4,SMH Davao,SMHDV/Stock,5
+,0413161-4,SMH Davao,SMHDV/Stock,2
+,0553969-8,SMH Davao,SMHDV/Stock,1
+,0553970-8,SMH Davao,SMHDV/Stock,1
+,0573846-3,SMH Davao,SMHDV/Stock,2
+,1175176-9,SMH Davao,SMHDV/Stock,1
+,1175374-8CL-3,SMH Davao,SMHDV/Stock,1
+,1206271-6,SMH Davao,SMHDV/Stock,1
+,1365751-6,SMH Davao,SMHDV/Stock,1
+,1365752-6A,SMH Davao,SMHDV/Stock,1
+,1505419-23M,SMH Davao,SMHDV/Stock,2
+,1866587-7N,SMH Davao,SMHDV/Stock,2
+,502615-10,SMH Davao,SMHDV/Stock,1
+,502784-13,SMH Davao,SMHDV/Stock,1
+,8867070-4,SMH Davao,SMHDV/Stock,1
+,8867071-4,SMH Davao,SMHDV/Stock,1
+,D17291-10,SMH Davao,SMHDV/Stock,1
+,D1991-12,SMH Davao,SMHDV/Stock,1
+,M1639-12,SMH Davao,SMHDV/Stock,1
+,M1714-12,SMH Davao,SMHDV/Stock,1
+,M1717-12,SMH Davao,SMHDV/Stock,1
+,M1720-12,SMH Davao,SMHDV/Stock,1
+,M1721-12,SMH Davao,SMHDV/Stock,1
+,M1818-17,SMH Davao,SMHDV/Stock,1
+,M1821-15,SMH Davao,SMHDV/Stock,1
+,M1822-14,SMH Davao,SMHDV/Stock,1
+,M21006-10,SMH Davao,SMHDV/Stock,1
+,M21053-23,SMH Davao,SMHDV/Stock,1
+,RD15253-8,SMH Davao,SMHDV/Stock,2
+,RD16408-10,SMH Davao,SMHDV/Stock,3
+,RW16321-4,SMH Davao,SMHDV/Stock,6
+,W1551-8,SMH Davao,SMHDV/Stock,1
+,W1562-61,SMH Davao,SMHDV/Stock,1
+,W16195-10,SMH Davao,SMHDV/Stock,1
+,W1701-10,SMH Davao,SMHDV/Stock,1
+,W1702-10,SMH Davao,SMHDV/Stock,2
+,W18279-15,SMH Davao,SMHDV/Stock,1
+,W18349-16,SMH Davao,SMHDV/Stock,1
+,W21134-8,SMH Davao,SMHDV/Stock,1
+,WS19121-7,SMH Davao,SMHDV/Stock,1
+,WS19122-7,SMH Davao,SMHDV/Stock,2
+,WS19127-7,SMH Davao,SMHDV/Stock,2
+,M21051-10,OH Davao,OHDV/Stock,1
+,W1784-11,SMH Ortigas,SMHOR/Stock,1
+,M1706-19,SMH North Edsa,SMHNE/Stock,1
+,M1919-34,SMH North Edsa,SMHNE/Stock,3
+,M1706-19,SMH Makati,SMHMK/Stock,3
+,M1704-12,SMH Mall of Asia,SMHMO/Stock,1
+,M1707-12,SMH Mall of Asia,SMHMO/Stock,2
+,M1707-12,SMH Cubao,SMHCU/Stock,2
+,1322048-8,OH Cebu,OHCEB/Stock,1
+,W21353-8,OH Batangas,OHBAT/Stock,1
+,O1803-1,OH Dasma,OHDAS/Stock,2
+,O1806-1,OH Dasma,OHDAS/Stock,2
+,W22076-12,SMH Mandurriao,SMHMD/Stock,2
+,W21168-8,SMH Mandurriao,SMHMD/Stock,1
+,1322040-8,SMH Mandurriao,SMHMD/Stock,1
+,C1911-5,OH North Edsa,OHNE/Stock,1
+,RW16333-6,OH Lanang,OHLAN/Stock,1
+,W16495-6,OH Lanang,OHLAN/Stock,1
+,122038-8,SMH Ortigas,SMHOR/Stock,1
+,M1917-34,SMH Davao,SMHDV/Stock,2
+,1322102-13,SMH Mandurriao,SMHMD/Stock,2
+,1322081-8,SMH Mandurriao,SMHMD/Stock,1
+,1322088-8,SMH Mandurriao,SMHMD/Stock,1
+,1322089-8,SMH Mandurriao,SMHMD/Stock,1
+,1322099-10,SMH Mandurriao,SMHMD/Stock,1
+,1322101-10,SMH Mandurriao,SMHMD/Stock,1
+,1322101-10,SMH Davao,SMHDV/Stock,1
+,1322088-8,SMH Ortigas,SMHOR/Stock,2
+,1322089-8,SMH Ortigas,SMHOR/Stock,1
+,1322101-10,SMH Ortigas,SMHOR/Stock,1
+,1322102-13,SMH Mall of Asia,SMHMO/Stock,1
+,1322102-13,SMH Lipa,SMHLI/Stock,1
+,1322104-13,SMH Lipa,SMHLI/Stock,1
+,1322105-13,SMH Lipa,SMHLI/Stock,1
+,1322101-10,SMH Lipa,SMHLI/Stock,1
+,122039-8,SMH Lipa,SMHLI/Stock,1
+,D22001-8,SMH North Edsa,SMHNE/Stock,1
+,1322102-13,SMH North Edsa,SMHNE/Stock,1
+,1322088-8,SMH North Edsa,SMHNE/Stock,2
+,1322089-8,SMH North Edsa,SMHNE/Stock,2
+,1322088-8,SMH Cebu,SMHCE/Stock,1
+,1322089-8,SMH Cebu,SMHCE/Stock,1
+,1322103-13,SMH Pampanga,SMHPA/Stock,1
+,1322082-8,SMH Pampanga,SMHPA/Stock,1
+,1322088-8,SMH Pampanga,SMHPA/Stock,1
+,1322089-8,SMH Pampanga,SMHPA/Stock,1
+,1322025-9,SMH Pampanga,SMHPA/Stock,1
+,1322027-9,SMH Pampanga,SMHPA/Stock,2
+,1322089-8,SMH Clark,SMHCL/Stock,2
+,RW16333-6,OH Mandurriao,OHMDR/Stock,1
+,1177152-6,OH Davao,OHDV/Stock,1
+,703165-2,OH Davao,OHDV/Stock,1
+,M1853-22,OH Davao,OHDV/Stock,1
+,W18158-11,OH Davao,OHDV/Stock,1
+,1322102-13,SMH Cubao,SMHCU/Stock,1
+,1322081-8,SMH Cubao,SMHCU/Stock,1
+,1322082-8,SMH Cubao,SMHCU/Stock,1
+,1322088-8,SMH Cubao,SMHCU/Stock,1
+,501922-10,SMH Cebu,SMHCE/Stock,1
+,D16653-13,SMH Cebu,SMHCE/Stock,1
+,M1719-12,SMH Cebu,SMHCE/Stock,1
+,M1517-10,OH Davao,OHDV/Stock,1
+,122027-13,OH Dasma,OHDAS/Stock,1
+,122038-8,SMH Makati,SMHMK/Stock,1
+,1123038-1,OH Davao,OHDV/Stock,1
+,W21377-8,OH Batangas,OHBAT/Stock,1
+,D18192-12,OH Megamall,OHMEG/Stock,1
+,122019-8,SMH Ortigas,SMHOR/Stock,1
+,122020-8,SMH Ortigas,SMHOR/Stock,1
+,W21434-8,OH Baguio,OHBAG/Stock,1
+,M1511-12,SMH North Edsa,SMHNE/Stock,1
+,122017-10,SMH North Edsa,SMHNE/Stock,1
+,122018-10,SMH North Edsa,SMHNE/Stock,1
+,W22100-8,SMH North Edsa,SMHNE/Stock,1
+,W1825-9,SMH Cubao,SMHCU/Stock,1
+,W1826-9,SMH Cubao,SMHCU/Stock,1
+,W19218-16,SMH Cubao,SMHCU/Stock,1
+,W21689-12,OH Pampanga,OHPAM/Stock,1
+,W21401-8,OH Pampanga,OHPAM/Stock,1
+,D18199-13,OH Pampanga,OHPAM/Stock,1
+,W22102-8,SMH Clark,SMHCL/Stock,1
+,W22127-12,SMH Pampanga,SMHPA/Stock,2
+,122017-10,SMH Mandurriao,SMHMD/Stock,1
+,122018-10,SMH Mandurriao,SMHMD/Stock,1
+,122019-8,SMH Mandurriao,SMHMD/Stock,1
+,122020-8,SMH Mandurriao,SMHMD/Stock,1
+,W22127-12,SMH Mandurriao,SMHMD/Stock,2
+,W22100-8,SMH Mandurriao,SMHMD/Stock,1
+,W18191-8,OH Mandurriao,OHMDR/Stock,1
+,SW22039-25,SMH Cebu,SMHCE/Stock,1
+,SW22051-25,SMH Cebu,SMHCE/Stock,1
+,SW21581-8,SMH Las Pinas,SMHLP/Stock,1
+,M1703-12,OH Megamall,OHMEG/Stock,1
+,1223024-2,OH Dasma,OHDAS/Stock,1
+,923009-3,OH Dasma,OHDAS/Stock,1
+,122040-8,SMH Makati,SMHMK/Stock,1
+,122017-10,SMH Davao,SMHDV/Stock,1
+,122018-10,SMH Davao,SMHDV/Stock,1
+,122019-8,SMH Davao,SMHDV/Stock,1
+,122020-8,SMH Davao,SMHDV/Stock,1
+,1322071-8,OH Davao,OHDV/Stock,1
+,162045-8,OH Cebu,OHCEB/Stock,1
+,17-02079-2B,OH Cebu,OHCEB/Stock,3
+,C1618-5,OH Cebu,OHCEB/Stock,1
+,M1767-12,OH Cebu,OHCEB/Stock,1
+,T16143-1,OH Cebu,OHCEB/Stock,1
+,W15315-4,OH Cebu,OHCEB/Stock,1
+,IW1707-7,OH Bacolod,OHBCD/Stock,2
+,O20022-1,OH Mandurriao,OHMDR/Stock,3
+,O20026-1,OH Mandurriao,OHMDR/Stock,8
+,O20027-1,OH Mandurriao,OHMDR/Stock,2
+,O20028-1,OH Mandurriao,OHMDR/Stock,6
+,O20031-1,OH Mandurriao,OHMDR/Stock,3
+,1322098-10,OH Cabanatuan,OHCAB/Stock,2
+,W1918-8,SMH Mall of Asia,SMHMO/Stock,1
+,W1920-8,SMH Mall of Asia,SMHMO/Stock,2
+,W21692-12,SMH Lipa,SMHLI/Stock,1
+,W1920-8,SMH Lipa,SMHLI/Stock,1
+,1086026-10WH,OH Cebu,OHCEB/Stock,1
+,W21692-12,SMH Cebu,SMHCE/Stock,1
+,W22033-25,SMH Cebu,SMHCE/Stock,1
+,W1920-8,SMH North Edsa,SMHNE/Stock,1
+,123341-10,OH Pampanga,OHPAM/Stock,1
+,123343-7,OH Pampanga,OHPAM/Stock,1
+,122020-8,SMH Clark,SMHCL/Stock,1
+,122019-8,SMH Clark,SMHCL/Stock,1
+,W1920-8,SMH Clark,SMHCL/Stock,2
+,C1820-6BK,OH North Edsa,OHNE/Stock,1
+,M1919-29,SMH Mall of Asia,SMHMO/Stock,1
+,C1820-6BK,OH Cebu,OHCEB/Stock,2
+,M1952-18,OH Cebu,OHCEB/Stock,1
+,RD15260-5,OH Lanang,OHLAN/Stock,1
+,1322024-9,SMH Pampanga,SMHPA/Stock,1
+,923009-3,OH Megamall,OHMEG/Stock,1
+,W21360-8,SMH Cubao,SMHCU/Stock,1
+,122019-8,SMH Cubao,SMHCU/Stock,1
+,122020-8,SMH Cubao,SMHCU/Stock,1
+,W1920-8,SMH Cubao,SMHCU/Stock,2
+,122037-8,SMH Makati,SMHMK/Stock,2
+,122039-8,SMH Makati,SMHMK/Stock,2
+,C1901-3,OH Mall of Asia,OHMOA/Stock,1
+,122027-13,OH Mall of Asia,OHMOA/Stock,1
+,W21694-12,SMH Lipa,SMHLI/Stock,1
+,1223056-1,OH Dasma,OHDAS/Stock,1
+,C1901-3,OH Dasma,OHDAS/Stock,1
+,W21431-8,OH Cebu,OHCEB/Stock,2
+,W21363-8,OH Cebu,OHCEB/Stock,1
+,M1657-19,OH Megamall,OHMEG/Stock,1
+,1223052-1,OH Cabanatuan,OHCAB/Stock,1
+,M1704-19,SMH Mall of Asia,SMHMO/Stock,2
+,RW15368-12,OH Cebu,OHCEB/Stock,2
+,0373148-12,OH Cebu,OHCEB/Stock,2
+,RW15377-8,OH Cebu,OHCEB/Stock,1
+,RW16318-6,OH Cebu,OHCEB/Stock,11
+,O1831-1,OH Lanang,OHLAN/Stock,1
+,W21434-8,OH Sta. Rosa,OHSTR/Stock,1
+,W21722-12,OH Dasma,OHDAS/Stock,1
+,O1831-1,OH Dasma,OHDAS/Stock,1
+,C1901-3,OH Bacolod,OHBCD/Stock,1
+,D20071-17,OH Lucena,OHLUC/Stock,1
+,C22003-3,OH Batangas,OHBAT/Stock,1
+,W21682-12,OH Batangas,OHBAT/Stock,1
+,W21688-12,OH Batangas,OHBAT/Stock,1
+,W21690-12,OH Batangas,OHBAT/Stock,1
+,O1831-1,OH Batangas,OHBAT/Stock,1
+,W21722-12,OH Pampanga,OHPAM/Stock,1
+,W21688-12,OH Pampanga,OHPAM/Stock,2
+,D1922-13,OH Megamall,OHMEG/Stock,2
+,O1832-1,OH Megamall,OHMEG/Stock,1
+,W21689-12,OH Clark,OHCLK/Stock,1
+,D21002-9,SMH North Edsa,SMHNE/Stock,1
+,123334-15,OH North Edsa,OHNE/Stock,1
+,W21738-12,OH Baguio,OHBAG/Stock,1
+,D20071-17,OH Lanang,OHLAN/Stock,1
+,1223055-1,OH Cabanatuan,OHCAB/Stock,1
+,O1831-1,OH Cebu,OHCEB/Stock,1
+,W21689-12,OH Cebu,OHCEB/Stock,4
+,W21690-12,OH Cebu,OHCEB/Stock,1
+,M1639-12,OH Cebu,OHCEB/Stock,1
+,O1831-1,OH Mandurriao,OHMDR/Stock,1
+,123300-12,OH Pampanga,OHPAM/Stock,1
+,123460-6,SMH Ortigas,SMHOR/Stock,1
+,1323059-13,SMH Pampanga,SMHPA/Stock,1
+,D18136-20,SMH Davao,SMHDV/Stock,1
+,1323012-12,SMH Cebu,SMHCE/Stock,1
+,D22018-5,SMH Cebu,SMHCE/Stock,1
+,122018-10,SMH Cebu,SMHCE/Stock,2
+,W22030-25,SMH Davao,SMHDV/Stock,1
+,W22019-25,SMH Davao,SMHDV/Stock,1
+,C1805-5,OH Lanang,OHLAN/Stock,1
+,123300-12,OH Urdaneta,OHURD/Stock,1
+,O21001-1,OH Dasma,OHDAS/Stock,1
+,123263-10,OH Pampanga,OHPAM/Stock,2
+,W21001-10,OH Bacoor,OHBCR/Stock,1
+,123311-10,SMH Cebu,SMHCE/Stock,1
+,M1654-12,SMH Cebu,SMHCE/Stock,1
+,1322105-13,SMH Cebu,SMHCE/Stock,1
+,1323012-12,OH Mandurriao,OHMDR/Stock,1
+,123299-12,OH Mandurriao,OHMDR/Stock,1
+,123333-15,OH Mandurriao,OHMDR/Stock,1
+,123334-15,OH Mandurriao,OHMDR/Stock,1
+,123075-3,OH Cebu,OHCEB/Stock,1
+,1323036-8,SMH Cubao,SMHCU/Stock,1
+,W22122-12,SMH Makati,SMHMK/Stock,3
+,123335-20,SMH Makati,SMHMK/Stock,1
+,SW21542-6,SMH Mandurriao,SMHMD/Stock,1
+,M22005-6,SMH Mandurriao,SMHMD/Stock,1
+,123264-10,OH Batangas,OHBAT/Stock,1
+,M1958-32,SMH Ortigas,SMHOR/Stock,1
+,M1536-34,OH Cebu,OHCEB/Stock,2
+,T18196-2,OH Cebu,OHCEB/Stock,2
+,17-04036-21,OH Cebu,OHCEB/Stock,1
+,C1505-2,OH Cebu,OHCEB/Stock,1
+,W22128-12,SMH Mandurriao,SMHMD/Stock,2
+,M1706-19,SMH Mandurriao,SMHMD/Stock,1
+,W22097-8,SMH Mandurriao,SMHMD/Stock,1
+,M1707-12,SMH Mandurriao,SMHMD/Stock,1
+,O1831-1,OH Fairview,OHFV/Stock,1
+,523003-7,OH Megamall,OHMEG/Stock,1
+,C1901-3,OH Megamall,OHMEG/Stock,2
+,122022-4,OH Fairview,OHFV/Stock,1
+,523004-6,OH Fairview,OHFV/Stock,1
+,123297-10,OH Baguio,OHBAG/Stock,2
+,122021-4,OH Urdaneta,OHURD/Stock,1
+,D18198-13,OH Pampanga,OHPAM/Stock,1
+,D21062-7N,SMH Pampanga,SMHPA/Stock,1
+,123137-8,SMH Pampanga,SMHPA/Stock,1
+,SW21680-12,SMH Pampanga,SMHPA/Stock,1
+,W16492-13,OH Lanang,OHLAN/Stock,1
+,1323079-13,SMH Mall of Asia,SMHMO/Stock,1
+,1323049-13,SMH Lipa,SMHLI/Stock,1
+,122021-4,OH Lucena,OHLUC/Stock,1
+,D18199-13,OH North Edsa,OHNE/Stock,1
+,1123041-1,OH Lanang,OHLAN/Stock,1
+,1123042-1,OH Lanang,OHLAN/Stock,2
+,123050-20,OH Lanang,OHLAN/Stock,1
+,1223061-1,OH Lanang,OHLAN/Stock,1
+,1223055-1,OH Dasma,OHDAS/Stock,1
+,523003-7,OH Cebu,OHCEB/Stock,1
+,123321-16,OH Cebu,OHCEB/Stock,1
+,123298-10,OH Cebu,OHCEB/Stock,1
+,C1805-5,OH Cebu,OHCEB/Stock,1
+,M21057-12,SMH Makati,SMHMK/Stock,1
+,M1703-12,SMH Makati,SMHMK/Stock,3
+,M1703-19,SMH Makati,SMHMK/Stock,5
+,523003-7,OH Bacolod,OHBCD/Stock,1
+,M21057-12,OH Pampanga,OHPAM/Stock,1
+,M21029-29,OH Pampanga,OHPAM/Stock,1
+,M21058-19,SMH Pampanga,SMHPA/Stock,2
+,W21360-8,SMH Pampanga,SMHPA/Stock,1
+,M21030-34,SMH Ortigas,SMHOR/Stock,1
+,501501-12S,SMH Mandurriao,SMHMD/Stock,1
+,M1536-34,SMH Mandurriao,SMHMD/Stock,2
+,M1537-24,SMH Mandurriao,SMHMD/Stock,2
+,W1974-5,SMH Mandurriao,SMHMD/Stock,1
+,RD16400-10,SMH Mandurriao,SMHMD/Stock,1
+,M21029-29,OH Sta. Rosa,OHSTR/Stock,2
+,W21360-8,SMH Clark,SMHCL/Stock,1
+,1323059-13,SMH Lipa,SMHLI/Stock,3
+,M21057-12,OH Lanang,OHLAN/Stock,1
+,M21029-29,OH Lanang,OHLAN/Stock,1
+,C1820-6BK,OH Lanang,OHLAN/Stock,1
+,123321-16,OH Davao,OHDV/Stock,1
+,W19182-13,SMH Cubao,SMHCU/Stock,1
+,M1703-12,SMH Cubao,SMHCU/Stock,2
+,1323085-13,SMH Makati,SMHMK/Stock,1
+,123321-16,OH Dasma,OHDAS/Stock,1
+,123336-20,OH Pampanga,OHPAM/Stock,1
+,1323130-8,SMH Las Pinas,SMHLP/Stock,1
+,1322103-13,SMH Las Pinas,SMHLP/Stock,1
+,1324039-4,SMH Las Pinas,SMHLP/Stock,1
+,122019-8,SMH Las Pinas,SMHLP/Stock,1
+,122020-8,SMH Las Pinas,SMHLP/Stock,1
+,1324041-10,SMH Ortigas,SMHOR/Stock,2
+,1324040-8,SMH Pampanga,SMHPA/Stock,1
+,1324041-10,SMH Pampanga,SMHPA/Stock,3
+,123331-15,OH North Edsa,OHNE/Stock,1
+,C1830-5,OH North Edsa,OHNE/Stock,2
+,W22108-8,SMH Cebu,SMHCE/Stock,1
+,1322083-8,SMH Cebu,SMHCE/Stock,1
+,1324038-4,SMH Cebu,SMHCE/Stock,3
+,1324043-8,SMH Cebu,SMHCE/Stock,2
+,W21095-7,SMH Cebu,SMHCE/Stock,1
+,1322052-8,SMH Davao,SMHDV/Stock,1
+,1324038-4,SMH Davao,SMHDV/Stock,3
+,1324039-4,SMH Davao,SMHDV/Stock,2
+,W22101-8,SMH Mandurriao,SMHMD/Stock,2
+,1322082-8,SMH Mandurriao,SMHMD/Stock,2
+,1322083-8,SMH Mandurriao,SMHMD/Stock,1
+,122037-8,SMH Mandurriao,SMHMD/Stock,1
+,122038-8,SMH Mandurriao,SMHMD/Stock,1
+,122039-8,SMH Mandurriao,SMHMD/Stock,1
+,M1703-12,SMH Mandurriao,SMHMD/Stock,2
+,W19217-16,SMH Ortigas,SMHOR/Stock,1
+,W21682-12,OH Cabanatuan,OHCAB/Stock,1
+,1123140-2,OH Mall of Asia,OHMOA/Stock,1
+,D1950-7G,SMH Pampanga,SMHPA/Stock,2
+,W21692-12,SMH Makati,SMHMK/Stock,2
+,W22101-8,SMH Cubao,SMHCU/Stock,1
+,923008-3,OH Dasma,OHDAS/Stock,1
+,123404-10,OH Dasma,OHDAS/Stock,1
+,W21682-12,OH Sta. Rosa,OHSTR/Stock,1
+,W21686-8,OH Sta. Rosa,OHSTR/Stock,1
+,W21738-12,OH Batangas,OHBAT/Stock,1
+,M21030-34,OH Lucena,OHLUC/Stock,1
+,W22063-12,SMH Las Pinas,SMHLP/Stock,1
+,W22128-12,SMH Las Pinas,SMHLP/Stock,1
+,1323110-13,SMH Las Pinas,SMHLP/Stock,1
+,1323115-13,SMH Las Pinas,SMHLP/Stock,1
+,W21738-12,OH Urdaneta,OHURD/Stock,1
+,122038-8,SMH North Edsa,SMHNE/Stock,2
+,122045-20G,SMH North Edsa,SMHNE/Stock,2
+,1324039-4,SMH North Edsa,SMHNE/Stock,2
+,1123041-1,OH Dasma,OHDAS/Stock,1
+,924007-3,OH Dasma,OHDAS/Stock,1
+,M1703-12,OH Dasma,OHDAS/Stock,2
+,M1708-12,OH Fairview,OHFV/Stock,1
+,123321-16,OH Pampanga,OHPAM/Stock,1
+,122027-13,OH Pampanga,OHPAM/Stock,1
+,D18227-5,SMH Pampanga,SMHPA/Stock,1
+,924009-3,OH Batangas,OHBAT/Stock,1
+,D21035-20G,OH Cabanatuan,OHCAB/Stock,1
+,122039-8,SMH Clark,SMHCL/Stock,2
+,123303-6,SMH Clark,SMHCL/Stock,1
+,D21061-12N,SMH Cubao,SMHCU/Stock,1
+,M21058-19,SMH Cubao,SMHCU/Stock,2
+,123099-3,OH Baguio,OHBAG/Stock,2
+,123100-3,OH Urdaneta,OHURD/Stock,1
+,D21035-20G,OH Megamall,OHMEG/Stock,1
+,123077-3,OH Sta. Rosa,OHSTR/Stock,2
+,924007-3,OH Sta. Rosa,OHSTR/Stock,1
+,924008-3,OH Sta. Rosa,OHSTR/Stock,1
+,924010-3,OH Sta. Rosa,OHSTR/Stock,1
+,1123049-1,OH Sta. Rosa,OHSTR/Stock,1
+,T19148-1,OH Sta. Rosa,OHSTR/Stock,1
+,T19149-1,OH Sta. Rosa,OHSTR/Stock,1
+,123124-7,SMH Las Pinas,SMHLP/Stock,1
+,122039-8,SMH Las Pinas,SMHLP/Stock,1
+,M21004-8,SMH Makati,SMHMK/Stock,1
+,1123040-1,OH North Edsa,OHNE/Stock,1
+,123365-15,OH North Edsa,OHNE/Stock,1
+,C1806-3,OH Cebu,OHCEB/Stock,1
+,M1513-12,OH Cebu,OHCEB/Stock,1
+,M1603-13,OH Cebu,OHCEB/Stock,1
+,M1605-13,OH Cebu,OHCEB/Stock,1
+,M1639-18,OH Cebu,OHCEB/Stock,1
+,M1643-12,OH Cebu,OHCEB/Stock,1
+,M1644-12,OH Cebu,OHCEB/Stock,1
+,M1647-10,OH Cebu,OHCEB/Stock,1
+,M1648-12,OH Cebu,OHCEB/Stock,1
+,M1763-4,OH Cebu,OHCEB/Stock,1
+,M1789-12,OH Cebu,OHCEB/Stock,1
+,M1790-12,OH Cebu,OHCEB/Stock,1
+,M1951-11,OH Cebu,OHCEB/Stock,2
+,M21003-7,OH Cebu,OHCEB/Stock,1
+,M21021-2,OH Cebu,OHCEB/Stock,1
+,1323001-5,OH Cebu,OHCEB/Stock,4
+,1323002-5,OH Cebu,OHCEB/Stock,4
+,1323004-5,OH Cebu,OHCEB/Stock,4
+,1323005-5,OH Cebu,OHCEB/Stock,4
+,1622014-6,OH Cebu,OHCEB/Stock,1
+,RD15259-6,OH Cebu,OHCEB/Stock,2
+,RW16329-11,OH Cebu,OHCEB/Stock,1
+,W15205-16,OH Cebu,OHCEB/Stock,1
+,W16270-6,OH Cebu,OHCEB/Stock,1
+,W16271-6,OH Cebu,OHCEB/Stock,1
+,W18353-9,OH Cebu,OHCEB/Stock,1
+,W21008-6,OH Cebu,OHCEB/Stock,1
+,W21073-7,OH Cebu,OHCEB/Stock,1
+,W21721-8,OH Cebu,OHCEB/Stock,1
+,M1957-26,OH Fairview,OHFV/Stock,1
+,1324011-10,OH Pampanga,OHPAM/Stock,1
+,123306-13,OH Pampanga,OHPAM/Stock,1
+,123262-10,OH Pampanga,OHPAM/Stock,1
+,123366-15,OH Pampanga,OHPAM/Stock,1
+,1324011-10,OH Fairview,OHFV/Stock,1
+,1324054-20,OH Fairview,OHFV/Stock,1
+,123263-10,OH Fairview,OHFV/Stock,1
+,924090-5,OH Fairview,OHFV/Stock,1
+,924091-3,OH Fairview,OHFV/Stock,1
+,123434-12,OH Fairview,OHFV/Stock,1
+,D21035-20G,OH Fairview,OHFV/Stock,1
+,1324051-10,OH Megamall,OHMEG/Stock,1
+,1324011-10,OH Megamall,OHMEG/Stock,1
+,123498-10,OH Megamall,OHMEG/Stock,2
+,123435-12,OH Megamall,OHMEG/Stock,1
+,123365-15,OH Megamall,OHMEG/Stock,1
+,D21014-10G,OH Megamall,OHMEG/Stock,1
+,1324053-7,OH Mall of Asia,OHMOA/Stock,1
+,1324011-10,OH Mall of Asia,OHMOA/Stock,1
+,T21011-1,OH Bacolod,OHBCD/Stock,2
+,1324011-10,OH Mandurriao,OHMDR/Stock,1
+,1324011-10,OH Batangas,OHBAT/Stock,1
+,1324054-20,OH Batangas,OHBAT/Stock,1
+,123262-10,OH Batangas,OHBAT/Stock,1
+,924091-3,OH Batangas,OHBAT/Stock,1
+,123264-10,OH Lucena,OHLUC/Stock,1
+,924026-2,OH Lucena,OHLUC/Stock,1
+,1324053-7,OH Cabanatuan,OHCAB/Stock,1
+,1324011-10,OH Cabanatuan,OHCAB/Stock,1
+,1324054-20,OH Cabanatuan,OHCAB/Stock,2
+,1223101-3,OH Cabanatuan,OHCAB/Stock,1
+,123366-15,OH Dasma,OHDAS/Stock,1
+,1324051-10,OH Dasma,OHDAS/Stock,1
+,1324053-7,OH Dasma,OHDAS/Stock,1
+,1324009-7,OH Dasma,OHDAS/Stock,1
+,1324054-20,OH Dasma,OHDAS/Stock,1
+,123306-13,OH Dasma,OHDAS/Stock,1
+,123263-10,OH Dasma,OHDAS/Stock,1
+,123243-8,OH Dasma,OHDAS/Stock,1
+,1324038-4,SMH Cubao,SMHCU/Stock,1
+,1324039-4,SMH Cubao,SMHCU/Stock,3
+,1324043-8,SMH Cubao,SMHCU/Stock,1
+,W21034-9,SMH Cubao,SMHCU/Stock,1
+,W22066-12,SMH Cubao,SMHCU/Stock,1
+,W21037-9,SMH Cubao,SMHCU/Stock,1
+,W19217-16,SMH Cubao,SMHCU/Stock,1
+,W1981-16,SMH Cubao,SMHCU/Stock,1
+,122045-20G,SMH Cubao,SMHCU/Stock,1
+,W22120-12,SMH Cubao,SMHCU/Stock,2
+,924067-1,OH Megamall,OHMEG/Stock,1
+,924069-1,OH Megamall,OHMEG/Stock,3
+,924079-1,OH Megamall,OHMEG/Stock,1
+,1324052-10,OH North Edsa,OHNE/Stock,1
+,1324011-10,OH North Edsa,OHNE/Stock,2
+,1324050-7,SMH Mandurriao,SMHMD/Stock,1
+,W21359-8,SMH Mandurriao,SMHMD/Stock,2
+,D18135-19,SMH Mandurriao,SMHMD/Stock,2
+,D18136-20,SMH Mandurriao,SMHMD/Stock,1
+,D21032-8,SMH Mandurriao,SMHMD/Stock,1
+,D21033-8,SMH Mandurriao,SMHMD/Stock,1
+,924065-1,OH Clark,OHCLK/Stock,1
+,924067-1,OH Clark,OHCLK/Stock,1
+,924068-1,OH Clark,OHCLK/Stock,1
+,924069-1,OH Clark,OHCLK/Stock,11
+,1324010-20,OH Clark,OHCLK/Stock,1
+,123498-10,OH Baguio,OHBAG/Stock,1
+,1324053-7,OH Baguio,OHBAG/Stock,1
+,1324011-10,OH Baguio,OHBAG/Stock,1
+,924091-3,OH Urdaneta,OHURD/Stock,1
+,1323017-12,SMH Cebu,SMHCE/Stock,1
+,1323018-12,SMH Cebu,SMHCE/Stock,1
+,824009-11,OH Davao,OHDV/Stock,1
+,M1703-12,OH Davao,OHDV/Stock,1
+,1323017-12,SMH Davao,SMHDV/Stock,1
+,1323018-12,SMH Davao,SMHDV/Stock,1
+,D21060-7N,SMH Davao,SMHDV/Stock,3
+,D21062-7N,SMH Davao,SMHDV/Stock,1
+,W21034-9,SMH Makati,SMHMK/Stock,1
+,W21035-9,SMH Makati,SMHMK/Stock,1
+,W21037-9,SMH Makati,SMHMK/Stock,1
+,W21038-9,SMH Makati,SMHMK/Stock,2
+,W22035-25,SMH Davao,SMHDV/Stock,1
+,W22062-12,SMH Davao,SMHDV/Stock,1
+,123075-3,OH Sta. Rosa,OHSTR/Stock,1
+,W21363-8,OH Sta. Rosa,OHSTR/Stock,1
+,1324053-7,OH Batangas,OHBAT/Stock,2
+,1324009-7,OH Batangas,OHBAT/Stock,2
+,122026-13,OH Lucena,OHLUC/Stock,1
+,123464-8,SMH Lipa,SMHLI/Stock,1
+,123466-8,SMH Lipa,SMHLI/Stock,2
+,122019-8,SMH North Edsa,SMHNE/Stock,1
+,W22064-12,SMH Clark,SMHCL/Stock,1
+,1123127-1,OH Megamall,OHMEG/Stock,1
+,C22002-4,OH Lanang,OHLAN/Stock,1
+,123312-23,OH Lanang,OHLAN/Stock,1
+,1324011-10,OH Lanang,OHLAN/Stock,1
+,1324010-20,OH Lanang,OHLAN/Stock,1
+,924069-1,OH Dasma,OHDAS/Stock,1
+,924078-1,OH Dasma,OHDAS/Stock,3
+,924079-1,OH Dasma,OHDAS/Stock,2
+,123297-10,OH Dasma,OHDAS/Stock,1
+,123501-12,OH Urdaneta,OHURD/Stock,1
+,M21057-12,OH Urdaneta,OHURD/Stock,1
+,M1653-19,OH Urdaneta,OHURD/Stock,1
+,123501-12,OH Baguio,OHBAG/Stock,1
+,123298-10,OH Baguio,OHBAG/Stock,1
+,924067-1,OH Bacoor,OHBCR/Stock,3
+,924069-1,OH Bacoor,OHBCR/Stock,1
+,1123122-1L,OH North Edsa,OHNE/Stock,1
+,W22076-12,SMH Ortigas,SMHOR/Stock,2
+,1123122-1L,OH Fairview,OHFV/Stock,1
+,1123122-1M,OH Fairview,OHFV/Stock,1
+,924065-1,OH Fairview,OHFV/Stock,1
+,123298-10,OH Megamall,OHMEG/Stock,1
+,1123122-1L,OH Cabanatuan,OHCAB/Stock,1
+,123501-12,OH Clark,OHCLK/Stock,1
+,M1708-12,SMH Mall of Asia,SMHMO/Stock,2
+,923034-3,OH Sta. Rosa,OHSTR/Stock,1
+,123427-10,OH Sta. Rosa,OHSTR/Stock,1
+,1123122-1L,OH Sta. Rosa,OHSTR/Stock,1
+,1123122-1M,OH Sta. Rosa,OHSTR/Stock,1
+,123439-16,SMH Ortigas,SMHOR/Stock,1
+,923031-2,OH Batangas,OHBAT/Stock,1
+,M1909-35,OH Fairview,OHFV/Stock,2
+,M1640-18,SMH Pampanga,SMHPA/Stock,1
+,M1909-35,SMH Pampanga,SMHPA/Stock,1
+,W22066-12,SMH Pampanga,SMHPA/Stock,2
+,M1909-29,OH Pampanga,OHPAM/Stock,1
+,M1909-35,OH Pampanga,OHPAM/Stock,1
+,M1640-18,SMH Makati,SMHMK/Stock,1
+,M1909-35,SMH Makati,SMHMK/Stock,1
+,924065-1,OH Cebu,OHCEB/Stock,1
+,1324053-7,OH Cebu,OHCEB/Stock,1
+,1324011-10,OH Cebu,OHCEB/Stock,1
+,1324009-7,OH Cebu,OHCEB/Stock,1
+,M21057-12,OH Cebu,OHCEB/Stock,1
+,M1640-12,OH Cebu,OHCEB/Stock,1
+,123497-10,OH Cebu,OHCEB/Stock,1
+,D1923-13,OH Dasma,OHDAS/Stock,1
+,1123122-1L,OH Dasma,OHDAS/Stock,2
+,1123122-1M,OH Dasma,OHDAS/Stock,1
+,923031-2,OH Dasma,OHDAS/Stock,2
+,923033-3,OH Dasma,OHDAS/Stock,2
+,923034-3,OH Dasma,OHDAS/Stock,1
+,M1657-12,OH Dasma,OHDAS/Stock,1
+,M1909-35,OH Dasma,OHDAS/Stock,3
+,M1909-35,SMH Clark,SMHCL/Stock,1
+,M1625-12,OH Megamall,OHMEG/Stock,2
+,M1640-18,OH Megamall,OHMEG/Stock,1
+,M1640-18,SMH Ortigas,SMHOR/Stock,1
+,M1909-29,SMH North Edsa,SMHNE/Stock,2
+,M1909-35,SMH North Edsa,SMHNE/Stock,1
+,M1625-12,SMH Mall of Asia,SMHMO/Stock,2
+,M1537-24,SMH Mall of Asia,SMHMO/Stock,1
+,M1909-29,SMH Mall of Asia,SMHMO/Stock,3
+,M1909-35,SMH Mall of Asia,SMHMO/Stock,1
+,M1909-35,OH Bacoor,OHBCR/Stock,1
+,1123122-1L,OH Bacoor,OHBCR/Stock,1
+,1123122-1M,OH Bacoor,OHBCR/Stock,2
+,1324004-10,OH Sta. Rosa,OHSTR/Stock,2
+,1324060-10,OH Sta. Rosa,OHSTR/Stock,1
+,1324057-7,OH Sta. Rosa,OHSTR/Stock,2
+,1324019-7,OH Sta. Rosa,OHSTR/Stock,1
+,D16391-6,SMH Las Pinas,SMHLP/Stock,1
+,1175637-6NB-8,SMH Las Pinas,SMHLP/Stock,1
+,1175709-9,SMH Las Pinas,SMHLP/Stock,1
+,1324004-10,OH Baguio,OHBAG/Stock,1
+,1324057-7,OH Baguio,OHBAG/Stock,2
+,1324019-7,OH Baguio,OHBAG/Stock,2
+,1324019-7,OH Urdaneta,OHURD/Stock,1
+,M1952-18,OH Urdaneta,OHURD/Stock,1
+,W21359-8,SMH Pampanga,SMHPA/Stock,1
+,1322055-8,SMH Pampanga,SMHPA/Stock,1
+,D18141-8,SMH Lipa,SMHLI/Stock,1
+,924061-2,OH Megamall,OHMEG/Stock,1
+,123099-3,OH Bacolod,OHBCD/Stock,1
+,123262-10,OH Bacolod,OHBCD/Stock,2
+,M1536-34,SMH Davao,SMHDV/Stock,1
+,1324008-10,SMH Davao,SMHDV/Stock,1
+,1324176-8,SMH Mandurriao,SMHMD/Stock,1
+,M1625-19,SMH Mandurriao,SMHMD/Stock,1
+,M1952-18,SMH Mandurriao,SMHMD/Stock,1
+,924066-1,OH Megamall,OHMEG/Stock,2
+,123428-8,OH Megamall,OHMEG/Stock,2
+,M1909-35,SMH Ortigas,SMHOR/Stock,1
+,D20057-13,OH Mandurriao,OHMDR/Stock,1
+,M21029-29,SMH Mall of Asia,SMHMO/Stock,1
+,D18115-10,SMH North Edsa,SMHNE/Stock,1
+,123100-3,OH Clark,OHCLK/Stock,2
+,123262-10,OH Clark,OHCLK/Stock,1
+,1324004-10,OH Dasma,OHDAS/Stock,1
+,1324019-7,OH Dasma,OHDAS/Stock,2
+,M1536-34,OH Dasma,OHDAS/Stock,1
+,1324004-10,OH Fairview,OHFV/Stock,2
+,1324057-7,OH Fairview,OHFV/Stock,1
+,1324019-7,OH Fairview,OHFV/Stock,2
+,1324230-4,OH Batangas,OHBAT/Stock,1
+,1324231-4,OH Batangas,OHBAT/Stock,1
+,W21430-8,OH Batangas,OHBAT/Stock,2
+,924019-2,OH Lucena,OHLUC/Stock,1
+,1324230-4,OH Lucena,OHLUC/Stock,1
+,W21431-8,OH Lucena,OHLUC/Stock,1
+,W21363-8,OH Pampanga,OHPAM/Stock,2
+,1324057-7,OH Pampanga,OHPAM/Stock,2
+,1324019-7,OH Pampanga,OHPAM/Stock,1
+,1324215-4,OH Megamall,OHMEG/Stock,1
+,1324216-4,OH Megamall,OHMEG/Stock,1
+,M1657-12,OH Megamall,OHMEG/Stock,1
+,M1909-29,OH Megamall,OHMEG/Stock,1
+,W22122-12,SMH Ortigas,SMHOR/Stock,2
+,1322054-8,SMH Las Pinas,SMHLP/Stock,1
+,W22122-12,SMH Las Pinas,SMHLP/Stock,1
+,124024-10,SMH Mall of Asia,SMHMO/Stock,1
+,1324172-15,SMH Mall of Asia,SMHMO/Stock,2
+,124013-12,SMH Mall of Asia,SMHMO/Stock,2
+,M1653-12,OH Cabanatuan,OHCAB/Stock,1
+,M1657-12,OH Cabanatuan,OHCAB/Stock,1
+,M1537-24,OH Cabanatuan,OHCAB/Stock,1
+,M1909-29,OH Cabanatuan,OHCAB/Stock,1
+,M1909-35,OH Cabanatuan,OHCAB/Stock,1
+,1324217-4,OH Cabanatuan,OHCAB/Stock,1
+,123401-7,SMH Cubao,SMHCU/Stock,1
+,123402-7,SMH Cubao,SMHCU/Stock,1
+,123403-7,SMH Cubao,SMHCU/Stock,1
+,1324215-4,OH Sta. Rosa,OHSTR/Stock,1
+,W21430-8,OH Sta. Rosa,OHSTR/Stock,1
+,124013-12,SMH Clark,SMHCL/Stock,1
+,124031-15,SMH Clark,SMHCL/Stock,1
+,1324239-4,OH Mandurriao,OHMDR/Stock,1
+,M21029-29,OH Mandurriao,OHMDR/Stock,1
+,W19185-13,OH Mandurriao,OHMDR/Stock,1
+,1123143-1,OH Mandurriao,OHMDR/Stock,1
+,1123144-1,OH Mandurriao,OHMDR/Stock,1
+,M1653-12,SMH Cebu,SMHCE/Stock,1
+,M1909-29,SMH Cebu,SMHCE/Stock,1
+,1324166-10,SMH Cebu,SMHCE/Stock,1
+,W21738-12,OH North Edsa,OHNE/Stock,1
+,1322081-8,SMH North Edsa,SMHNE/Stock,2
+,W21687-8,OH Pampanga,OHPAM/Stock,1
+,W21690-12,OH Pampanga,OHPAM/Stock,2
+,W21738-12,OH Pampanga,OHPAM/Stock,2
+,122039-8,SMH Pampanga,SMHPA/Stock,1
+,1123141-1,OH Mall of Asia,OHMOA/Stock,1
+,1322071-8,OH Mall of Asia,OHMOA/Stock,1
+,123258-10,SMH Mall of Asia,SMHMO/Stock,1
+,123256-10,SMH Clark,SMHCL/Stock,2
+,123258-10,SMH Clark,SMHCL/Stock,2
+,122041-10,SMH Clark,SMHCL/Stock,1
+,124092-6,SMH Clark,SMHCL/Stock,1
+,1123142-1,OH Clark,OHCLK/Stock,1
+,1223068-2,OH Clark,OHCLK/Stock,1
+,123099-3,OH Clark,OHCLK/Stock,2
+,W21688-12,OH Dasma,OHDAS/Stock,1
+,123298-10,OH Dasma,OHDAS/Stock,1
+,1223101-3,OH Dasma,OHDAS/Stock,1
+,123256-10,SMH Davao,SMHDV/Stock,2
+,123280-11,SMH Davao,SMHDV/Stock,1
+,1336324-15,SMH Davao,SMHDV/Stock,1
+,W22122-12,SMH Mandurriao,SMHMD/Stock,1
+,W21360-8,SMH Mandurriao,SMHMD/Stock,1
+,W21720-12,OH Fairview,OHFV/Stock,1
+,W21738-12,OH Fairview,OHFV/Stock,1
+,1322083-8,SMH Pampanga,SMHPA/Stock,1
+,W21120-8,SMH Lipa,SMHLI/Stock,1
+,1223067-2,OH Megamall,OHMEG/Stock,1
+,D21023-10G,OH Megamall,OHMEG/Stock,2
+,124042-16,OH Megamall,OHMEG/Stock,2
+,123434-12,OH Megamall,OHMEG/Stock,1
+,W21682-12,OH Megamall,OHMEG/Stock,1
+,W21721-8,OH Megamall,OHMEG/Stock,1
+,W21686-8,OH Cabanatuan,OHCAB/Stock,1
+,W21738-12,OH Cabanatuan,OHCAB/Stock,1
+,W22031-25,SMH Ortigas,SMHOR/Stock,1
+,123281-19,SMH Ortigas,SMHOR/Stock,2
+,122041-10,SMH Ortigas,SMHOR/Stock,2
+,122037-8,SMH Ortigas,SMHOR/Stock,1
+,123280-11,SMH Ortigas,SMHOR/Stock,1
+,123283-11,SMH Ortigas,SMHOR/Stock,1
+,W22026-25 ,SMH Makati,SMHMK/Stock,1
+,123280-11,SMH Makati,SMHMK/Stock,2
+,W21694-12,SMH Makati,SMHMK/Stock,1
+,124026-10,SMH Makati,SMHMK/Stock,1
+,D21013-5N,SMH Makati,SMHMK/Stock,2
+,124031-15,SMH Makati,SMHMK/Stock,1
+,W22064-12,SMH Makati,SMHMK/Stock,1
+,W21721-8,OH Sta. Rosa,OHSTR/Stock,1
+,M1909-29,OH Sta. Rosa,OHSTR/Stock,1
+,124026-10,SMH Lipa,SMHLI/Stock,1
+,123401-7,SMH Lipa,SMHLI/Stock,1
+,123402-7,SMH Lipa,SMHLI/Stock,1
+,123434-12,OH Lucena,OHLUC/Stock,1
+,W21738-12,OH Lucena,OHLUC/Stock,2
+,1123142-1,OH Lucena,OHLUC/Stock,1
+,123434-12,OH Batangas,OHBAT/Stock,1
+,W21721-8,OH Batangas,OHBAT/Stock,1
+,W22026-25 ,SMH Mall of Asia,SMHMO/Stock,2
+,W22033-25,SMH Mall of Asia,SMHMO/Stock,1
+,W21355-8,SMH Mall of Asia,SMHMO/Stock,2
+,W21720-12,OH Urdaneta,OHURD/Stock,1
+,124042-16,OH Baguio,OHBAG/Stock,1
+,124042-16,OH Davao,OHDV/Stock,1
+,123377-3,OH Mall of Asia,OHMOA/Stock,1
+,123123-12,SMH Lipa,SMHLI/Stock,1
+,D18115-10,SMH Lipa,SMHLI/Stock,1
+,D18119-10,SMH Lipa,SMHLI/Stock,1
+,122023-4,OH Lucena,OHLUC/Stock,1
+,122027-13,OH Lucena,OHLUC/Stock,1
+,123376-3,OH Lucena,OHLUC/Stock,1
+,D21062-7N,SMH North Edsa,SMHNE/Stock,2
+,123471-8,SMH North Edsa,SMHNE/Stock,1
+,123308-12,OH Megamall,OHMEG/Stock,1
+,123309-12,OH Megamall,OHMEG/Stock,1
+,123372-17,OH Megamall,OHMEG/Stock,1
+,1324046-7,SMH Ortigas,SMHOR/Stock,2
+,W22026-25 ,SMH Ortigas,SMHOR/Stock,2
+,123378-3,OH Pampanga,OHPAM/Stock,1
+,123379-3,OH Pampanga,OHPAM/Stock,1
+,D21031-8,SMH Pampanga,SMHPA/Stock,1
+,122022-4,OH Bacolod,OHBCD/Stock,1
+,1223067-2,OH Bacolod,OHBCD/Stock,1
+,W21689-12,OH Bacolod,OHBCD/Stock,1
+,123093-4,OH Bacolod,OHBCD/Stock,1
+,W21430-8,OH Bacolod,OHBCD/Stock,1
+,W22062-12,OH Bacolod,OHBCD/Stock,2
+,W19185-13,OH Bacolod,OHBCD/Stock,2
+,123094-4,OH Bacolod,OHBCD/Stock,1
+,122022-4,OH Lanang,OHLAN/Stock,1
+,122023-4,OH Lanang,OHLAN/Stock,1
+,D20023-5,OH Lanang,OHLAN/Stock,1
+,D20024-5,OH Lanang,OHLAN/Stock,1
+,1324217-4,OH Lanang,OHLAN/Stock,1
+,122026-13,OH Fairview,OHFV/Stock,1
+,1324005-7,SMH Clark,SMHCL/Stock,2
+,1324046-7,SMH Clark,SMHCL/Stock,1
+,W22026-25 ,SMH Clark,SMHCL/Stock,2
+,123325-10,SMH Las Pinas,SMHLP/Stock,1
+,123326-10,SMH Las Pinas,SMHLP/Stock,1
+,D18119-10,SMH Las Pinas,SMHLP/Stock,1
+,122037-8,SMH Las Pinas,SMHLP/Stock,1
+,122038-8,SMH Las Pinas,SMHLP/Stock,2
+,123256-10,SMH Las Pinas,SMHLP/Stock,1
+,122023-4,OH Dasma,OHDAS/Stock,1
+,123455-6,SMH Cubao,SMHCU/Stock,1
+,123457-6,SMH Cubao,SMHCU/Stock,1
+,123470-8,SMH Cubao,SMHCU/Stock,1
+,122041-10,SMH Cubao,SMHCU/Stock,1
+,W22075-12,SMH Cubao,SMHCU/Stock,1
+,123123-12,SMH Makati,SMHMK/Stock,1
+,123124-7,SMH Makati,SMHMK/Stock,1
+,D18115-10,SMH Makati,SMHMK/Stock,1
+,123326-10,SMH Makati,SMHMK/Stock,1
+,M21058-19,SMH Makati,SMHMK/Stock,2
+,1322070-10,SMH Makati,SMHMK/Stock,1
+,1322081-8,SMH Makati,SMHMK/Stock,2
+,1324004-10,OH Lucena,OHLUC/Stock,1
+,1123039-1,OH Bacoor,OHBCR/Stock,1
+,1123040-1,OH Bacoor,OHBCR/Stock,2
+,124055-10,OH Bacoor,OHBCR/Stock,1
+,124046-10,OH Bacoor,OHBCR/Stock,1
+,124056-10,OH Bacoor,OHBCR/Stock,1
+,D21017-7,OH Bacoor,OHBCR/Stock,3
+,124048-10,OH Cabanatuan,OHCAB/Stock,1
+,123416-7,OH Cabanatuan,OHCAB/Stock,1
+,1324005-7,SMH Ortigas,SMHOR/Stock,1
+,1322081-8,SMH Ortigas,SMHOR/Stock,1
+,124055-10,OH Megamall,OHMEG/Stock,2
+,124057-10,OH Megamall,OHMEG/Stock,2
+,1324141-15,OH North Edsa,OHNE/Stock,1
+,1324143-15,OH North Edsa,OHNE/Stock,1
+,1324156-15,OH North Edsa,OHNE/Stock,1
+,124056-10,OH North Edsa,OHNE/Stock,1
+,1323051-13,SMH North Edsa,SMHNE/Stock,1
+,1323101-13,SMH North Edsa,SMHNE/Stock,1
+,123008-18,SMH North Edsa,SMHNE/Stock,1
+,W22064-12,SMH Cebu,SMHCE/Stock,1
+,W21694-12,SMH Cebu,SMHCE/Stock,1
+,122026-13,OH Davao,OHDV/Stock,1
+,122027-13,OH Davao,OHDV/Stock,1
+,122026-13,OH Mandurriao,OHMDR/Stock,1
+,122027-13,OH Mandurriao,OHMDR/Stock,1
+,1223056-1,OH Mandurriao,OHMDR/Stock,1
+,M1909-35,OH Mall of Asia,OHMOA/Stock,3
+,1323052-13,SMH Mall of Asia,SMHMO/Stock,1
+,123402-7,SMH Mall of Asia,SMHMO/Stock,1
+,124049-10,OH Clark,OHCLK/Stock,1
+,124056-10,OH Clark,OHCLK/Stock,1
+,124057-10,OH Clark,OHCLK/Stock,1
+,1324146-15,OH Clark,OHCLK/Stock,1
+,W21738-12,OH Megamall,OHMEG/Stock,1
+,W22122-12,SMH Cubao,SMHCU/Stock,2
+,1123039-1,OH Batangas,OHBAT/Stock,1
+,124049-10,OH Batangas,OHBAT/Stock,1
+,124056-10,OH Batangas,OHBAT/Stock,1
+,124055-10,OH Sta. Rosa,OHSTR/Stock,1
+,124088-10,OH Sta. Rosa,OHSTR/Stock,1
+,124049-10,OH Sta. Rosa,OHSTR/Stock,1
+,124056-10,OH Sta. Rosa,OHSTR/Stock,1
+,124057-10,OH Sta. Rosa,OHSTR/Stock,1
+,D21035-20G,OH Sta. Rosa,OHSTR/Stock,1
+,1324052-10,OH Lucena,OHLUC/Stock,1
+,124057-10,OH Lucena,OHLUC/Stock,1
+,1324141-15,OH Pampanga,OHPAM/Stock,1
+,123325-10,SMH Pampanga,SMHPA/Stock,1
+,W22076-12,SMH Pampanga,SMHPA/Stock,1
+,824007-5,SMH Pampanga,SMHPA/Stock,3
+,122040-8,SMH Pampanga,SMHPA/Stock,1
+,122041-10,SMH Pampanga,SMHPA/Stock,1
+,D18138-14,SMH Pampanga,SMHPA/Stock,1
+,124048-10,OH Urdaneta,OHURD/Stock,1
+,1123041-1,OH Urdaneta,OHURD/Stock,1
+,123093-4,OH Urdaneta,OHURD/Stock,1
+,123099-3,OH Urdaneta,OHURD/Stock,3
+,1324006-10,OH Fairview,OHFV/Stock,2
+,1324052-10,OH Fairview,OHFV/Stock,2
+,M1703-19,OH Fairview,OHFV/Stock,1
+,M21057-12,OH Baguio,OHBAG/Stock,2
+,D21062-7N,SMH Las Pinas,SMHLP/Stock,1
+,1322070-10,SMH Las Pinas,SMHLP/Stock,1
+,W21355-8,SMH Las Pinas,SMHLP/Stock,1
+,1323084-13,SMH Las Pinas,SMHLP/Stock,1
+,1324143-15,OH Dasma,OHDAS/Stock,1
+,1324156-15,OH Dasma,OHDAS/Stock,1
+,124049-10,OH Dasma,OHDAS/Stock,1
+,124056-10,OH Dasma,OHDAS/Stock,1
+,124057-10,OH Dasma,OHDAS/Stock,1
+,D21017-7,OH Dasma,OHDAS/Stock,1
+,123116-7,SMH Mandurriao,SMHMD/Stock,1
+,123118-7,SMH Mandurriao,SMHMD/Stock,2
+,123120-12,SMH Mandurriao,SMHMD/Stock,1
+,124085-12,SMH Mandurriao,SMHMD/Stock,2
+,123354-10,SMH Mandurriao,SMHMD/Stock,1
+,123356-10,SMH Mandurriao,SMHMD/Stock,1
+,123325-10,SMH Mandurriao,SMHMD/Stock,1
+,123326-10,SMH Mandurriao,SMHMD/Stock,1
+,124057-10,OH Mandurriao,OHMDR/Stock,1
+,D21017-7,OH Mandurriao,OHMDR/Stock,1
+,C22002-4,OH Mandurriao,OHMDR/Stock,1
+,1324141-15,OH Mandurriao,OHMDR/Stock,2
+,1324143-15,OH Mandurriao,OHMDR/Stock,2
+,1323107-13,OH Mandurriao,OHMDR/Stock,1
+,5011132-10,OH Mandurriao,OHMDR/Stock,1
+,502863-16,OH Mandurriao,OHMDR/Stock,1
+,1123050-1,OH Mandurriao,OHMDR/Stock,1
+,824037-13,OH Megamall,OHMEG/Stock,1
+,824052-31,OH North Edsa,OHNE/Stock,1
+,M1917-34,SMH Ortigas,SMHOR/Stock,1
+,123325-10,SMH Ortigas,SMHOR/Stock,1
+,123326-10,SMH Ortigas,SMHOR/Stock,1
+,123358-15,SMH North Edsa,SMHNE/Stock,1
+,D21061-12N,SMH North Edsa,SMHNE/Stock,1
+,1336325-15,SMH North Edsa,SMHNE/Stock,1
+,1322069-10,SMH North Edsa,SMHNE/Stock,1
+,824032-31,OH Bacolod,OHBCD/Stock,1
+,824052-31,OH Bacolod,OHBCD/Stock,2
+,124088-10,OH Bacolod,OHBCD/Stock,1
+,124046-10,OH Bacolod,OHBCD/Stock,1
+,1324141-15,OH Bacolod,OHBCD/Stock,1
+,824052-31,OH Mall of Asia,OHMOA/Stock,1
+,123093-4,OH Mall of Asia,OHMOA/Stock,1
+,M1917-34,SMH Mall of Asia,SMHMO/Stock,1
+,M1919-34,SMH Mall of Asia,SMHMO/Stock,1
+,123358-15,SMH Mall of Asia,SMHMO/Stock,1
+,123333-15,OH Bacoor,OHBCR/Stock,1
+,923033-3,OH Bacoor,OHBCR/Stock,1
+,923034-3,OH Bacoor,OHBCR/Stock,1
+,M1919-34,OH Bacoor,OHBCR/Stock,1
+,1323100-13,SMH North Edsa,SMHNE/Stock,1
+,824037-13,OH Cebu,OHCEB/Stock,1
+,824036-31,OH Cebu,OHCEB/Stock,1
+,824052-31,OH Cebu,OHCEB/Stock,1
+,123116-7,OH Cebu,OHCEB/Stock,1
+,123354-10,SMH Cebu,SMHCE/Stock,1
+,123411-12,SMH Cebu,SMHCE/Stock,1
+,D18138-14,SMH Davao,SMHDV/Stock,3
+,123499-10,SMH Davao,SMHDV/Stock,1
+,M1919-34,SMH Davao,SMHDV/Stock,1
+,123354-10,SMH Davao,SMHDV/Stock,2
+,123356-10,SMH Davao,SMHDV/Stock,2
+,123325-10,SMH Davao,SMHDV/Stock,1
+,123326-10,SMH Davao,SMHDV/Stock,1
+,122037-8,SMH Davao,SMHDV/Stock,1
+,122039-8,SMH Davao,SMHDV/Stock,2
+,122038-8,SMH Davao,SMHDV/Stock,1
+,D20046-10,OH Megamall,OHMEG/Stock,1
+,M1919-34,SMH Las Pinas,SMHLP/Stock,2
+,824037-13,SMH Las Pinas,SMHLP/Stock,1
+,824038-20,SMH Las Pinas,SMHLP/Stock,2
+,824031-27,SMH Las Pinas,SMHLP/Stock,1
+,824035-27,SMH Las Pinas,SMHLP/Stock,1
+,824036-31,OH Fairview,OHFV/Stock,1
+,824051-27,OH Fairview,OHFV/Stock,1
+,M1919-34,OH Fairview,OHFV/Stock,1
+,M1917-34,OH Fairview,OHFV/Stock,1
+,M21053-23,OH Fairview,OHFV/Stock,1
+,824052-31,OH Dasma,OHDAS/Stock,1
+,M1919-34,OH Dasma,OHDAS/Stock,1
+,123118-7,OH Davao,OHDV/Stock,1
+,124048-10,OH Davao,OHDV/Stock,1
+,1324141-15,OH Davao,OHDV/Stock,1
+,123118-7,OH Lanang,OHLAN/Stock,1
+,124088-10,OH Lanang,OHLAN/Stock,1
+,124046-10,OH Lanang,OHLAN/Stock,1
+,D21035-20G,OH Lanang,OHLAN/Stock,1
+,824038-20,OH Megamall,OHMEG/Stock,1
+,824031-27,OH Megamall,OHMEG/Stock,1
+,824035-27,OH Megamall,OHMEG/Stock,1
+,123500-10,SMH Clark,SMHCL/Stock,1
+,M1917-34,SMH Clark,SMHCL/Stock,1
+,123357-15,SMH Clark,SMHCL/Stock,2
+,123358-15,SMH Clark,SMHCL/Stock,1
+,824051-27,SMH Clark,SMHCL/Stock,1
+,824037-13,SMH Ortigas,SMHOR/Stock,3
+,824038-20,SMH Ortigas,SMHOR/Stock,1
+,824031-27,SMH Ortigas,SMHOR/Stock,1
+,824035-27,SMH Ortigas,SMHOR/Stock,1
+,824051-27,SMH Ortigas,SMHOR/Stock,2
+,1322069-10,SMH Ortigas,SMHOR/Stock,1
+,1322070-10,SMH Ortigas,SMHOR/Stock,3
+,123500-10,SMH Ortigas,SMHOR/Stock,1
+,824051-27,OH Pampanga,OHPAM/Stock,1
+,M1919-34,SMH Pampanga,SMHPA/Stock,2
+,123118-7,SMH Pampanga,SMHPA/Stock,1
+,123354-10,SMH Pampanga,SMHPA/Stock,2
+,123356-10,SMH Pampanga,SMHPA/Stock,2
+,824037-13,SMH Pampanga,SMHPA/Stock,2
+,824031-27,SMH Pampanga,SMHPA/Stock,1
+,824035-27,SMH Pampanga,SMHPA/Stock,1
+,824037-13,SMH Mall of Asia,SMHMO/Stock,2
+,824038-20,SMH Mall of Asia,SMHMO/Stock,1
+,824031-27,SMH Mall of Asia,SMHMO/Stock,2
+,824035-27,SMH Mall of Asia,SMHMO/Stock,1
+,824051-27,SMH Mall of Asia,SMHMO/Stock,2
+,124086-12,OH Urdaneta,OHURD/Stock,1
+,124011-12,OH Baguio,OHBAG/Stock,1
+,D18138-14,SMH Cubao,SMHCU/Stock,1
+,824032-31,SMH Makati,SMHMK/Stock,2
+,824036-31,SMH Makati,SMHMK/Stock,1
+,824052-31,SMH Makati,SMHMK/Stock,2
+,824037-13,SMH Makati,SMHMK/Stock,1
+,M21053-23,OH Sta. Rosa,OHSTR/Stock,1
+,824035-27,OH Sta. Rosa,OHSTR/Stock,1
+,824036-31,OH Sta. Rosa,OHSTR/Stock,1
+,824052-31,OH Sta. Rosa,OHSTR/Stock,1
+,1323109-13,SMH North Edsa,SMHNE/Stock,1
+,1323105-13,SMH North Edsa,SMHNE/Stock,1
+,123354-10,SMH Lipa,SMHLI/Stock,1
+,123356-10,SMH Lipa,SMHLI/Stock,1
+,D21061-12N,SMH Lipa,SMHLI/Stock,1
+,123416-7,SMH Lipa,SMHLI/Stock,1
+,123426-8,SMH Lipa,SMHLI/Stock,1
+,824052-31,OH Lucena,OHLUC/Stock,1
+,924011-3,OH Lucena,OHLUC/Stock,1
+,924090-5,OH Lucena,OHLUC/Stock,1
+,D20057-13,OH Lucena,OHLUC/Stock,1
+,824051-27,OH Cabanatuan,OHCAB/Stock,1
+,824052-31,OH Cabanatuan,OHCAB/Stock,1
+,W21690-12,OH Cabanatuan,OHCAB/Stock,1
+,C22002-4,OH Cabanatuan,OHCAB/Stock,1
+,W1915-8,SMH Mall of Asia,SMHMO/Stock,1
+,123297-10,OH North Edsa,OHNE/Stock,1
+,122022-4,OH North Edsa,OHNE/Stock,1
+,123416-7,OH North Edsa,OHNE/Stock,2
+,824035-27,OH North Edsa,OHNE/Stock,1
+,W21719-8,OH Batangas,OHBAT/Stock,1
+,M21057-12,OH Batangas,OHBAT/Stock,2
+,123118-7,OH Batangas,OHBAT/Stock,1
+,124086-12,OH Batangas,OHBAT/Stock,1
+,123427-10,OH Megamall,OHMEG/Stock,1
+,123336-20,OH Megamall,OHMEG/Stock,1
+,124048-10,OH Megamall,OHMEG/Stock,1
+,124049-10,OH Megamall,OHMEG/Stock,1
+,123118-7,OH Megamall,OHMEG/Stock,2
+,124010-12,OH Megamall,OHMEG/Stock,1
+,124086-12,OH Megamall,OHMEG/Stock,2
+,124031-15,SMH Ortigas,SMHOR/Stock,1
+,W22107-8,SMH Ortigas,SMHOR/Stock,2
+,123326-10,SMH Pampanga,SMHPA/Stock,1
+,123331-15,OH Pampanga,OHPAM/Stock,1
+,123118-7,OH Pampanga,OHPAM/Stock,1
+,824007-5,OH Pampanga,OHPAM/Stock,1
+,824009-11,OH Pampanga,OHPAM/Stock,2
+,824010-9,OH Pampanga,OHPAM/Stock,2
+,923009-3,OH Pampanga,OHPAM/Stock,2
+,122042-8,SMH North Edsa,SMHNE/Stock,1
+,123465-8,SMH North Edsa,SMHNE/Stock,1
+,824036-31,OH Clark,OHCLK/Stock,2
+,123507-4,OH Clark,OHCLK/Stock,1
+,123427-10,OH Clark,OHCLK/Stock,1
+,124095-10,OH Clark,OHCLK/Stock,2
+,123435-12,SMH Clark,SMHCL/Stock,1
+,124095-10,OH Megamall,OHMEG/Stock,2
+,123336-20,OH Urdaneta,OHURD/Stock,1
+,824035-27,OH Urdaneta,OHURD/Stock,1
+,824038-20,OH Urdaneta,OHURD/Stock,1
+,501869-14,OH Baguio,OHBAG/Stock,1
+,M1779-13,OH Baguio,OHBAG/Stock,1
+,824031-27,OH Baguio,OHBAG/Stock,1
+,1323080-13,SMH Ortigas,SMHOR/Stock,1
+,1323096-13,SMH Ortigas,SMHOR/Stock,1
+,1323069-13,SMH Ortigas,SMHOR/Stock,1
+,122038-8,SMH Mall of Asia,SMHMO/Stock,1
+,D21060-7N,SMH Mall of Asia,SMHMO/Stock,2
+,123427-10,OH Mall of Asia,OHMOA/Stock,1
+,122051-15,OH Mall of Asia,OHMOA/Stock,1
+,123333-15,OH Mall of Asia,OHMOA/Stock,1
+,124095-10,OH Mall of Asia,OHMOA/Stock,1
+,124032-15,OH Mall of Asia,OHMOA/Stock,1
+,123366-15,OH Mall of Asia,OHMOA/Stock,1
+,123364-15,SMH Mall of Asia,SMHMO/Stock,1
+,124158-10,OH Baguio,OHBAG/Stock,1
+,124159-10,OH Baguio,OHBAG/Stock,1
+,124166-12,OH Baguio,OHBAG/Stock,1
+,124148-8,OH Baguio,OHBAG/Stock,1
+,124149-8,OH Baguio,OHBAG/Stock,1
+,924053-2,OH Baguio,OHBAG/Stock,1
+,124158-10,OH Urdaneta,OHURD/Stock,1
+,124155-10,OH Megamall,OHMEG/Stock,1
+,124157-10,OH Megamall,OHMEG/Stock,1
+,124035-10,OH Megamall,OHMEG/Stock,2
+,124033-15,OH Megamall,OHMEG/Stock,2
+,124032-15,OH Megamall,OHMEG/Stock,1
+,123435-12,OH Cabanatuan,OHCAB/Stock,1
+,124162-8,SMH Las Pinas,SMHLP/Stock,2
+,1322069-10,SMH Las Pinas,SMHLP/Stock,1
+,D21060-7N,SMH Las Pinas,SMHLP/Stock,2
+,123466-8,SMH Las Pinas,SMHLP/Stock,1
+,124144-15,SMH Ortigas,SMHOR/Stock,1
+,124145-15,SMH Ortigas,SMHOR/Stock,1
+,122040-8,SMH Ortigas,SMHOR/Stock,2
+,122042-8,SMH Ortigas,SMHOR/Stock,3
+,D20098-13,SMH Ortigas,SMHOR/Stock,1
+,W22034-25,SMH Makati,SMHMK/Stock,2
+,123364-15,SMH Makati,SMHMK/Stock,2
+,123401-7,SMH Makati,SMHMK/Stock,1
+,123381-11,SMH Makati,SMHMK/Stock,1
+,5021127-10,SMH Makati,SMHMK/Stock,2
+,124165-8,SMH Makati,SMHMK/Stock,1
+,W22034-25,SMH Mall of Asia,SMHMO/Stock,2
+,123336-20,OH Bacoor,OHBCR/Stock,1
+,124033-15,OH Bacoor,OHBCR/Stock,1
+,124032-15,OH Bacoor,OHBCR/Stock,1
+,124166-12,OH Bacoor,OHBCR/Stock,1
+,W21720-12,OH Lucena,OHLUC/Stock,1
+,W21721-8,OH Lucena,OHLUC/Stock,1
+,123336-20,OH Lucena,OHLUC/Stock,1
+,124148-8,OH Lucena,OHLUC/Stock,1
+,124149-8,OH Lucena,OHLUC/Stock,1
+,124158-10,OH Lucena,OHLUC/Stock,1
+,123117-12,OH Bacolod,OHBCD/Stock,1
+,924045-2,OH Bacolod,OHBCD/Stock,1
+,924019-2,OH Bacolod,OHBCD/Stock,1
+,123414-7,SMH Lipa,SMHLI/Stock,1
+,123193-8,SMH Lipa,SMHLI/Stock,1
+,124162-8,SMH Lipa,SMHLI/Stock,2
+,124165-8,SMH Lipa,SMHLI/Stock,1
+,124155-10,OH Batangas,OHBAT/Stock,1
+,124161-10,OH Batangas,OHBAT/Stock,1
+,924019-2,OH Batangas,OHBAT/Stock,1
+,924045-2,OH Batangas,OHBAT/Stock,1
+,924053-2,OH Batangas,OHBAT/Stock,1
+,924020-2,OH Batangas,OHBAT/Stock,1
+,124158-10,OH Batangas,OHBAT/Stock,1
+,124159-10,OH Batangas,OHBAT/Stock,1
+,123331-15,OH Batangas,OHBAT/Stock,1
+,123336-20,OH Batangas,OHBAT/Stock,1
+,124139-15,OH Batangas,OHBAT/Stock,1
+,124140-15,OH Batangas,OHBAT/Stock,1
+,124149-8,OH Batangas,OHBAT/Stock,1
+,124165-8,SMH Cubao,SMHCU/Stock,1
+,123354-10,SMH Cubao,SMHCU/Stock,1
+,123356-10,SMH Cubao,SMHCU/Stock,1
+,M1917-34,SMH Cubao,SMHCU/Stock,1
+,M1919-34,SMH Cubao,SMHCU/Stock,2
+,124144-15,SMH Cubao,SMHCU/Stock,1
+,124145-15,SMH Cubao,SMHCU/Stock,1
+,1322083-8,SMH Cubao,SMHCU/Stock,1
+,1322103-13,SMH Cubao,SMHCU/Stock,1
+,1322104-13,SMH Cubao,SMHCU/Stock,1
+,123414-7,SMH Cubao,SMHCU/Stock,1
+,123426-8,SMH Cubao,SMHCU/Stock,1
+,1322081-8,SMH Las Pinas,SMHLP/Stock,1
+,123428-8,SMH Las Pinas,SMHLP/Stock,1
+,W21692-12,SMH Las Pinas,SMHLP/Stock,1
+,124035-10,OH North Edsa,OHNE/Stock,1
+,124033-15,OH North Edsa,OHNE/Stock,1
+,124158-10,OH North Edsa,OHNE/Stock,1
+,W21720-12,OH North Edsa,OHNE/Stock,1
+,1324083-12,OH North Edsa,OHNE/Stock,1
+,123262-10,OH North Edsa,OHNE/Stock,1
+,124144-15,SMH North Edsa,SMHNE/Stock,1
+,123363-15,SMH North Edsa,SMHNE/Stock,2
+,123364-15,SMH North Edsa,SMHNE/Stock,2
+,1322083-8,SMH North Edsa,SMHNE/Stock,2
+,D1969-10,SMH North Edsa,SMHNE/Stock,1
+,123354-10,SMH North Edsa,SMHNE/Stock,1
+,123356-10,SMH North Edsa,SMHNE/Stock,1
+,123331-15,OH Fairview,OHFV/Stock,1
+,124032-15,OH Fairview,OHFV/Stock,1
+,124149-8,OH Fairview,OHFV/Stock,1
+,W21690-12,OH Fairview,OHFV/Stock,1
+,123098-3,OH Cabanatuan,OHCAB/Stock,1
+,824031-27,OH Cabanatuan,OHCAB/Stock,1
+,124168-15,OH Cabanatuan,OHCAB/Stock,1
+,124035-10,OH Clark,OHCLK/Stock,1
+,124166-12,OH Clark,OHCLK/Stock,1
+,124155-10,OH Clark,OHCLK/Stock,1
+,124157-10,OH Clark,OHCLK/Stock,1
+,124161-10,OH Clark,OHCLK/Stock,1
+,W21720-12,OH Clark,OHCLK/Stock,1
+,1324083-12,OH Clark,OHCLK/Stock,1
+,124055-10,OH Clark,OHCLK/Stock,1
+,W21683-8,OH Megamall,OHMEG/Stock,1
+,124035-10,OH Pampanga,OHPAM/Stock,1
+,124032-15,OH Pampanga,OHPAM/Stock,1
+,124149-8,OH Pampanga,OHPAM/Stock,1
+,124158-10,OH Pampanga,OHPAM/Stock,1
+,W22030-25,SMH Clark,SMHCL/Stock,1
+,1322070-10,SMH Clark,SMHCL/Stock,1
+,124143-15,SMH Clark,SMHCL/Stock,1
+,124144-15,SMH Clark,SMHCL/Stock,1
+,124145-15,SMH Clark,SMHCL/Stock,1
+,123363-15,SMH Clark,SMHCL/Stock,1
+,123364-15,SMH Clark,SMHCL/Stock,1
+,124026-10,SMH Ortigas,SMHOR/Stock,4
+,1322082-8,SMH Ortigas,SMHOR/Stock,1
+,M1707-12,SMH Ortigas,SMHOR/Stock,3
+,123284-19,SMH Ortigas,SMHOR/Stock,2
+,124143-15,SMH Pampanga,SMHPA/Stock,1
+,124144-15,SMH Pampanga,SMHPA/Stock,1
+,124145-15,SMH Pampanga,SMHPA/Stock,1
+,124024-10,SMH Pampanga,SMHPA/Stock,1
+,1323108-13,OH Bacolod,OHBCD/Stock,1
+,924007-3,OH Bacolod,OHBCD/Stock,1
+,824038-20,OH Mandurriao,OHMDR/Stock,3
+,824031-27,OH Mandurriao,OHMDR/Stock,2
+,824035-27,OH Mandurriao,OHMDR/Stock,3
+,824051-27,OH Mandurriao,OHMDR/Stock,3
+,123331-15,OH Mandurriao,OHMDR/Stock,1
+,1123122-1L,OH Davao,OHDV/Stock,1
+,124161-10,OH Davao,OHDV/Stock,1
+,D1949-7G,SMH Ortigas,SMHOR/Stock,1
+,1322090-9,SMH Ortigas,SMHOR/Stock,1
+,1324047-7,SMH Ortigas,SMHOR/Stock,1
+,1324048-7,SMH Ortigas,SMHOR/Stock,2
+,124013-12,SMH Ortigas,SMHOR/Stock,2
+,124143-15,SMH Makati,SMHMK/Stock,1
+,124163-8,SMH Makati,SMHMK/Stock,1
+,M1657-12,SMH Makati,SMHMK/Stock,1
+,123003-18,SMH Makati,SMHMK/Stock,1
+,1324172-15,SMH Makati,SMHMK/Stock,1
+,124024-10,SMH Makati,SMHMK/Stock,1
+,M1653-12,SMH Cubao,SMHCU/Stock,1
+,123391-5,SMH Cubao,SMHCU/Stock,1
+,124102-4,SMH Cubao,SMHCU/Stock,1
+,124103-4,SMH Cubao,SMHCU/Stock,1
+,124124-8,SMH Cubao,SMHCU/Stock,1
+,124013-12,SMH Cubao,SMHCU/Stock,1
+,124016-12,SMH Cubao,SMHCU/Stock,1
+,1324175-15,SMH Cubao,SMHCU/Stock,1
+,824035-27,OH Clark,OHCLK/Stock,1
+,123416-7,OH Clark,OHCLK/Stock,1
+,123434-12,OH Clark,OHCLK/Stock,1
+,123333-15,OH Clark,OHCLK/Stock,1
+,124156-10,OH Clark,OHCLK/Stock,2
+,824061-6,OH Mall of Asia,OHMOA/Stock,2
+,W1921-8,SMH Mall of Asia,SMHMO/Stock,1
+,124129-10,SMH Mall of Asia,SMHMO/Stock,1
+,124016-12,SMH Mall of Asia,SMHMO/Stock,2
+,124026-10,SMH Mall of Asia,SMHMO/Stock,2
+,825001-34,OH Megamall,OHMEG/Stock,1
+,1324316-8,OH Megamall,OHMEG/Stock,1
+,1324317-8,OH Megamall,OHMEG/Stock,1
+,825006-12,SMH Makati,SMHMK/Stock,3
+,825007-19,SMH Makati,SMHMK/Stock,2
+,123368-15,SMH Makati,SMHMK/Stock,2
+,124148-8,OH Sta. Rosa,OHSTR/Stock,1
+,124149-8,OH Sta. Rosa,OHSTR/Stock,1
+,W21683-8,OH Sta. Rosa,OHSTR/Stock,1
+,824032-31,OH Sta. Rosa,OHSTR/Stock,1
+,824051-27,OH Sta. Rosa,OHSTR/Stock,1
+,124158-10,OH Sta. Rosa,OHSTR/Stock,1
+,124166-12,OH Sta. Rosa,OHSTR/Stock,1
+,124168-15,OH Sta. Rosa,OHSTR/Stock,1
+,124156-10,OH Baguio,OHBAG/Stock,1
+,524011-6,OH Baguio,OHBAG/Stock,1
+,124112-4,OH Urdaneta,OHURD/Stock,1
+,124114-4,OH Urdaneta,OHURD/Stock,1
+,124120-8,OH Urdaneta,OHURD/Stock,1
+,1223052-1,OH Urdaneta,OHURD/Stock,1
+,124160-10,OH Urdaneta,OHURD/Stock,1
+,124161-10,OH Urdaneta,OHURD/Stock,1
+,124120-8,OH Bacoor,OHBCR/Stock,1
+,824036-31,OH Bacoor,OHBCR/Stock,1
+,824061-6,OH Bacoor,OHBCR/Stock,1
+,824006-5,OH Bacoor,OHBCR/Stock,1
+,824009-11,OH Bacoor,OHBCR/Stock,1
+,M21022-10,OH Bacoor,OHBCR/Stock,1
+,M21023-9,OH Bacoor,OHBCR/Stock,1
+,124112-4,OH Batangas,OHBAT/Stock,1
+,124114-4,OH Batangas,OHBAT/Stock,1
+,824031-27,OH Batangas,OHBAT/Stock,1
+,1123122-1M,OH Batangas,OHBAT/Stock,2
+,1322082-8,SMH Lipa,SMHLI/Stock,1
+,1322103-13,SMH Lipa,SMHLI/Stock,1
+,1322026-9,SMH Lipa,SMHLI/Stock,1
+,1324273-8,SMH Lipa,SMHLI/Stock,1
+,1324169-8,SMH Lipa,SMHLI/Stock,2
+,824035-27,OH Baguio,OHBAG/Stock,1
+,1123122-1M,OH Baguio,OHBAG/Stock,2
+,923033-3,OH Baguio,OHBAG/Stock,1
+,824036-31,OH Mall of Asia,OHMOA/Stock,1
+,124140-15,OH Mandurriao,OHMDR/Stock,1
+,W21720-12,OH Mandurriao,OHMDR/Stock,1
+,W21721-8,OH Mandurriao,OHMDR/Stock,1
+,123262-10,OH Mandurriao,OHMDR/Stock,2
+,124155-10,OH Mandurriao,OHMDR/Stock,1
+,124157-10,OH Mandurriao,OHMDR/Stock,1
+,124158-10,OH Mandurriao,OHMDR/Stock,1
+,124161-10,OH Bacolod,OHBCD/Stock,1
+,124156-10,OH Bacolod,OHBCD/Stock,1
+,124148-8,OH Bacolod,OHBCD/Stock,1
+,124149-8,OH Bacolod,OHBCD/Stock,1
+,124160-10,OH Bacolod,OHBCD/Stock,1
+,1324047-7,SMH Mandurriao,SMHMD/Stock,1
+,1324048-7,SMH Mandurriao,SMHMD/Stock,1
+,124162-8,SMH Mandurriao,SMHMD/Stock,1
+,123331-15,OH Lanang,OHLAN/Stock,1
+,123336-20,OH Lanang,OHLAN/Stock,1
+,124158-10,OH Lanang,OHLAN/Stock,1
+,124159-10,OH Lanang,OHLAN/Stock,1
+,123331-15,OH Dasma,OHDAS/Stock,1
+,123336-20,OH Dasma,OHDAS/Stock,1
+,123118-7,OH Dasma,OHDAS/Stock,1
+,W21683-8,OH Dasma,OHDAS/Stock,1
+,124158-10,OH Dasma,OHDAS/Stock,1
+,124159-10,OH Dasma,OHDAS/Stock,1
+,W21431-8,OH Dasma,OHDAS/Stock,1
+,124120-8,OH Dasma,OHDAS/Stock,1
+,1324310-8,OH Dasma,OHDAS/Stock,1
+,1324311-8,OH Dasma,OHDAS/Stock,1
+,1324316-8,OH Dasma,OHDAS/Stock,1
+,1324317-8,OH Dasma,OHDAS/Stock,1
+,124013-12,SMH North Edsa,SMHNE/Stock,2
+,124016-12,SMH North Edsa,SMHNE/Stock,1
+,W21692-12,SMH North Edsa,SMHNE/Stock,2
+,W22026-25 ,SMH North Edsa,SMHNE/Stock,1
+,122037-8,SMH North Edsa,SMHNE/Stock,1
+,W21430-8,OH Cabanatuan,OHCAB/Stock,2
+,123427-10,OH Cabanatuan,OHCAB/Stock,1
+,123331-15,OH Cabanatuan,OHCAB/Stock,1
+,123336-20,OH Cabanatuan,OHCAB/Stock,1
+,122052-15,OH Cabanatuan,OHCAB/Stock,1
+,123093-3,OH Cabanatuan,OHCAB/Stock,1
+,D1971-10,OH Cabanatuan,OHCAB/Stock,1
+,124148-8,OH Cabanatuan,OHCAB/Stock,1
+,124149-8,OH Cabanatuan,OHCAB/Stock,1
+,824032-31,OH Cabanatuan,OHCAB/Stock,1
+,123263-10,OH Cabanatuan,OHCAB/Stock,1
+,122027-13,OH Cabanatuan,OHCAB/Stock,1
+,124114-4,OH Lucena,OHLUC/Stock,1
+,124177-6,OH Lucena,OHLUC/Stock,1
+,124178-8,OH Lucena,OHLUC/Stock,1
+,124179-6,OH Lucena,OHLUC/Stock,1
+,124156-10,OH Lucena,OHLUC/Stock,1
+,124120-8,OH Fairview,OHFV/Stock,1
+,W21363-8,OH Fairview,OHFV/Stock,1
+,W21430-8,OH Fairview,OHFV/Stock,3
+,1324270-8,SMH Pampanga,SMHPA/Stock,1
+,1324271-8,SMH Pampanga,SMHPA/Stock,1
+,124102-4,SMH Pampanga,SMHPA/Stock,1
+,124103-4,SMH Pampanga,SMHPA/Stock,1
+,124123-8,SMH Pampanga,SMHPA/Stock,1
+,1324175-15,SMH Pampanga,SMHPA/Stock,1
+,124013-12,SMH Pampanga,SMHPA/Stock,1
+,824036-31,SMH Pampanga,SMHPA/Stock,1
+,W21363-8,OH Megamall,OHMEG/Stock,2
+,124158-10,OH Megamall,OHMEG/Stock,1
+,124159-10,OH Megamall,OHMEG/Stock,1
+,124166-12,OH Megamall,OHMEG/Stock,1
+,124168-15,OH Megamall,OHMEG/Stock,1
+,124148-8,OH Megamall,OHMEG/Stock,1
+,1324272-8,SMH Ortigas,SMHOR/Stock,1
+,1324273-8,SMH Ortigas,SMHOR/Stock,2
+,1324274-8,SMH Ortigas,SMHOR/Stock,2
+,124096-8,SMH Ortigas,SMHOR/Stock,1
+,123434-12,SMH Ortigas,SMHOR/Stock,1
+,124102-4,SMH Ortigas,SMHOR/Stock,1
+,124103-4,SMH Ortigas,SMHOR/Stock,1
+,825003-24,SMH Makati,SMHMK/Stock,1
+,M1653-12,SMH Makati,SMHMK/Stock,1
+,824029-13,SMH Makati,SMHMK/Stock,1
+,824033-13,SMH Makati,SMHMK/Stock,1
+,824045-13,SMH Makati,SMHMK/Stock,1
+,824046-20,SMH Makati,SMHMK/Stock,1
+,824049-13,SMH Makati,SMHMK/Stock,1
+,824050-20,SMH Makati,SMHMK/Stock,2
+,1324317-8,OH Cebu,OHCEB/Stock,1
+,W21686-8,OH Cebu,OHCEB/Stock,1
+,W21688-12,OH Cebu,OHCEB/Stock,1
+,W21720-12,OH Cebu,OHCEB/Stock,1
+,824032-31,OH Cebu,OHCEB/Stock,2
+,824029-13,OH Cebu,OHCEB/Stock,1
+,824033-13,OH Cebu,OHCEB/Stock,1
+,824049-13,OH Cebu,OHCEB/Stock,1
+,825003-24,OH Cebu,OHCEB/Stock,1
+,W21361-8,OH Cebu,OHCEB/Stock,2
+,W21362-8,OH Cebu,OHCEB/Stock,2
+,1324270-8,SMH Cebu,SMHCE/Stock,1
+,1324271-8,SMH Cebu,SMHCE/Stock,1
+,1324272-8,SMH Cebu,SMHCE/Stock,1
+,1324274-8,SMH Cebu,SMHCE/Stock,2
+,124153-10,SMH Cebu,SMHCE/Stock,1
+,124154-10,SMH Cebu,SMHCE/Stock,2
+,124016-12,SMH Cebu,SMHCE/Stock,1
+,124024-10,SMH Cebu,SMHCE/Stock,1
+,1322082-8,SMH Cebu,SMHCE/Stock,2
+,124144-15,SMH Cebu,SMHCE/Stock,1
+,124165-8,SMH Cebu,SMHCE/Stock,1
+,1324047-7,SMH Cebu,SMHCE/Stock,2
+,1324048-7,SMH Cebu,SMHCE/Stock,1
+,123364-15,SMH Cebu,SMHCE/Stock,1
+,824030-20,OH Lanang,OHLAN/Stock,1
+,824033-13,OH Lanang,OHLAN/Stock,1
+,824034-20,OH Lanang,OHLAN/Stock,1
+,824045-13,OH Lanang,OHLAN/Stock,1
+,824046-20,OH Lanang,OHLAN/Stock,1
+,824049-13,OH Lanang,OHLAN/Stock,1
+,825003-24,OH Lanang,OHLAN/Stock,1
+,M1640-18,OH Lanang,OHLAN/Stock,2
+,W21363-8,OH Lanang,OHLAN/Stock,2
+,125002-4,OH Lanang,OHLAN/Stock,1
+,1324215-4,OH Lanang,OHLAN/Stock,1
+,1324222-4,OH Lanang,OHLAN/Stock,1
+,1324230-4,OH Lanang,OHLAN/Stock,2
+,824030-20,SMH Clark,SMHCL/Stock,1
+,824046-20,SMH Clark,SMHCL/Stock,1
+,M1536-34,SMH Clark,SMHCL/Stock,1
+,M1625-12,SMH Clark,SMHCL/Stock,2
+,824045-13,OH Clark,OHCLK/Stock,1
+,M1653-12,OH Clark,OHCLK/Stock,1
+,M1657-12,OH Clark,OHCLK/Stock,1
+,824042-20,OH Megamall,OHMEG/Stock,2
+,824034-20,OH Megamall,OHMEG/Stock,1
+,824045-13,OH Megamall,OHMEG/Stock,1
+,824049-13,OH Megamall,OHMEG/Stock,2
+,824050-20,OH Megamall,OHMEG/Stock,1
+,M1653-12,OH Megamall,OHMEG/Stock,1
+,824045-13,OH Mall of Asia,OHMOA/Stock,1
+,M1640-18,OH Mall of Asia,OHMOA/Stock,1
+,1324216-4,OH Mall of Asia,OHMOA/Stock,1
+,824033-13,OH North Edsa,OHNE/Stock,1
+,824049-13,OH North Edsa,OHNE/Stock,1
+,M1653-12,OH North Edsa,OHNE/Stock,2
+,1324217-4,OH North Edsa,OHNE/Stock,2
+,1324231-4,OH North Edsa,OHNE/Stock,1
+,824029-13,SMH Mall of Asia,SMHMO/Stock,1
+,824033-13,SMH Mall of Asia,SMHMO/Stock,1
+,824046-20,SMH Mall of Asia,SMHMO/Stock,2
+,824049-13,SMH Mall of Asia,SMHMO/Stock,2
+,824050-20,SMH Mall of Asia,SMHMO/Stock,2
+,M1536-34,SMH Mall of Asia,SMHMO/Stock,2
+,1324155-15,SMH Mall of Asia,SMHMO/Stock,1
+,124153-10,SMH Mall of Asia,SMHMO/Stock,1
+,124154-10,SMH Mall of Asia,SMHMO/Stock,2
+,123368-15,SMH Mall of Asia,SMHMO/Stock,1
+,1324273-8,SMH Mall of Asia,SMHMO/Stock,1
+,W19185-13,SMH Mall of Asia,SMHMO/Stock,2
+,824045-13,SMH North Edsa,SMHNE/Stock,2
+,824049-13,SMH North Edsa,SMHNE/Stock,1
+,824050-20,SMH North Edsa,SMHNE/Stock,1
+,M1625-12,SMH North Edsa,SMHNE/Stock,1
+,123368-15,SMH North Edsa,SMHNE/Stock,2
+,1324047-7,SMH North Edsa,SMHNE/Stock,1
+,123123-12,SMH North Edsa,SMHNE/Stock,1
+,123124-7,SMH North Edsa,SMHNE/Stock,1
+,1324038-4,SMH North Edsa,SMHNE/Stock,1
+,124096-8,SMH North Edsa,SMHNE/Stock,1
+,W15183-9,,ORTBS/Stock,1
+,824042-20,OH Baguio,OHBAG/Stock,1
+,824030-20,OH Baguio,OHBAG/Stock,1
+,824034-20,OH Baguio,OHBAG/Stock,1
+,824046-20,OH Baguio,OHBAG/Stock,1
+,825003-24,OH Baguio,OHBAG/Stock,1
+,M1625-19,OH Baguio,OHBAG/Stock,1
+,M1640-18,OH Baguio,OHBAG/Stock,2
+,M1909-29,OH Baguio,OHBAG/Stock,1
+,1324230-4,OH Baguio,OHBAG/Stock,1
+,W21430-8,OH Baguio,OHBAG/Stock,2
+,W21431-8,OH Baguio,OHBAG/Stock,2
+,824029-13,OH Urdaneta,OHURD/Stock,1
+,824030-20,OH Urdaneta,OHURD/Stock,1
+,824033-13,OH Urdaneta,OHURD/Stock,1
+,824046-20,OH Urdaneta,OHURD/Stock,1
+,824049-13,OH Urdaneta,OHURD/Stock,1
+,M1625-12,OH Urdaneta,OHURD/Stock,1
+,M1909-29,OH Urdaneta,OHURD/Stock,1
+,W21430-8,OH Urdaneta,OHURD/Stock,1
+,1324193-10,OH Clark,OHCLK/Stock,1
+,824041-13,OH Mandurriao,OHMDR/Stock,1
+,824045-13,OH Mandurriao,OHMDR/Stock,1
+,824046-20,OH Mandurriao,OHMDR/Stock,1
+,824050-20,OH Mandurriao,OHMDR/Stock,1
+,825003-24,OH Mandurriao,OHMDR/Stock,1
+,M1653-12,OH Mandurriao,OHMDR/Stock,1
+,M1657-12,OH Mandurriao,OHMDR/Stock,2
+,M1909-29,OH Mandurriao,OHMDR/Stock,2
+,124156-10,OH Pampanga,OHPAM/Stock,1
+,824041-13,OH Batangas,OHBAT/Stock,1
+,824042-20,OH Batangas,OHBAT/Stock,2
+,824030-20,OH Batangas,OHBAT/Stock,1
+,824034-20,OH Batangas,OHBAT/Stock,1
+,824045-13,OH Batangas,OHBAT/Stock,2
+,824046-20,OH Batangas,OHBAT/Stock,1
+,824049-13,OH Batangas,OHBAT/Stock,2
+,M1653-12,OH Batangas,OHBAT/Stock,1
+,M1640-18,OH Batangas,OHBAT/Stock,1
+,1324216-4,OH Batangas,OHBAT/Stock,1
+,1324222-4,OH Batangas,OHBAT/Stock,2
+,1324223-4,OH Batangas,OHBAT/Stock,2
+,W21362-8,OH Batangas,OHBAT/Stock,1
+,W21431-8,OH Batangas,OHBAT/Stock,2
+,M1536-34,OH Lucena,OHLUC/Stock,1
+,M1909-29,OH Lucena,OHLUC/Stock,1
+,1324231-4,OH Lucena,OHLUC/Stock,1
+,1324192-8,OH Lucena,OHLUC/Stock,1
+,1324194-8,OH Lucena,OHLUC/Stock,2
+,125002-4,OH Lucena,OHLUC/Stock,1
+,1324272-8,SMH Lipa,SMHLI/Stock,1
+,D20014-8,SMH Lipa,SMHLI/Stock,1
+,D20012-8,SMH Lipa,SMHLI/Stock,1
+,123179-10,SMH Lipa,SMHLI/Stock,1
+,M1724-12,SMH Lipa,SMHLI/Stock,1
+,1324047-7,SMH Lipa,SMHLI/Stock,1
+,124165-8,SMH Pampanga,SMHPA/Stock,1
+,M1657-12,OH Bacoor,OHBCR/Stock,1
+,1322072-8,OH Urdaneta,OHURD/Stock,1
+,M1653-12,OH Sta. Rosa,OHSTR/Stock,1
+,824030-20,OH Sta. Rosa,OHSTR/Stock,2
+,824034-20,OH Sta. Rosa,OHSTR/Stock,1
+,824050-20,OH Sta. Rosa,OHSTR/Stock,1
+,M1625-19,OH Sta. Rosa,OHSTR/Stock,1
+,1324216-4,OH Sta. Rosa,OHSTR/Stock,1
+,1324231-4,OH Sta. Rosa,OHSTR/Stock,2
+,1324194-8,OH Sta. Rosa,OHSTR/Stock,1
+,125002-4,OH Sta. Rosa,OHSTR/Stock,1
+,M21057-12,SMH Cubao,SMHCU/Stock,1
+,123297-10,OH Megamall,OHMEG/Stock,1
+,M1707-12,OH Megamall,OHMEG/Stock,1
+,C1830-5,OH Megamall,OHMEG/Stock,1
+,1324273-8,SMH Makati,SMHMK/Stock,2
+,1324274-8,SMH Makati,SMHMK/Stock,1
+,1324155-15,SMH Makati,SMHMK/Stock,1
+,124096-8,SMH Makati,SMHMK/Stock,1
+,124144-15,SMH Makati,SMHMK/Stock,2
+,124013-12,SMH Makati,SMHMK/Stock,2
+,824011-11,SMH Makati,SMHMK/Stock,3
+,1322082-8,SMH Makati,SMHMK/Stock,1
+,1324175-15,SMH Makati,SMHMK/Stock,2
+,1323035-8,SMH Lipa,SMHLI/Stock,1
+,1323036-8,SMH Lipa,SMHLI/Stock,1
+,124102-4,SMH Lipa,SMHLI/Stock,1
+,123437-16,SMH Lipa,SMHLI/Stock,1
+,123370-6,SMH Lipa,SMHLI/Stock,1
+,1323062-13,SMH Lipa,SMHLI/Stock,1
+,1323064-13,SMH Lipa,SMHLI/Stock,1
+,1323037-8,SMH Pampanga,SMHPA/Stock,1
+,M1541-29,OH Mandurriao,OHMDR/Stock,1
+,825003-24,SMH Ortigas,SMHOR/Stock,3
+,M1625-19,SMH Ortigas,SMHOR/Stock,2
+,824042-20,SMH Ortigas,SMHOR/Stock,1
+,824030-20,SMH Ortigas,SMHOR/Stock,2
+,824045-13,SMH Ortigas,SMHOR/Stock,2
+,824046-20,SMH Ortigas,SMHOR/Stock,2
+,824049-13,SMH Ortigas,SMHOR/Stock,1
+,824050-20,SMH Ortigas,SMHOR/Stock,2
+,D1968-6,SMH Ortigas,SMHOR/Stock,1
+,123455-6,SMH Ortigas,SMHOR/Stock,1
+,123457-6,SMH Ortigas,SMHOR/Stock,1
+,124163-8,SMH Ortigas,SMHOR/Stock,2
+,0371187-10,,ORTBS/Stock,1
+,0523683-3,,ORTBS/Stock,1
+,RD16390-6,,ORTBS/Stock,3
+,1324039-4,,ORTBS/Stock,1
+,W1922-8,,ORTBS/Stock,1
+,D17142-6,,ORTBS/Stock,1
+,0383224-6ND,,ORTBS/Stock,2
+,W1918-8,,ORTBS/Stock,1
+,W1920-8,,ORTBS/Stock,1
+,124015-12,SMH Pampanga,SMHPA/Stock,1
+,D21013-5N,SMH Pampanga,SMHPA/Stock,1
+,D21060-7N,SMH Pampanga,SMHPA/Stock,1
+,1324172-15,SMH Pampanga,SMHPA/Stock,1
+,1324273-8,SMH Pampanga,SMHPA/Stock,1
+,825003-24,SMH Pampanga,SMHPA/Stock,1
+,M1653-12,SMH Pampanga,SMHPA/Stock,1
+,824041-13,SMH Pampanga,SMHPA/Stock,1
+,824029-13,SMH Pampanga,SMHPA/Stock,1
+,824030-20,SMH Pampanga,SMHPA/Stock,1
+,824045-13,SMH Pampanga,SMHPA/Stock,1
+,824046-20,SMH Pampanga,SMHPA/Stock,1
+,824049-13,SMH Pampanga,SMHPA/Stock,1
+,824050-20,SMH Pampanga,SMHPA/Stock,1
+,1123041-1,OH Pampanga,OHPAM/Stock,1
+,1123042-1,OH Pampanga,OHPAM/Stock,1
+,M1536-34,OH Pampanga,OHPAM/Stock,1
+,825003-24,OH Pampanga,OHPAM/Stock,1
+,M1653-12,OH Pampanga,OHPAM/Stock,1
+,M1657-12,OH Pampanga,OHPAM/Stock,2
+,824045-13,OH Pampanga,OHPAM/Stock,1
+,824049-13,OH Pampanga,OHPAM/Stock,1
+,124113-4,OH Urdaneta,OHURD/Stock,1
+,124177-6,OH Urdaneta,OHURD/Stock,1
+,1324230-4,OH Urdaneta,OHURD/Stock,1
+,1324231-4,OH Urdaneta,OHURD/Stock,1
+,122022-4,OH Urdaneta,OHURD/Stock,1
+,122026-13,OH Urdaneta,OHURD/Stock,1
+,122027-13,OH Urdaneta,OHURD/Stock,1
+,122023-4,OH Urdaneta,OHURD/Stock,1
+,1324117-24,OH Baguio,OHBAG/Stock,1
+,1324118-24,OH Baguio,OHBAG/Stock,1
+,1123039-1,OH Baguio,OHBAG/Stock,2
+,1123038-1,OH Baguio,OHBAG/Stock,1
+,1123040-1,OH Baguio,OHBAG/Stock,1
+,824061-6,OH Baguio,OHBAG/Stock,1
+,824062-6,OH Baguio,OHBAG/Stock,1
+,1125035-1,OH Baguio,OHBAG/Stock,1
+,1324175-15,SMH Mall of Asia,SMHMO/Stock,1
+,924064-2,OH Cabanatuan,OHCAB/Stock,1
+,1324215-4,OH Cabanatuan,OHCAB/Stock,1
+,1324216-4,OH Cabanatuan,OHCAB/Stock,1
+,1324222-4,OH Cabanatuan,OHCAB/Stock,1
+,1324223-4,OH Cabanatuan,OHCAB/Stock,1
+,1324230-4,OH Cabanatuan,OHCAB/Stock,2
+,M1536-34,OH Cabanatuan,OHCAB/Stock,1
+,M1625-12,OH Cabanatuan,OHCAB/Stock,2
+,M1625-19,OH Cabanatuan,OHCAB/Stock,1
+,123497-10,OH Cabanatuan,OHCAB/Stock,1
+,124056-10,OH Cabanatuan,OHCAB/Stock,1
+,124057-10,OH Cabanatuan,OHCAB/Stock,1
+,D20057-13,OH Cabanatuan,OHCAB/Stock,1
+,824030-20,OH Cabanatuan,OHCAB/Stock,1
+,824046-20,OH Cabanatuan,OHCAB/Stock,1
+,824050-20,OH Cabanatuan,OHCAB/Stock,1
+,122026-13,OH Cabanatuan,OHCAB/Stock,1
+,123116-7,OH North Edsa,OHNE/Stock,1
+,123308-12,OH North Edsa,OHNE/Stock,1
+,122026-13,OH North Edsa,OHNE/Stock,1
+,122027-13,OH North Edsa,OHNE/Stock,1
+,123264-10,OH North Edsa,OHNE/Stock,1
+,123310-13,OH North Edsa,OHNE/Stock,1
+,D20057-13,OH North Edsa,OHNE/Stock,1
+,D21035-20G,OH North Edsa,OHNE/Stock,1
+,D20056-13,OH North Edsa,OHNE/Stock,1
+,W21362-8,OH North Edsa,OHNE/Stock,1
+,824061-6,OH North Edsa,OHNE/Stock,1
+,824062-6,OH North Edsa,OHNE/Stock,2
+,123503-6,SMH North Edsa,SMHNE/Stock,1
+,123504-6,SMH North Edsa,SMHNE/Stock,1
+,124145-15,SMH North Edsa,SMHNE/Stock,1
+,1322070-10,SMH North Edsa,SMHNE/Stock,2
+,1324272-8,SMH North Edsa,SMHNE/Stock,1
+,1324273-8,SMH North Edsa,SMHNE/Stock,1
+,1323091-13,SMH North Edsa,SMHNE/Stock,1
+,1323114-13,SMH North Edsa,SMHNE/Stock,1
+,1323137-12,SMH North Edsa,SMHNE/Stock,1
+,1323139-12,SMH North Edsa,SMHNE/Stock,1
+,D21010-5N,SMH North Edsa,SMHNE/Stock,2
+,D21013-5N,SMH North Edsa,SMHNE/Stock,2
+,D21060-7N,SMH North Edsa,SMHNE/Stock,2
+,124017-12,SMH North Edsa,SMHNE/Stock,1
+,1324046-7,SMH North Edsa,SMHNE/Stock,1
+,824051-27,OH Batangas,OHBAT/Stock,2
+,824050-20,OH Batangas,OHBAT/Stock,2
+,924063-2,OH Batangas,OHBAT/Stock,2
+,924064-2,OH Batangas,OHBAT/Stock,2
+,1125035-1,OH Batangas,OHBAT/Stock,1
+,123298-10,OH Mall of Asia,OHMOA/Stock,1
+,123306-13,OH Mall of Asia,OHMOA/Stock,1
+,123404-10,OH Mall of Asia,OHMOA/Stock,1
+,123297-10,OH Mall of Asia,OHMOA/Stock,1
+,123334-15,OH Mall of Asia,OHMOA/Stock,1
+,824042-20,OH Mall of Asia,OHMOA/Stock,1
+,824050-20,OH Fairview,OHFV/Stock,1
+,825003-24,OH Fairview,OHFV/Stock,1
+,M1625-12,OH Fairview,OHFV/Stock,1
+,M1640-18,OH Fairview,OHFV/Stock,1
+,1324215-4,OH Fairview,OHFV/Stock,1
+,1324216-4,OH Fairview,OHFV/Stock,1
+,1324217-4,OH Fairview,OHFV/Stock,2
+,1324222-4,OH Fairview,OHFV/Stock,1
+,1324230-4,OH Fairview,OHFV/Stock,2
+,1324231-4,OH Fairview,OHFV/Stock,1
+,924063-2,OH Fairview,OHFV/Stock,1
+,924064-2,OH Fairview,OHFV/Stock,1
+,124016-12,SMH Clark,SMHCL/Stock,2
+,1324003-12,OH Lucena,OHLUC/Stock,1
+,1324047-7,SMH Clark,SMHCL/Stock,2
+,1324048-7,SMH Clark,SMHCL/Stock,2
+,1324152-15,SMH Clark,SMHCL/Stock,1
+,1324154-15,SMH Clark,SMHCL/Stock,1
+,1324155-15,SMH Clark,SMHCL/Stock,1
+,1123037-1,OH Lucena,OHLUC/Stock,1
+,D21013-5N,SMH Clark,SMHCL/Stock,1
+,D21060-7N,SMH Clark,SMHCL/Stock,1
+,123326-10,SMH Clark,SMHCL/Stock,1
+,122040-8,SMH Clark,SMHCL/Stock,1
+,824031-27,SMH Clark,SMHCL/Stock,1
+,1324272-8,SMH Clark,SMHCL/Stock,1
+,1324273-8,SMH Clark,SMHCL/Stock,1
+,1324274-8,SMH Clark,SMHCL/Stock,1
+,124029-15,SMH Clark,SMHCL/Stock,1
+,124015-12,SMH Clark,SMHCL/Stock,1
+,W21356-8,SMH Clark,SMHCL/Stock,1
+,W21359-8,SMH Clark,SMHCL/Stock,1
+,1123039-1,OH Clark,OHCLK/Stock,1
+,1123038-1,OH Clark,OHCLK/Stock,1
+,W21685-8,OH Clark,OHCLK/Stock,1
+,W21688-12,OH Clark,OHCLK/Stock,1
+,W21690-12,OH Clark,OHCLK/Stock,1
+,824031-27,OH Bacolod,OHBCD/Stock,2
+,824035-27,OH Bacolod,OHBCD/Stock,2
+,824036-31,OH Bacolod,OHBCD/Stock,1
+,824051-27,OH Bacolod,OHBCD/Stock,1
+,924063-2,OH Bacolod,OHBCD/Stock,1
+,824029-13,OH Bacolod,OHBCD/Stock,1
+,824030-20,OH Bacolod,OHBCD/Stock,2
+,824033-13,OH Bacolod,OHBCD/Stock,2
+,824049-13,OH Bacolod,OHBCD/Stock,1
+,824050-20,OH Bacolod,OHBCD/Stock,2
+,M1536-34,OH Bacolod,OHBCD/Stock,1
+,1324215-4,OH Bacolod,OHBCD/Stock,2
+,1324216-4,OH Bacolod,OHBCD/Stock,2
+,1324217-4,OH Bacolod,OHBCD/Stock,2
+,1324230-4,OH Bacolod,OHBCD/Stock,2
+,1324231-4,OH Bacolod,OHBCD/Stock,2
+,W21361-8,OH Bacolod,OHBCD/Stock,1
+,125002-4,OH Bacolod,OHBCD/Stock,1
+,824051-27,OH Bacoor,OHBCR/Stock,1
+,W21683-8,OH Bacoor,OHBCR/Stock,2
+,W21685-8,OH Bacoor,OHBCR/Stock,2
+,W21686-8,OH Bacoor,OHBCR/Stock,1
+,W21687-8,OH Bacoor,OHBCR/Stock,2
+,123297-10,OH Bacoor,OHBCR/Stock,1
+,1324194-8,OH Megamall,OHMEG/Stock,1
+,W21720-12,OH Megamall,OHMEG/Stock,1
+,123093-4,OH Megamall,OHMEG/Stock,1
+,123098-3,OH Megamall,OHMEG/Stock,1
+,123099-3,OH Megamall,OHMEG/Stock,1
+,123100-3,OH Megamall,OHMEG/Stock,1
+,1123039-1,OH Megamall,OHMEG/Stock,2
+,924063-2,OH Megamall,OHMEG/Stock,2
+,124165-8,SMH Ortigas,SMHOR/Stock,1
+,124016-12,SMH Ortigas,SMHOR/Stock,1
+,1323041-8,SMH Ortigas,SMHOR/Stock,1
+,1323099-13,SMH Ortigas,SMHOR/Stock,1
+,123124-7,SMH Ortigas,SMHOR/Stock,2
+,123401-7,SMH Ortigas,SMHOR/Stock,2
+,123402-7,SMH Ortigas,SMHOR/Stock,1
+,123403-7,SMH Ortigas,SMHOR/Stock,2
+,123411-12,SMH Ortigas,SMHOR/Stock,2
+,D1950-7G,SMH Ortigas,SMHOR/Stock,2
+,D21013-5N,SMH Ortigas,SMHOR/Stock,2
+,DS1952-20,SMH Ortigas,SMHOR/Stock,2
+,1323017-12,OH Mandurriao,OHMDR/Stock,1
+,124154-10,SMH Las Pinas,SMHLP/Stock,1
+,124123-8,SMH Las Pinas,SMHLP/Stock,1
+,124124-8,SMH Las Pinas,SMHLP/Stock,1
+,124128-10,SMH Las Pinas,SMHLP/Stock,1
+,1324169-8,SMH Las Pinas,SMHLP/Stock,2
+,D1950-7G,SMH Las Pinas,SMHLP/Stock,1
+,124017-12,SMH Las Pinas,SMHLP/Stock,1
+,123401-7,SMH Las Pinas,SMHLP/Stock,1
+,123403-7,SMH Las Pinas,SMHLP/Stock,1
+,825003-24,SMH Las Pinas,SMHLP/Stock,1
+,M1625-19,SMH Las Pinas,SMHLP/Stock,1
+,824042-20,SMH Las Pinas,SMHLP/Stock,1
+,824046-20,SMH Las Pinas,SMHLP/Stock,1
+,824049-13,SMH Las Pinas,SMHLP/Stock,1
+,824050-20,SMH Las Pinas,SMHLP/Stock,1
+,1123140-2,OH Clark,OHCLK/Stock,1
+,1123141-1,OH Clark,OHCLK/Stock,1
+,M1625-19,OH Clark,OHCLK/Stock,1
+,1125034-1,OH Clark,OHCLK/Stock,1
+,1223052-1,OH Megamall,OHMEG/Stock,1
+,122044-20G,SMH Makati,SMHMK/Stock,1
+,123324-12,SMH Makati,SMHMK/Stock,2
+,123402-7,SMH Makati,SMHMK/Stock,2
+,123403-7,SMH Makati,SMHMK/Stock,2
+,123411-12,SMH Makati,SMHMK/Stock,2
+,DS1952-20,SMH Makati,SMHMK/Stock,1
+,D21010-5N,SMH Makati,SMHMK/Stock,2
+,124015-12,SMH Makati,SMHMK/Stock,1
+,124017-12,SMH Makati,SMHMK/Stock,1
+,W22033-25,SMH Makati,SMHMK/Stock,1
+,124016-12,SMH Makati,SMHMK/Stock,1
+,W21359-8,SMH Makati,SMHMK/Stock,1
+,124088-10,OH Pampanga,OHPAM/Stock,1
+,824062-6,OH Mall of Asia,OHMOA/Stock,1
+,D1981-15,OH Mall of Asia,OHMOA/Stock,1
+,123507-4,OH Mall of Asia,OHMOA/Stock,1
+,123092-4,OH Mall of Asia,OHMOA/Stock,1
+,O20020-1,OH Dasma,OHDAS/Stock,1
+,D1946-20G,OH Megamall,OHMEG/Stock,2
+,D21063-7G,OH Megamall,OHMEG/Stock,2
+,D1981-15,OH Megamall,OHMEG/Stock,1
+,123379-3,OH Megamall,OHMEG/Stock,1
+,123092-4,OH Megamall,OHMEG/Stock,2
+,124044-15,OH Megamall,OHMEG/Stock,2
+,824051-27,OH Megamall,OHMEG/Stock,1
+,824052-31,OH Megamall,OHMEG/Stock,1
+,M1952-18,OH Megamall,OHMEG/Stock,1
+,123416-7,OH Megamall,OHMEG/Stock,1
+,D21032-8,SMH Mall of Asia,SMHMO/Stock,1
+,123124-7,SMH Mall of Asia,SMHMO/Stock,2
+,123403-7,SMH Mall of Asia,SMHMO/Stock,1
+,123411-12,SMH Mall of Asia,SMHMO/Stock,2
+,DS1952-20,SMH Mall of Asia,SMHMO/Stock,2
+,D21010-5N,SMH Mall of Asia,SMHMO/Stock,1
+,D21013-5N,SMH Mall of Asia,SMHMO/Stock,2
+,W21356-8,SMH Mall of Asia,SMHMO/Stock,1
+,1324152-15,SMH Mall of Asia,SMHMO/Stock,1
+,1324153-15,SMH Mall of Asia,SMHMO/Stock,1
+,122039-8,SMH Mall of Asia,SMHMO/Stock,2
+,D1950-7G,SMH Mall of Asia,SMHMO/Stock,1
+,1322081-8,SMH Mall of Asia,SMHMO/Stock,1
+,D1946-20G,OH Batangas,OHBAT/Stock,1
+,D21063-7G,OH Batangas,OHBAT/Stock,1
+,D1971-10,OH Batangas,OHBAT/Stock,1
+,D1981-15,OH Batangas,OHBAT/Stock,1
+,123092-4,OH Batangas,OHBAT/Stock,2
+,123093-4,OH Batangas,OHBAT/Stock,1
+,D21063-7G,OH Dasma,OHDAS/Stock,1
+,D1971-10,OH Dasma,OHDAS/Stock,1
+,123092-4,OH Dasma,OHDAS/Stock,2
+,123094-4,OH Dasma,OHDAS/Stock,1
+,1324215-4,OH Dasma,OHDAS/Stock,1
+,1324216-4,OH Dasma,OHDAS/Stock,1
+,1324222-4,OH Dasma,OHDAS/Stock,1
+,M1653-12,OH Dasma,OHDAS/Stock,1
+,824045-13,OH Dasma,OHDAS/Stock,1
+,824046-20,OH Dasma,OHDAS/Stock,1
+,123378-3,OH Lucena,OHLUC/Stock,1
+,123379-3,OH Lucena,OHLUC/Stock,1
+,123377-3,OH Lucena,OHLUC/Stock,1
+,D21014-10G,OH Lucena,OHLUC/Stock,1
+,D21023-10G,OH Lucena,OHLUC/Stock,1
+,123445-4,OH Lucena,OHLUC/Stock,1
+,124154-10,SMH Lipa,SMHLI/Stock,1
+,825007-19,SMH Lipa,SMHLI/Stock,1
+,W21359-8,SMH Lipa,SMHLI/Stock,1
+,1323093-13,SMH Lipa,SMHLI/Stock,2
+,1323094-13,SMH Lipa,SMHLI/Stock,1
+,D1950-7G,SMH Lipa,SMHLI/Stock,1
+,D21010-5N,SMH Lipa,SMHLI/Stock,1
+,D21060-7N,SMH Lipa,SMHLI/Stock,1
+,123411-12,SMH Lipa,SMHLI/Stock,1
+,D21032-8,SMH Lipa,SMHLI/Stock,1
+,D21033-8,SMH Lipa,SMHLI/Stock,1
+,D20127-10,SMH North Edsa,SMHNE/Stock,1
+,123456-6,SMH Ortigas,SMHOR/Stock,1
+,D1941-19G,OH Urdaneta,OHURD/Stock,1
+,D1946-20G,OH Urdaneta,OHURD/Stock,1
+,D21014-10G,OH Urdaneta,OHURD/Stock,1
+,D21023-10G,OH Urdaneta,OHURD/Stock,1
+,D21063-7G,OH Urdaneta,OHURD/Stock,1
+,123376-3,OH Urdaneta,OHURD/Stock,1
+,123378-3,OH Urdaneta,OHURD/Stock,1
+,123379-3,OH Urdaneta,OHURD/Stock,1
+,124044-15,OH Urdaneta,OHURD/Stock,1
+,D1971-10,OH Urdaneta,OHURD/Stock,1
+,124156-10,OH Sta. Rosa,OHSTR/Stock,1
+,1324223-4,OH Sta. Rosa,OHSTR/Stock,1
+,D1971-10,OH Sta. Rosa,OHSTR/Stock,1
+,D1981-15,OH Sta. Rosa,OHSTR/Stock,1
+,D20001-10,OH Sta. Rosa,OHSTR/Stock,1
+,D21063-7G,OH Sta. Rosa,OHSTR/Stock,1
+,123445-4,OH Baguio,OHBAG/Stock,1
+,123507-4,OH Baguio,OHBAG/Stock,2
+,123092-4,OH Baguio,OHBAG/Stock,2
+,123093-4,OH Baguio,OHBAG/Stock,1
+,123094-4,OH Baguio,OHBAG/Stock,1
+,D1981-15,OH Clark,OHCLK/Stock,1
+,123376-3,OH Clark,OHCLK/Stock,2
+,123377-3,OH Clark,OHCLK/Stock,2
+,123378-3,OH Clark,OHCLK/Stock,2
+,123379-3,OH Clark,OHCLK/Stock,2
+,123440-4,OH Clark,OHCLK/Stock,1
+,123446-4,OH Clark,OHCLK/Stock,1
+,123447-4,OH Clark,OHCLK/Stock,2
+,123508-4,OH Clark,OHCLK/Stock,1
+,123092-4,OH Clark,OHCLK/Stock,2
+,123093-4,OH Clark,OHCLK/Stock,1
+,123094-4,OH Clark,OHCLK/Stock,2
+,124042-16,OH Clark,OHCLK/Stock,2
+,124044-15,OH Clark,OHCLK/Stock,1
+,825006-12,SMH Cubao,SMHCU/Stock,1
+,825007-19,SMH Cubao,SMHCU/Stock,1
+,1324270-8,SMH Cubao,SMHCU/Stock,1
+,1324273-8,SMH Cubao,SMHCU/Stock,1
+,D21032-8,SMH Cubao,SMHCU/Stock,1
+,123411-12,SMH Cubao,SMHCU/Stock,1
+,824029-13,SMH Cubao,SMHCU/Stock,1
+,824030-20,SMH Cubao,SMHCU/Stock,1
+,824033-13,SMH Cubao,SMHCU/Stock,1
+,824046-20,SMH Cubao,SMHCU/Stock,1
+,824050-20,SMH Cubao,SMHCU/Stock,1
+,M1536-34,SMH Cubao,SMHCU/Stock,1
+,M1625-19,SMH Cubao,SMHCU/Stock,1
+,D21060-7N,SMH Cubao,SMHCU/Stock,1
+,DS1952-20,SMH Cubao,SMHCU/Stock,1
+,124015-12,SMH Cubao,SMHCU/Stock,1
+,124017-12,SMH Cubao,SMHCU/Stock,1
+,W21356-8,SMH Cubao,SMHCU/Stock,1
+,124154-10,SMH Cubao,SMHCU/Stock,1
+,1324152-15,SMH Cubao,SMHCU/Stock,1
+,1324154-15,SMH Cubao,SMHCU/Stock,1
+,1123122-1M,OH Megamall,OHMEG/Stock,1
+,1223051-1,OH Megamall,OHMEG/Stock,1
+,D20001-10,OH Davao,OHDV/Stock,1
+,D21063-7G,OH Davao,OHDV/Stock,1
+,824029-13,OH Davao,OHDV/Stock,1
+,824033-13,OH Davao,OHDV/Stock,2
+,824045-13,OH Davao,OHDV/Stock,2
+,824049-13,OH Davao,OHDV/Stock,2
+,M1536-34,OH Davao,OHDV/Stock,1
+,M1625-12,OH Davao,OHDV/Stock,1
+,M1653-12,OH Davao,OHDV/Stock,1
+,124156-10,OH Davao,OHDV/Stock,1
+,W22073-12,SMH Makati,SMHMK/Stock,1
+,W22076-12,SMH Makati,SMHMK/Stock,1
+,W22077-12,SMH Makati,SMHMK/Stock,1
+,SW22084-12,SMH Makati,SMHMK/Stock,1
+,W22127-12,SMH Makati,SMHMK/Stock,1
+,1324179-8,SMH Makati,SMHMK/Stock,1
+,1323104-13,SMH Makati,SMHMK/Stock,1
+,1324152-15,SMH Makati,SMHMK/Stock,1
+,W21738-12,SMH Makati,SMHMK/Stock,1
+,1323090-13,SMH Makati,SMHMK/Stock,1
+,1324085-12 ,SMH Makati,SMHMK/Stock,1
+,1324593-5,SMH Makati,SMHMK/Stock,1
+,0523912-7-7,SMH Makati,SMHMK/Stock,1
+,0521616-7,SMH Makati,SMHMK/Stock,1
+,W16211-10,SMH Makati,SMHMK/Stock,1
+,W18353-9,SMH Makati,SMHMK/Stock,2
+,0373116-6,SMH Makati,SMHMK/Stock,2
+,0373117-6,SMH Makati,SMHMK/Stock,1
+,RW15342-6,SMH Makati,SMHMK/Stock,1
+,124113-4,OH Bacolod,OHBCD/Stock,1
+,123324-12,SMH Mandurriao,SMHMD/Stock,1
+,123402-7,SMH Mandurriao,SMHMD/Stock,1
+,123403-7,SMH Mandurriao,SMHMD/Stock,1
+,123411-12,SMH Mandurriao,SMHMD/Stock,1
+,D21060-7N,SMH Mandurriao,SMHMD/Stock,1
+,124015-12,SMH Mandurriao,SMHMD/Stock,1
+,1324005-7,SMH Mandurriao,SMHMD/Stock,1
+,824034-20,SMH Mandurriao,SMHMD/Stock,1
+,824046-20,SMH Mandurriao,SMHMD/Stock,1
+,824050-20,SMH Mandurriao,SMHMD/Stock,1
+,1324271-8,SMH Mandurriao,SMHMD/Stock,1
+,124154-10,SMH Mandurriao,SMHMD/Stock,1
+,M1625-12,SMH Mandurriao,SMHMD/Stock,1
+,M1653-12,SMH Mandurriao,SMHMD/Stock,1
+,123506-4,OH Clark,OHCLK/Stock,1
+,M1952-18,OH Mall of Asia,OHMOA/Stock,1
+,124156-10,OH Urdaneta,OHURD/Stock,1
+,D21063-7G,OH North Edsa,OHNE/Stock,2
+,W21359-8,SMH North Edsa,SMHNE/Stock,2
+,W21361-8,SMH North Edsa,SMHNE/Stock,1
+,1325069-12,SMH North Edsa,SMHNE/Stock,1
+,1325071-12,SMH North Edsa,SMHNE/Stock,1
+,W21694-12,SMH North Edsa,SMHNE/Stock,2
+,1322104-13,SMH North Edsa,SMHNE/Stock,2
+,1323055-13,SMH North Edsa,SMHNE/Stock,1
+,1123122-1L,OH Mall of Asia,OHMOA/Stock,2
+,M1625-19,OH Mall of Asia,OHMOA/Stock,1
+,923033-3,OH Mall of Asia,OHMOA/Stock,1
+,1336324-18,SMH North Edsa,SMHNE/Stock,1
+,825006-12,SMH Ortigas,SMHOR/Stock,2
+,825007-19,SMH Ortigas,SMHOR/Stock,2
+,1323103-13,SMH Ortigas,SMHOR/Stock,1
+,1323105-13,SMH Ortigas,SMHOR/Stock,1
+,124154-10,SMH Ortigas,SMHOR/Stock,1
+,1323098-13,SMH Ortigas,SMHOR/Stock,1
+,1324132-20 ,SMH Ortigas,SMHOR/Stock,1
+,1324133-20,SMH Ortigas,SMHOR/Stock,1
+,124152-10,SMH Ortigas,SMHOR/Stock,1
+,124087-10,SMH Ortigas,SMHOR/Stock,1
+,123313-6,SMH Ortigas,SMHOR/Stock,1
+,123314-6,SMH Ortigas,SMHOR/Stock,1
+,123315-6,SMH Ortigas,SMHOR/Stock,1
+,124012-12,SMH Ortigas,SMHOR/Stock,1
+,124019-12,SMH Ortigas,SMHOR/Stock,1
+,124050-10,SMH Ortigas,SMHOR/Stock,1
+,124060-6,SMH Ortigas,SMHOR/Stock,1
+,D18118-10,SMH Ortigas,SMHOR/Stock,1
+,D18152-10,SMH Ortigas,SMHOR/Stock,1
+,D1985-12,SMH Ortigas,SMHOR/Stock,1
+,D20064-10,SMH Ortigas,SMHOR/Stock,1
+,D17181-10,SMH Ortigas,SMHOR/Stock,1
+,124124-8,SMH Ortigas,SMHOR/Stock,2
+,124169-10,SMH Ortigas,SMHOR/Stock,1
+,124093-10,SMH Ortigas,SMHOR/Stock,1
+,125027-11,SMH Ortigas,SMHOR/Stock,1
+,125028-11,SMH Ortigas,SMHOR/Stock,1
+,924069-1,OH Mall of Asia,OHMOA/Stock,4
+,924065-1,OH Mall of Asia,OHMOA/Stock,1
+,124042-16,OH Bacoor,OHBCR/Stock,1
+,124044-15,OH Bacoor,OHBCR/Stock,1
+,D1971-10,OH Bacoor,OHBCR/Stock,1
+,D20001-10,OH Bacoor,OHBCR/Stock,1
+,824052-31,OH Bacoor,OHBCR/Stock,1
+,824049-13,OH Bacoor,OHBCR/Stock,1
+,M1536-34,OH Bacoor,OHBCR/Stock,1
+,124177-6,OH Bacoor,OHBCR/Stock,1
+,D21035-20G,OH Bacoor,OHBCR/Stock,1
+,D21038-20,OH Bacoor,OHBCR/Stock,1
+,1324230-4,OH Bacoor,OHBCR/Stock,1
+,1324231-4,OH Bacoor,OHBCR/Stock,2
+,124042-16,OH Cabanatuan,OHCAB/Stock,1
+,123092-4,OH Cabanatuan,OHCAB/Stock,3
+,123094-4,OH Cabanatuan,OHCAB/Stock,2
+,123376-3,OH Cabanatuan,OHCAB/Stock,1
+,123377-3,OH Cabanatuan,OHCAB/Stock,1
+,123378-3,OH Cabanatuan,OHCAB/Stock,1
+,123379-3,OH Cabanatuan,OHCAB/Stock,1
+,925010-2,OH Megamall,OHMEG/Stock,1
+,925015-1,OH Megamall,OHMEG/Stock,3
+,925016-1,OH Megamall,OHMEG/Stock,3
+,925017-1,OH Megamall,OHMEG/Stock,2
+,1325002-8,OH Megamall,OHMEG/Stock,2
+,1325003-8,OH Megamall,OHMEG/Stock,1
+,824030-20,OH Megamall,OHMEG/Stock,1
+,824046-20,OH Megamall,OHMEG/Stock,2
+,123321-16,OH Megamall,OHMEG/Stock,1
+,W21431-8,OH Megamall,OHMEG/Stock,2
+,1324193-10,OH Megamall,OHMEG/Stock,1
+,1123122-1L,OH Megamall,OHMEG/Stock,2
+,925010-2,OH Fairview,OHFV/Stock,1
+,925014-2,OH Fairview,OHFV/Stock,1
+,925015-1,OH Fairview,OHFV/Stock,2
+,925016-1,OH Fairview,OHFV/Stock,3
+,925017-1,OH Fairview,OHFV/Stock,4
+,924069-1,OH Fairview,OHFV/Stock,5
+,1324194-8,OH Fairview,OHFV/Stock,1
+,W21361-8,OH Fairview,OHFV/Stock,1
+,124042-16,OH Fairview,OHFV/Stock,1
+,124044-15,OH Fairview,OHFV/Stock,1
+,123092-4,OH Fairview,OHFV/Stock,2
+,123093-4,OH Fairview,OHFV/Stock,2
+,123094-4,OH Fairview,OHFV/Stock,1
+,123440-4,OH Fairview,OHFV/Stock,1
+,123445-4,OH Fairview,OHFV/Stock,2
+,123446-4,OH Fairview,OHFV/Stock,1
+,123506-4,OH Fairview,OHFV/Stock,1
+,123376-3,OH Fairview,OHFV/Stock,1
+,123377-3,OH Fairview,OHFV/Stock,1
+,123378-3,OH Fairview,OHFV/Stock,1
+,123379-3,OH Fairview,OHFV/Stock,1
+,D1941-19G,OH Fairview,OHFV/Stock,1
+,D1946-20G,OH Fairview,OHFV/Stock,2
+,D21063-7G,OH Fairview,OHFV/Stock,1
+,1324153-15,SMH Makati,SMHMK/Stock,1
+,W22083-12,SMH Makati,SMHMK/Stock,1
+,1125035-1,OH Urdaneta,OHURD/Stock,2
+,123440-4,OH Urdaneta,OHURD/Stock,2
+,123441-4,OH Urdaneta,OHURD/Stock,2
+,123445-4,OH Urdaneta,OHURD/Stock,2
+,123446-4,OH Urdaneta,OHURD/Stock,2
+,123447-4,OH Urdaneta,OHURD/Stock,1
+,123448-4,OH Urdaneta,OHURD/Stock,2
+,123506-4,OH Urdaneta,OHURD/Stock,2
+,123507-4,OH Urdaneta,OHURD/Stock,2
+,123508-4,OH Urdaneta,OHURD/Stock,2
+,124055-10,OH Baguio,OHBAG/Stock,1
+,124035-10,OH Baguio,OHBAG/Stock,1
+,D1941-19G,OH Baguio,OHBAG/Stock,1
+,M1653-12,OH Baguio,OHBAG/Stock,2
+,923034-3,OH Baguio,OHBAG/Stock,2
+,123092-4,OH Urdaneta,OHURD/Stock,2
+,M1625-19,OH Urdaneta,OHURD/Stock,1
+,M1653-12,OH Urdaneta,OHURD/Stock,2
+,1324215-4,OH Urdaneta,OHURD/Stock,1
+,1324216-4,OH Urdaneta,OHURD/Stock,3
+,1324222-4,OH Urdaneta,OHURD/Stock,1
+,1123042-1,OH Urdaneta,OHURD/Stock,2
+,W21683-8,OH Urdaneta,OHURD/Stock,1
+,W21431-8,OH Urdaneta,OHURD/Stock,2
+,1123142-1,OH Urdaneta,OHURD/Stock,1
+,1123141-1,OH Urdaneta,OHURD/Stock,1
+,1123140-2,OH Urdaneta,OHURD/Stock,1
+,925015-1,OH Urdaneta,OHURD/Stock,2
+,925017-1,OH Urdaneta,OHURD/Stock,3
+,1123142-1,OH Baguio,OHBAG/Stock,1
+,1123141-1,OH Baguio,OHBAG/Stock,1
+,1123140-2,OH Baguio,OHBAG/Stock,1
+,925011-2,OH Baguio,OHBAG/Stock,1
+,925013-2,OH Baguio,OHBAG/Stock,1
+,925015-1,OH Baguio,OHBAG/Stock,1
+,925017-1,OH Baguio,OHBAG/Stock,3
+,D1946-20G,OH Baguio,OHBAG/Stock,1
+,W21362-8,OH Megamall,OHMEG/Stock,1
+,123079-10,OH Megamall,OHMEG/Stock,1
+,123262-10,OH Megamall,OHMEG/Stock,1
+,123264-10,OH Megamall,OHMEG/Stock,1
+,122026-13,OH Megamall,OHMEG/Stock,1
+,122052-15,OH Megamall,OHMEG/Stock,1
+,123305-10,OH Megamall,OHMEG/Stock,1
+,123331-15,OH Megamall,OHMEG/Stock,1
+,D20057-13,OH Megamall,OHMEG/Stock,1
+,1325004-8,OH Megamall,OHMEG/Stock,2
+,1325005-8,OH Megamall,OHMEG/Stock,2
+,1123142-1,OH Megamall,OHMEG/Stock,1
+,1123141-1,OH Megamall,OHMEG/Stock,1
+,1123140-2,OH Megamall,OHMEG/Stock,1
+,D17252-10,,Physical Locations/Subcontracting Location,1
+,M1536-34,OH Mall of Asia,OHMOA/Stock,1
+,D21017-7,OH Mall of Asia,OHMOA/Stock,1
+,123257-10,OH Mall of Asia,OHMOA/Stock,1
+,124093-10,OH Mall of Asia,OHMOA/Stock,1
+,125004-15,OH Mall of Asia,OHMOA/Stock,1
+,925015-1,OH Mall of Asia,OHMOA/Stock,2
+,925016-1,OH Mall of Asia,OHMOA/Stock,2
+,925017-1,OH Mall of Asia,OHMOA/Stock,3
+,124042-16,OH Cebu,OHCEB/Stock,1
+,124044-15,OH Cebu,OHCEB/Stock,1
+,123093-4,OH Cebu,OHCEB/Stock,2
+,123094-4,OH Cebu,OHCEB/Stock,1
+,D1981-15,OH Cebu,OHCEB/Stock,1
+,D20001-10,OH Cebu,OHCEB/Stock,1
+,D1946-20G,OH Cebu,OHCEB/Stock,1
+,D21063-7G,OH Cebu,OHCEB/Stock,2
+,924063-2,OH Cebu,OHCEB/Stock,1
+,924064-2,OH Cebu,OHCEB/Stock,1
+,1125034-1,OH Cebu,OHCEB/Stock,1
+,123324-12,SMH Mall of Asia,SMHMO/Stock,2
+,123280-11,SMH Mall of Asia,SMHMO/Stock,1
+,124017-12,SMH Mall of Asia,SMHMO/Stock,1
+,122044-20G,SMH Mall of Asia,SMHMO/Stock,1
+,W22031-25,SMH Mall of Asia,SMHMO/Stock,1
+,1325122-9,SMH Mall of Asia,SMHMO/Stock,1
+,125024-13,SMH Mall of Asia,SMHMO/Stock,1
+,125025-13,SMH Mall of Asia,SMHMO/Stock,1
+,125026-13,SMH Mall of Asia,SMHMO/Stock,1
+,D21009-5N,SMH Mall of Asia,SMHMO/Stock,1
+,D18135-19,SMH Mall of Asia,SMHMO/Stock,2
+,123489-12,SMH Mall of Asia,SMHMO/Stock,1
+,123490-12,SMH Mall of Asia,SMHMO/Stock,1
+,123496-12,SMH Mall of Asia,SMHMO/Stock,1
+,123499-10,SMH Mall of Asia,SMHMO/Stock,1
+,1325176-15,SMH Mall of Asia,SMHMO/Stock,1
+,125035-10,OH Megamall,OHMEG/Stock,1
+,1325127-10,OH Megamall,OHMEG/Stock,1
+,1325129-10,OH Megamall,OHMEG/Stock,2
+,1325107-8,OH Megamall,OHMEG/Stock,1
+,1325108-8,OH Megamall,OHMEG/Stock,1
+,1325109-8,OH Megamall,OHMEG/Stock,2
+,1325110-8,OH Megamall,OHMEG/Stock,1
+,125057-20,SMH Ortigas,SMHOR/Stock,1
+,1325121-9,SMH Ortigas,SMHOR/Stock,1
+,123489-12,SMH Ortigas,SMHOR/Stock,1
+,123490-12,SMH Ortigas,SMHOR/Stock,1
+,123496-12,SMH Ortigas,SMHOR/Stock,1
+,123499-10,SMH Ortigas,SMHOR/Stock,1
+,D21009-5N,SMH Ortigas,SMHOR/Stock,3
+,125024-13,SMH Ortigas,SMHOR/Stock,1
+,1324169-8,SMH Ortigas,SMHOR/Stock,1
+,122044-20G,SMH Ortigas,SMHOR/Stock,1
+,D21010-5N,SMH Ortigas,SMHOR/Stock,3
+,D21032-8,SMH Ortigas,SMHOR/Stock,1
+,D21060-7N,SMH Ortigas,SMHOR/Stock,1
+,M1536-34,SMH Ortigas,SMHOR/Stock,1
+,M1625-12,SMH Ortigas,SMHOR/Stock,3
+,925015-1,OH Clark,OHCLK/Stock,1
+,925016-1,OH Clark,OHCLK/Stock,2
+,925017-1,OH Clark,OHCLK/Stock,4
+,1325107-8,OH Clark,OHCLK/Stock,1
+,1325108-8,OH Clark,OHCLK/Stock,1
+,824039-27,OH Clark,OHCLK/Stock,1
+,824040-31,OH Clark,OHCLK/Stock,2
+,824043-27,OH Clark,OHCLK/Stock,1
+,824044-31,OH Clark,OHCLK/Stock,2
+,824047-27,OH Clark,OHCLK/Stock,1
+,824048-31,OH Clark,OHCLK/Stock,1
+,925015-1,OH North Edsa,OHNE/Stock,2
+,925016-1,OH North Edsa,OHNE/Stock,2
+,925017-1,OH North Edsa,OHNE/Stock,3
+,1123142-1,OH North Edsa,OHNE/Stock,1
+,1123141-1,OH North Edsa,OHNE/Stock,2
+,1123140-2,OH North Edsa,OHNE/Stock,2
+,1325002-8,OH North Edsa,OHNE/Stock,2
+,1325003-8,OH North Edsa,OHNE/Stock,2
+,1325004-8,OH North Edsa,OHNE/Stock,2
+,1325005-8,OH North Edsa,OHNE/Stock,2
+,1325125-10,OH North Edsa,OHNE/Stock,1
+,1325127-10,OH North Edsa,OHNE/Stock,1
+,1325110-8,OH North Edsa,OHNE/Stock,1
+,125035-10,OH North Edsa,OHNE/Stock,1
+,1324215-4,OH North Edsa,OHNE/Stock,1
+,W21361-8,OH North Edsa,OHNE/Stock,1
+,W21685-8,OH North Edsa,OHNE/Stock,1
+,W21690-12,OH North Edsa,OHNE/Stock,2
+,824050-20,OH North Edsa,OHNE/Stock,1
+,824036-31,OH North Edsa,OHNE/Stock,1
+,M1536-34,OH North Edsa,OHNE/Stock,1
+,M1625-19,OH North Edsa,OHNE/Stock,1
+,124055-10,OH North Edsa,OHNE/Stock,1
+,123376-3,OH North Edsa,OHNE/Stock,1
+,123377-3,OH North Edsa,OHNE/Stock,1
+,123378-3,OH North Edsa,OHNE/Stock,1
+,123379-3,OH North Edsa,OHNE/Stock,1
+,123092-4,OH North Edsa,OHNE/Stock,1
+,123093-4,OH North Edsa,OHNE/Stock,2
+,123094-4,OH North Edsa,OHNE/Stock,1
+,824021-13,SMH Clark,SMHCL/Stock,2
+,824022-20,SMH Clark,SMHCL/Stock,2
+,824025-13,SMH Clark,SMHCL/Stock,2
+,824026-20,SMH Clark,SMHCL/Stock,2
+,M1704-12,SMH Clark,SMHCL/Stock,2
+,M1704-19,SMH Clark,SMHCL/Stock,2
+,M1707-12,SMH Clark,SMHCL/Stock,2
+,M1707-19,SMH Clark,SMHCL/Stock,2
+,D18135-19,SMH Clark,SMHCL/Stock,2
+,125026-13,SMH Clark,SMHCL/Stock,1
+,123489-12,SMH Clark,SMHCL/Stock,1
+,123490-12,SMH Clark,SMHCL/Stock,1
+,123499-10,SMH Clark,SMHCL/Stock,1
+,D21032-8,SMH Clark,SMHCL/Stock,1
+,D21033-8,SMH Clark,SMHCL/Stock,1
+,1322081-8,SMH Clark,SMHCL/Stock,1
+,1322083-8,SMH Clark,SMHCL/Stock,1
+,1324169-8,SMH Clark,SMHCL/Stock,1
+,1324172-15,SMH Clark,SMHCL/Stock,1
+,1324175-15,SMH Clark,SMHCL/Stock,2
+,123401-7,SMH Clark,SMHCL/Stock,1
+,123402-7,SMH Clark,SMHCL/Stock,1
+,825006-12,SMH Clark,SMHCL/Stock,2
+,825007-19,SMH Clark,SMHCL/Stock,2
+,824011-11,SMH Clark,SMHCL/Stock,4
+,1324153-15,SMH Clark,SMHCL/Stock,1
+,124044-15,OH Mall of Asia,OHMOA/Stock,1
+,123499-10,SMH North Edsa,SMHNE/Stock,1
+,D21009-5N,SMH North Edsa,SMHNE/Stock,2
+,D18135-19,SMH North Edsa,SMHNE/Stock,1
+,125024-13,SMH North Edsa,SMHNE/Stock,1
+,125026-13,SMH North Edsa,SMHNE/Stock,1
+,125057-20,SMH North Edsa,SMHNE/Stock,1
+,123403-7,SMH North Edsa,SMHNE/Stock,1
+,124015-12,SMH North Edsa,SMHNE/Stock,1
+,124165-8,SMH North Edsa,SMHNE/Stock,1
+,1324048-7,SMH North Edsa,SMHNE/Stock,1
+,D1950-7G,SMH North Edsa,SMHNE/Stock,2
+,123324-12,SMH North Edsa,SMHNE/Stock,2
+,123401-7,SMH North Edsa,SMHNE/Stock,2
+,123402-7,SMH North Edsa,SMHNE/Stock,2
+,D21032-8,SMH North Edsa,SMHNE/Stock,1
+,D21033-8,SMH North Edsa,SMHNE/Stock,1
+,M1703-19,SMH Pampanga,SMHPA/Stock,1
+,124013-12,SMH Lipa,SMHLI/Stock,1
+,124103-4,SMH Lipa,SMHLI/Stock,1
+,1324005-7,SMH Lipa,SMHLI/Stock,1
+,1324152-15,SMH Lipa,SMHLI/Stock,1
+,1324172-15,SMH Lipa,SMHLI/Stock,1
+,123496-12,SMH Lipa,SMHLI/Stock,1
+,123499-10,SMH Lipa,SMHLI/Stock,1
+,M1704-12,SMH Lipa,SMHLI/Stock,1
+,824021-13,SMH Lipa,SMHLI/Stock,1
+,824022-20,SMH Lipa,SMHLI/Stock,1
+,824026-20,SMH Lipa,SMHLI/Stock,1
+,D21009-5N,SMH Lipa,SMHLI/Stock,2
+,D18135-19,SMH Lipa,SMHLI/Stock,2
+,125012-4,SMH Lipa,SMHLI/Stock,1
+,125013-4,SMH Lipa,SMHLI/Stock,1
+,824043-27,OH Batangas,OHBAT/Stock,1
+,824044-31,OH Batangas,OHBAT/Stock,1
+,824047-27,OH Batangas,OHBAT/Stock,1
+,1325110-8,OH Batangas,OHBAT/Stock,1
+,1325125-10,OH Batangas,OHBAT/Stock,1
+,1325127-10,OH Batangas,OHBAT/Stock,1
+,1325129-10,OH Batangas,OHBAT/Stock,1
+,925015-1,OH Batangas,OHBAT/Stock,2
+,1325108-8,OH Mall of Asia,OHMOA/Stock,1
+,1325125-10,OH Mall of Asia,OHMOA/Stock,1
+,125035-10,OH Mall of Asia,OHMOA/Stock,1
+,824039-27,OH Mall of Asia,OHMOA/Stock,1
+,824040-31,OH Mall of Asia,OHMOA/Stock,1
+,824043-27,OH Mall of Asia,OHMOA/Stock,1
+,824047-27,OH Mall of Asia,OHMOA/Stock,1
+,824048-31,OH Mall of Asia,OHMOA/Stock,1
+,925017-1,OH Lucena,OHLUC/Stock,2
+,824039-27,OH Lucena,OHLUC/Stock,1
+,824040-31,OH Lucena,OHLUC/Stock,1
+,824043-27,OH Lucena,OHLUC/Stock,1
+,824047-27,OH Lucena,OHLUC/Stock,1
+,824048-31,OH Lucena,OHLUC/Stock,1
+,125035-10,OH Lucena,OHLUC/Stock,1
+,824045-13,OH Lucena,OHLUC/Stock,1
+,824046-20,OH Lucena,OHLUC/Stock,1
+,824050-20,OH Lucena,OHLUC/Stock,1
+,M1909-35,OH Lucena,OHLUC/Stock,1
+,1325099-8,OH Lucena,OHLUC/Stock,1
+,1325100-8,OH Lucena,OHLUC/Stock,1
+,824045-13,SMH Mall of Asia,SMHMO/Stock,1
+,824021-13,SMH Mall of Asia,SMHMO/Stock,2
+,824022-20,SMH Mall of Asia,SMHMO/Stock,2
+,824025-13,SMH Mall of Asia,SMHMO/Stock,2
+,M1704-12,SMH Makati,SMHMK/Stock,3
+,M1704-19,SMH Makati,SMHMK/Stock,3
+,M1707-12,SMH Makati,SMHMK/Stock,3
+,M1707-19,SMH Makati,SMHMK/Stock,3
+,1325123-9,SMH Makati,SMHMK/Stock,1
+,125026-13,SMH Makati,SMHMK/Stock,1
+,D21009-5N,SMH Makati,SMHMK/Stock,2
+,D18135-19,SMH Makati,SMHMK/Stock,1
+,123489-12,SMH Makati,SMHMK/Stock,1
+,123490-12,SMH Makati,SMHMK/Stock,1
+,123496-12,SMH Makati,SMHMK/Stock,1
+,123499-10,SMH Makati,SMHMK/Stock,1
+,1325177-15,SMH Makati,SMHMK/Stock,1
+,824021-13,SMH Makati,SMHMK/Stock,3
+,824022-20,SMH Makati,SMHMK/Stock,3
+,824025-13,SMH Makati,SMHMK/Stock,1
+,824026-20,SMH Makati,SMHMK/Stock,2
+,W21690-12,OH Sta. Rosa,OHSTR/Stock,1
+,123441-4,OH Lanang,OHLAN/Stock,1
+,122044-20G,SMH Cebu,SMHCE/Stock,1
+,925016-1,OH Dasma,OHDAS/Stock,4
+,925017-1,OH Dasma,OHDAS/Stock,4
+,1325109-8,OH Dasma,OHDAS/Stock,1
+,1325110-8,OH Dasma,OHDAS/Stock,1
+,824039-27,OH Dasma,OHDAS/Stock,1
+,824040-31,OH Dasma,OHDAS/Stock,1
+,824043-27,OH Dasma,OHDAS/Stock,1
+,824044-31,OH Dasma,OHDAS/Stock,1
+,824047-27,OH Dasma,OHDAS/Stock,1
+,824048-31,OH Dasma,OHDAS/Stock,1
+,1325125-10,OH Urdaneta,OHURD/Stock,1
+,1325129-10,OH Urdaneta,OHURD/Stock,1
+,1325002-8,OH Urdaneta,OHURD/Stock,1
+,1325003-8,OH Urdaneta,OHURD/Stock,1
+,1325004-8,OH Urdaneta,OHURD/Stock,1
+,1325005-8,OH Urdaneta,OHURD/Stock,1
+,824039-27,OH Urdaneta,OHURD/Stock,1
+,824040-31,OH Urdaneta,OHURD/Stock,1
+,824043-27,OH Urdaneta,OHURD/Stock,1
+,824047-27,OH Urdaneta,OHURD/Stock,1
+,125035-10,OH Urdaneta,OHURD/Stock,1
+,125036-10,OH Urdaneta,OHURD/Stock,1
+,125042-10,OH Urdaneta,OHURD/Stock,1
+,1325096-8,OH Urdaneta,OHURD/Stock,1
+,1325099-8,OH Urdaneta,OHURD/Stock,1
+,1325100-8,OH Urdaneta,OHURD/Stock,1
+,824040-31,OH Baguio,OHBAG/Stock,1
+,824047-27,OH Baguio,OHBAG/Stock,1
+,824048-31,OH Baguio,OHBAG/Stock,1
+,125036-10,OH Baguio,OHBAG/Stock,1
+,1325096-8,OH Baguio,OHBAG/Stock,1
+,1325097-8,OH Baguio,OHBAG/Stock,1
+,1325099-8,OH Baguio,OHBAG/Stock,1
+,125092-17,OH Baguio,OHBAG/Stock,1
+,925016-1,OH Sta. Rosa,OHSTR/Stock,4
+,925017-1,OH Sta. Rosa,OHSTR/Stock,2
+,1123142-1,OH Sta. Rosa,OHSTR/Stock,1
+,1123141-1,OH Sta. Rosa,OHSTR/Stock,1
+,1123140-2,OH Sta. Rosa,OHSTR/Stock,1
+,1325002-8,OH Sta. Rosa,OHSTR/Stock,1
+,1325003-8,OH Sta. Rosa,OHSTR/Stock,1
+,1325005-8,OH Sta. Rosa,OHSTR/Stock,1
+,1325109-8,OH Sta. Rosa,OHSTR/Stock,1
+,1325110-8,OH Sta. Rosa,OHSTR/Stock,1
+,1325096-8,OH Sta. Rosa,OHSTR/Stock,1
+,1325097-8,OH Sta. Rosa,OHSTR/Stock,1
+,1325099-8,OH Sta. Rosa,OHSTR/Stock,1
+,1325100-8,OH Sta. Rosa,OHSTR/Stock,1
+,125035-10,OH Sta. Rosa,OHSTR/Stock,1
+,125036-10,OH Sta. Rosa,OHSTR/Stock,1
+,125042-10,OH Sta. Rosa,OHSTR/Stock,1
+,125043-10,OH Sta. Rosa,OHSTR/Stock,1
+,824039-27,OH Sta. Rosa,OHSTR/Stock,1
+,824043-27,OH Sta. Rosa,OHSTR/Stock,1
+,824044-31,OH Sta. Rosa,OHSTR/Stock,1
+,824047-27,OH Sta. Rosa,OHSTR/Stock,1
+,124162-8,SMH Cubao,SMHCU/Stock,1
+,M1704-12,SMH Cubao,SMHCU/Stock,2
+,M1707-19,SMH Cubao,SMHCU/Stock,2
+,M1704-19,SMH Cubao,SMHCU/Stock,2
+,824021-13,SMH Cubao,SMHCU/Stock,2
+,824022-20,SMH Cubao,SMHCU/Stock,2
+,824025-13,SMH Cubao,SMHCU/Stock,2
+,824026-20,SMH Cubao,SMHCU/Stock,2
+,D21009-5N,SMH Cubao,SMHCU/Stock,2
+,125012-4,SMH Cubao,SMHCU/Stock,2
+,125013-4,SMH Cubao,SMHCU/Stock,2
+,825003-24,SMH Cubao,SMHCU/Stock,1
+,M1625-12,SMH Cubao,SMHCU/Stock,1
+,1324271-8,SMH Cubao,SMHCU/Stock,1
+,1324274-8,SMH Cubao,SMHCU/Stock,1
+,W19185-13,SMH Cubao,SMHCU/Stock,1
+,1323101-13,SMH Cubao,SMHCU/Stock,1
+,1323119-13,SMH Cubao,SMHCU/Stock,1
+,W22083-12,SMH Cubao,SMHCU/Stock,1
+,W22082-12,SMH Cubao,SMHCU/Stock,1
+,123092-4,OH Mandurriao,OHMDR/Stock,2
+,123093-4,OH Mandurriao,OHMDR/Stock,1
+,123094-4,OH Mandurriao,OHMDR/Stock,1
+,1125034-1,OH Mandurriao,OHMDR/Stock,1
+,1125035-1,OH Mandurriao,OHMDR/Stock,3
+,123440-4,OH Mandurriao,OHMDR/Stock,2
+,123441-4,OH Mandurriao,OHMDR/Stock,2
+,123445-4,OH Mandurriao,OHMDR/Stock,2
+,123446-4,OH Mandurriao,OHMDR/Stock,1
+,123447-4,OH Mandurriao,OHMDR/Stock,2
+,123448-4,OH Mandurriao,OHMDR/Stock,1
+,123506-4,OH Mandurriao,OHMDR/Stock,2
+,123507-4,OH Mandurriao,OHMDR/Stock,2
+,1123039-1,OH Mandurriao,OHMDR/Stock,1
+,1123038-1,OH Mandurriao,OHMDR/Stock,2
+,1123040-1,OH Mandurriao,OHMDR/Stock,1
+,123376-3,OH Mandurriao,OHMDR/Stock,1
+,123377-3,OH Mandurriao,OHMDR/Stock,1
+,123378-3,OH Mandurriao,OHMDR/Stock,1
+,123379-3,OH Mandurriao,OHMDR/Stock,1
+,W21044-12,OH Mall of Asia,OHMOA/Stock,1
+,M1704-12,SMH Las Pinas,SMHLP/Stock,2
+,M1707-12,SMH Las Pinas,SMHLP/Stock,2
+,M1707-19,SMH Las Pinas,SMHLP/Stock,2
+,M1704-19,SMH Las Pinas,SMHLP/Stock,2
+,824021-13,SMH Las Pinas,SMHLP/Stock,2
+,824022-20,SMH Las Pinas,SMHLP/Stock,2
+,824025-13,SMH Las Pinas,SMHLP/Stock,2
+,824026-20,SMH Las Pinas,SMHLP/Stock,2
+,D21009-5N,SMH Las Pinas,SMHLP/Stock,2
+,123490-12,SMH Las Pinas,SMHLP/Stock,1
+,125012-4,SMH Las Pinas,SMHLP/Stock,2
+,125013-4,SMH Las Pinas,SMHLP/Stock,2
+,DS1952-20,SMH Las Pinas,SMHLP/Stock,1
+,123324-12,SMH Las Pinas,SMHLP/Stock,1
+,123411-12,SMH Las Pinas,SMHLP/Stock,1
+,124015-12,SMH Las Pinas,SMHLP/Stock,1
+,1324048-7,SMH Davao,SMHDV/Stock,1
+,1322054-8,SMH Davao,SMHDV/Stock,1
+,1322083-8,SMH Davao,SMHDV/Stock,2
+,1322104-13,SMH Davao,SMHDV/Stock,1
+,W21694-12,SMH Davao,SMHDV/Stock,1
+,1324246-12,SMH Davao,SMHDV/Stock,2
+,124165-8,SMH Davao,SMHDV/Stock,1
+,1325121-9,SMH Davao,SMHDV/Stock,1
+,1325122-9,SMH Davao,SMHDV/Stock,1
+,1325123-9,SMH Davao,SMHDV/Stock,1
+,125012-4,SMH Davao,SMHDV/Stock,2
+,125013-4,SMH Davao,SMHDV/Stock,2
+,123324-12,SMH Davao,SMHDV/Stock,1
+,123402-7,SMH Davao,SMHDV/Stock,1
+,123403-7,SMH Davao,SMHDV/Stock,1
+,123411-12,SMH Davao,SMHDV/Stock,1
+,DS1952-20,SMH Davao,SMHDV/Stock,1
+,D21010-5N,SMH Davao,SMHDV/Stock,2
+,D21013-5N,SMH Davao,SMHDV/Stock,1
+,1324005-7,SMH Davao,SMHDV/Stock,1
+,124015-12,SMH Davao,SMHDV/Stock,1
+,124017-12,SMH Davao,SMHDV/Stock,1
+,D1950-7G,SMH Davao,SMHDV/Stock,1
+,W21356-8,SMH Davao,SMHDV/Stock,1
+,W21359-8,SMH Davao,SMHDV/Stock,1
+,W22082-12,SMH Davao,SMHDV/Stock,1
+,W22083-12,SMH Davao,SMHDV/Stock,1
+,824033-13,SMH Davao,SMHDV/Stock,1
+,824034-20,SMH Davao,SMHDV/Stock,1
+,824045-13,SMH Davao,SMHDV/Stock,1
+,824046-20,SMH Davao,SMHDV/Stock,1
+,824049-13,SMH Davao,SMHDV/Stock,1
+,824050-20,SMH Davao,SMHDV/Stock,1
+,M1625-12,SMH Davao,SMHDV/Stock,2
+,M1625-19,SMH Davao,SMHDV/Stock,2
+,M1653-12,SMH Davao,SMHDV/Stock,2
+,1324152-15,SMH Davao,SMHDV/Stock,1
+,1324155-15,SMH Davao,SMHDV/Stock,1
+,1324169-8,SMH Davao,SMHDV/Stock,2
+,1324170-8,SMH Davao,SMHDV/Stock,1
+,1324172-15,SMH Davao,SMHDV/Stock,2
+,1324175-15,SMH Davao,SMHDV/Stock,2
+,1324270-8,SMH Davao,SMHDV/Stock,1
+,1324271-8,SMH Davao,SMHDV/Stock,1
+,1324273-8,SMH Davao,SMHDV/Stock,1
+,1324274-8,SMH Davao,SMHDV/Stock,1
+,D18118-10,OH Mandurriao,OHMDR/Stock,1
+,D18119-10,OH Mandurriao,OHMDR/Stock,1
+,D18160-10,OH Mandurriao,OHMDR/Stock,1
+,D18161-10Y,OH Mandurriao,OHMDR/Stock,1
+,D18162-10,OH Mandurriao,OHMDR/Stock,1
+,D18163-10,OH Mandurriao,OHMDR/Stock,1
+,D18247-10,OH Mandurriao,OHMDR/Stock,1
+,D18292-8,OH Mandurriao,OHMDR/Stock,2
+,D19136-4,OH Mandurriao,OHMDR/Stock,1
+,925014-2,OH North Edsa,OHNE/Stock,1
+,M1536-34,SMH Cebu,SMHCE/Stock,2
+,123324-12,SMH Cebu,SMHCE/Stock,2
+,123401-7,SMH Cebu,SMHCE/Stock,1
+,123403-7,SMH Cebu,SMHCE/Stock,1
+,DS1952-20,SMH Cebu,SMHCE/Stock,2
+,D21010-5N,SMH Cebu,SMHCE/Stock,2
+,D21013-5N,SMH Cebu,SMHCE/Stock,2
+,D1950-7G,SMH Cebu,SMHCE/Stock,2
+,824029-13,SMH Cebu,SMHCE/Stock,1
+,824030-20,SMH Cebu,SMHCE/Stock,1
+,824033-13,SMH Cebu,SMHCE/Stock,1
+,824034-20,SMH Cebu,SMHCE/Stock,1
+,824045-13,SMH Cebu,SMHCE/Stock,1
+,824046-20,SMH Cebu,SMHCE/Stock,1
+,824049-13,SMH Cebu,SMHCE/Stock,1
+,824050-20,SMH Cebu,SMHCE/Stock,1
+,M1625-12,SMH Cebu,SMHCE/Stock,1
+,M1625-19,SMH Cebu,SMHCE/Stock,1
+,D21032-8,SMH Cebu,SMHCE/Stock,1
+,D21033-8,SMH Cebu,SMHCE/Stock,1
+,124042-16,OH North Edsa,OHNE/Stock,1
+,124044-15,OH North Edsa,OHNE/Stock,1
+,D1971-10,OH North Edsa,OHNE/Stock,1
+,D1981-15,OH North Edsa,OHNE/Stock,1
+,D20001-10,OH North Edsa,OHNE/Stock,1
+,824039-27,OH North Edsa,OHNE/Stock,1
+,824040-31,OH North Edsa,OHNE/Stock,1
+,824043-27,OH North Edsa,OHNE/Stock,1
+,824047-27,OH North Edsa,OHNE/Stock,1
+,824048-31,OH North Edsa,OHNE/Stock,1
+,124177-6,OH North Edsa,OHNE/Stock,1
+,123406-10,OH North Edsa,OHNE/Stock,1
+,123412-12,OH North Edsa,OHNE/Stock,1
+,123414-7,OH North Edsa,OHNE/Stock,1
+,123415-12,OH North Edsa,OHNE/Stock,1
+,123426-8,OH North Edsa,OHNE/Stock,1
+,123428-8,OH North Edsa,OHNE/Stock,1
+,123434-12,OH North Edsa,OHNE/Stock,1
+,123435-12,OH North Edsa,OHNE/Stock,1
+,D21018-12,OH North Edsa,OHNE/Stock,1
+,D21017-7,OH North Edsa,OHNE/Stock,1
+,824040-31,SMH Makati,SMHMK/Stock,2
+,824044-31,SMH Makati,SMHMK/Stock,3
+,824048-31,SMH Makati,SMHMK/Stock,3
+,123116-7,SMH Makati,SMHMK/Stock,1
+,125057-20,SMH Makati,SMHMK/Stock,1
+,D21032-8,SMH Makati,SMHMK/Stock,1
+,D21033-8,SMH Makati,SMHMK/Stock,1
+,824009-11,SMH Makati,SMHMK/Stock,3
+,124123-8,SMH Makati,SMHMK/Stock,2
+,124124-8,SMH Makati,SMHMK/Stock,2
+,124128-10,SMH Makati,SMHMK/Stock,2
+,124129-10,SMH Makati,SMHMK/Stock,1
+,1323028-8,SMH Makati,SMHMK/Stock,1
+,1323030-8,SMH Makati,SMHMK/Stock,1
+,1323059-13,SMH Makati,SMHMK/Stock,1
+,1323060-13,SMH Makati,SMHMK/Stock,1
+,1323073-13,SMH Makati,SMHMK/Stock,1
+,1323077-13,SMH Makati,SMHMK/Stock,1
+,1323082-13,SMH Makati,SMHMK/Stock,1
+,1323083-13,SMH Makati,SMHMK/Stock,1
+,1323084-13,SMH Makati,SMHMK/Stock,1
+,1323130-8,SMH Makati,SMHMK/Stock,1
+,1323068-13,SMH Makati,SMHMK/Stock,1
+,1323072-13,SMH Makati,SMHMK/Stock,1
+,1323075-13,SMH Makati,SMHMK/Stock,1
+,1323076-13,SMH Makati,SMHMK/Stock,1
+,125029-12,SMH Makati,SMHMK/Stock,1
+,125030-12,SMH Makati,SMHMK/Stock,1
+,125031-12,SMH Makati,SMHMK/Stock,1
+,125032-12,SMH Makati,SMHMK/Stock,1
+,1336324-15,SMH Makati,SMHMK/Stock,1
+,1336325-15,SMH Makati,SMHMK/Stock,1
+,125109-8,SMH Makati,SMHMK/Stock,1
+,824039-27,OH Davao,OHDV/Stock,1
+,824040-31,OH Davao,OHDV/Stock,1
+,824043-27,OH Davao,OHDV/Stock,1
+,824044-31,OH Davao,OHDV/Stock,1
+,824047-27,OH Davao,OHDV/Stock,1
+,824048-31,OH Davao,OHDV/Stock,1
+,125035-10,OH Davao,OHDV/Stock,1
+,125036-10,OH Davao,OHDV/Stock,1
+,125042-10,OH Davao,OHDV/Stock,1
+,125043-10,OH Davao,OHDV/Stock,1
+,1325107-8,OH Davao,OHDV/Stock,1
+,1325108-8,OH Davao,OHDV/Stock,1
+,1325110-8,OH Davao,OHDV/Stock,1
+,1325096-8,OH Davao,OHDV/Stock,1
+,1325097-8,OH Davao,OHDV/Stock,1
+,1325099-8,OH Davao,OHDV/Stock,1
+,1325100-8,OH Davao,OHDV/Stock,1
+,1325125-10,OH Davao,OHDV/Stock,1
+,1325127-10,OH Davao,OHDV/Stock,1
+,1325129-10,OH Davao,OHDV/Stock,1
+,1325130-10,OH Davao,OHDV/Stock,1
+,925016-1,OH Davao,OHDV/Stock,4
+,925017-1,OH Davao,OHDV/Stock,4
+,925014-2,OH Davao,OHDV/Stock,1
+,824039-27,OH Lanang,OHLAN/Stock,1
+,824040-31,OH Lanang,OHLAN/Stock,1
+,824043-27,OH Lanang,OHLAN/Stock,1
+,824044-31,OH Lanang,OHLAN/Stock,1
+,824047-27,OH Lanang,OHLAN/Stock,1
+,824048-31,OH Lanang,OHLAN/Stock,1
+,125035-10,OH Lanang,OHLAN/Stock,1
+,125036-10,OH Lanang,OHLAN/Stock,1
+,125042-10,OH Lanang,OHLAN/Stock,1
+,1325107-8,OH Lanang,OHLAN/Stock,1
+,1325108-8,OH Lanang,OHLAN/Stock,1
+,1325110-8,OH Lanang,OHLAN/Stock,1
+,1325096-8,OH Lanang,OHLAN/Stock,1
+,1325097-8,OH Lanang,OHLAN/Stock,1
+,1325099-8,OH Lanang,OHLAN/Stock,1
+,1325100-8,OH Lanang,OHLAN/Stock,1
+,925016-1,OH Lanang,OHLAN/Stock,4
+,925017-1,OH Lanang,OHLAN/Stock,4
+,925014-2,OH Lanang,OHLAN/Stock,1
+,D1981-15,OH Lanang,OHLAN/Stock,1
+,D20001-10,OH Lanang,OHLAN/Stock,1
+,D21014-10G,OH Lanang,OHLAN/Stock,1
+,D21016-10,OH Lanang,OHLAN/Stock,2
+,D21063-7G,OH Lanang,OHLAN/Stock,2
+,M1653-12,OH Lanang,OHLAN/Stock,1
+,824031-27,OH Lanang,OHLAN/Stock,1
+,824032-31,OH Lanang,OHLAN/Stock,1
+,824051-27,OH Lanang,OHLAN/Stock,2
+,824052-31,OH Lanang,OHLAN/Stock,1
+,1324231-4,OH Lanang,OHLAN/Stock,2
+,W21685-8,OH Lanang,OHLAN/Stock,1
+,W21687-8,OH Lanang,OHLAN/Stock,1
+,W21690-12,OH Lanang,OHLAN/Stock,1
+,824011-11,OH Lanang,OHLAN/Stock,1
+,924019-2,OH Lanang,OHLAN/Stock,2
+,M1536-34,OH Urdaneta,OHURD/Stock,1
+,125036-10,OH North Edsa,OHNE/Stock,1
+,1323068-13,SMH Mall of Asia,SMHMO/Stock,1
+,1323072-13,SMH Mall of Asia,SMHMO/Stock,1
+,1323076-13,SMH Mall of Asia,SMHMO/Stock,1
+,1323078-13,SMH Mall of Asia,SMHMO/Stock,1
+,124123-8,SMH Mall of Asia,SMHMO/Stock,2
+,124124-8,SMH Mall of Asia,SMHMO/Stock,2
+,124128-10,SMH Mall of Asia,SMHMO/Stock,2
+,1323059-13,SMH Mall of Asia,SMHMO/Stock,1
+,1323073-13,SMH Mall of Asia,SMHMO/Stock,1
+,1323074-13,SMH Mall of Asia,SMHMO/Stock,1
+,1323077-13,SMH Mall of Asia,SMHMO/Stock,1
+,W21694-12,SMH Mall of Asia,SMHMO/Stock,1
+,125029-12,SMH Mall of Asia,SMHMO/Stock,1
+,125030-12,SMH Mall of Asia,SMHMO/Stock,1
+,125031-12,SMH Mall of Asia,SMHMO/Stock,1
+,125032-12,SMH Mall of Asia,SMHMO/Stock,1
+,125109-8,SMH Mall of Asia,SMHMO/Stock,1
+,1324244-12,SMH Mall of Asia,SMHMO/Stock,1
+,1324246-12,SMH Mall of Asia,SMHMO/Stock,1
+,1336324-15,SMH Mall of Asia,SMHMO/Stock,1
+,1336325-15,SMH Mall of Asia,SMHMO/Stock,1
+,124162-8,SMH Mall of Asia,SMHMO/Stock,1
+,124163-8,SMH Mall of Asia,SMHMO/Stock,1
+,125057-20,SMH Mall of Asia,SMHMO/Stock,1
+,M1625-19,SMH Mall of Asia,SMHMO/Stock,1
+,M1707-19,SMH Mall of Asia,SMHMO/Stock,1
+,124123-8,SMH Ortigas,SMHOR/Stock,2
+,124128-10,SMH Ortigas,SMHOR/Stock,2
+,124129-10,SMH Ortigas,SMHOR/Stock,2
+,1322052-8,SMH Ortigas,SMHOR/Stock,1
+,1322054-8,SMH Ortigas,SMHOR/Stock,1
+,1322055-8,SMH Ortigas,SMHOR/Stock,1
+,1323028-8,SMH Ortigas,SMHOR/Stock,1
+,1323030-8,SMH Ortigas,SMHOR/Stock,1
+,1323059-13,SMH Ortigas,SMHOR/Stock,1
+,1323060-13,SMH Ortigas,SMHOR/Stock,1
+,1323073-13,SMH Ortigas,SMHOR/Stock,1
+,1323074-13,SMH Ortigas,SMHOR/Stock,1
+,1323077-13,SMH Ortigas,SMHOR/Stock,1
+,1323130-8,SMH Ortigas,SMHOR/Stock,1
+,1324244-12,SMH Ortigas,SMHOR/Stock,3
+,W21694-12,SMH Ortigas,SMHOR/Stock,2
+,1323068-13,SMH Ortigas,SMHOR/Stock,1
+,1323075-13,SMH Ortigas,SMHOR/Stock,1
+,1323076-13,SMH Ortigas,SMHOR/Stock,1
+,1323078-13,SMH Ortigas,SMHOR/Stock,1
+,125029-12,SMH Ortigas,SMHOR/Stock,1
+,125030-12,SMH Ortigas,SMHOR/Stock,1
+,125031-12,SMH Ortigas,SMHOR/Stock,1
+,125032-12,SMH Ortigas,SMHOR/Stock,1
+,1336324-15,SMH Ortigas,SMHOR/Stock,1
+,1336325-15,SMH Ortigas,SMHOR/Stock,1
+,124162-8,SMH Ortigas,SMHOR/Stock,2
+,M1704-12,SMH Ortigas,SMHOR/Stock,2
+,M1704-19,SMH Ortigas,SMHOR/Stock,2
+,M1707-19,SMH Ortigas,SMHOR/Stock,2
+,824021-13,SMH Ortigas,SMHOR/Stock,2
+,824022-20,SMH Ortigas,SMHOR/Stock,2
+,824025-13,SMH Ortigas,SMHOR/Stock,2
+,824026-20,SMH Ortigas,SMHOR/Stock,2
+,122039-8,SMH Ortigas,SMHOR/Stock,1
+,123324-12,SMH Ortigas,SMHOR/Stock,1
+,123364-15,SMH Ortigas,SMHOR/Stock,1
+,124015-12,SMH Ortigas,SMHOR/Stock,3
+,D18135-19,SMH Ortigas,SMHOR/Stock,3
+,1325176-15,SMH Ortigas,SMHOR/Stock,1
+,W22033-25,SMH Ortigas,SMHOR/Stock,1
+,1325123-9,SMH Ortigas,SMHOR/Stock,2
+,1325124-9,SMH Ortigas,SMHOR/Stock,2
+,123414-7,OH Clark,OHCLK/Stock,1
+,D21017-7,OH Clark,OHCLK/Stock,1
+,124177-6,OH Clark,OHCLK/Stock,1
+,124178-8,OH Clark,OHCLK/Stock,2
+,1324003-12,OH Clark,OHCLK/Stock,1
+,1324006-10,OH Clark,OHCLK/Stock,1
+,124139-15,OH Clark,OHCLK/Stock,1
+,124140-15,OH Clark,OHCLK/Stock,1
+,123406-10,OH Megamall,OHMEG/Stock,1
+,123412-12,OH Megamall,OHMEG/Stock,2
+,123414-7,OH Megamall,OHMEG/Stock,1
+,123426-8,OH Megamall,OHMEG/Stock,2
+,D21018-12,OH Megamall,OHMEG/Stock,1
+,1324003-12,OH Megamall,OHMEG/Stock,2
+,1324006-10,OH Megamall,OHMEG/Stock,2
+,824039-27,OH Megamall,OHMEG/Stock,2
+,824040-31,OH Megamall,OHMEG/Stock,2
+,824043-27,OH Megamall,OHMEG/Stock,2
+,824044-31,OH Megamall,OHMEG/Stock,2
+,824047-27,OH Megamall,OHMEG/Stock,2
+,824048-31,OH Megamall,OHMEG/Stock,2
+,124177-6,OH Megamall,OHMEG/Stock,2
+,824036-31,OH Mandurriao,OHMDR/Stock,1
+,824039-27,OH Bacolod,OHBCD/Stock,1
+,824040-31,OH Bacolod,OHBCD/Stock,1
+,824043-27,OH Bacolod,OHBCD/Stock,1
+,824044-31,OH Bacolod,OHBCD/Stock,1
+,824048-31,OH Bacolod,OHBCD/Stock,1
+,125035-10,OH Bacolod,OHBCD/Stock,1
+,125036-10,OH Bacolod,OHBCD/Stock,1
+,1325125-10,OH Bacolod,OHBCD/Stock,1
+,1325127-10,OH Bacolod,OHBCD/Stock,1
+,124042-16,OH Bacolod,OHBCD/Stock,1
+,124044-15,OH Bacolod,OHBCD/Stock,1
+,D1971-10,OH Bacolod,OHBCD/Stock,1
+,D1981-15,OH Bacolod,OHBCD/Stock,1
+,D20001-10,OH Bacolod,OHBCD/Stock,1
+,D21014-10G,OH Bacolod,OHBCD/Stock,1
+,D21016-10,OH Bacolod,OHBCD/Stock,1
+,D21063-7G,OH Bacolod,OHBCD/Stock,2
+,123434-12,OH Baguio,OHBAG/Stock,1
+,124139-15,OH Baguio,OHBAG/Stock,1
+,124140-15,OH Baguio,OHBAG/Stock,1
+,1324003-12,OH Baguio,OHBAG/Stock,2
+,1324006-10,OH Baguio,OHBAG/Stock,1
+,124106-4,OH Baguio,OHBAG/Stock,1
+,124177-6,OH Baguio,OHBAG/Stock,1
+,124178-8,OH Baguio,OHBAG/Stock,1
+,124139-15,OH Urdaneta,OHURD/Stock,1
+,124140-15,OH Urdaneta,OHURD/Stock,1
+,124149-8,OH Urdaneta,OHURD/Stock,2
+,1324003-12,OH Urdaneta,OHURD/Stock,2
+,1324006-10,OH Urdaneta,OHURD/Stock,2
+,123406-10,OH Urdaneta,OHURD/Stock,1
+,123412-12,OH Urdaneta,OHURD/Stock,1
+,123414-7,OH Urdaneta,OHURD/Stock,1
+,123416-7,OH Urdaneta,OHURD/Stock,1
+,123434-12,OH Urdaneta,OHURD/Stock,1
+,123435-12,OH Urdaneta,OHURD/Stock,1
+,D21018-12,OH Urdaneta,OHURD/Stock,1
+,925016-1,OH Urdaneta,OHURD/Stock,2
+,924069-1,OH Urdaneta,OHURD/Stock,11
+,125109-8,SMH Ortigas,SMHOR/Stock,2
+,124177-6,OH Batangas,OHBAT/Stock,1
+,124178-8,OH Batangas,OHBAT/Stock,1
+,1324003-12,OH Batangas,OHBAT/Stock,2
+,1324006-10,OH Batangas,OHBAT/Stock,1
+,123426-8,OH Batangas,OHBAT/Stock,1
+,123428-8,OH Batangas,OHBAT/Stock,1
+,D21017-7,OH Batangas,OHBAT/Stock,2
+,824032-31,OH Fairview,OHFV/Stock,1
+,824046-20,OH Fairview,OHFV/Stock,2
+,824049-13,OH Fairview,OHFV/Stock,2
+,824045-13,OH Fairview,OHFV/Stock,1
+,124139-15,OH Fairview,OHFV/Stock,1
+,124140-15,OH Fairview,OHFV/Stock,1
+,1324003-12,OH Fairview,OHFV/Stock,1
+,124106-4,OH Fairview,OHFV/Stock,1
+,124177-6,OH Fairview,OHFV/Stock,1
+,124178-8,OH Fairview,OHFV/Stock,1
+,123406-10,OH Fairview,OHFV/Stock,1
+,123414-7,OH Fairview,OHFV/Stock,1
+,123415-12,OH Fairview,OHFV/Stock,1
+,123416-7,OH Fairview,OHFV/Stock,1
+,D21018-12,OH Fairview,OHFV/Stock,1
+,D21017-7,OH Fairview,OHFV/Stock,2
+,824039-27,OH Fairview,OHFV/Stock,1
+,824040-31,OH Fairview,OHFV/Stock,1
+,824043-27,OH Fairview,OHFV/Stock,1
+,824044-31,OH Fairview,OHFV/Stock,1
+,824047-27,OH Fairview,OHFV/Stock,1
+,824048-31,OH Fairview,OHFV/Stock,1
+,125035-10,OH Fairview,OHFV/Stock,1
+,125036-10,OH Fairview,OHFV/Stock,1
+,1325109-8,OH Fairview,OHFV/Stock,1
+,1325110-8,OH Fairview,OHFV/Stock,1
+,1325096-8,OH Fairview,OHFV/Stock,1
+,1325097-8,OH Fairview,OHFV/Stock,1
+,1325125-10,OH Fairview,OHFV/Stock,1
+,1325127-10,OH Fairview,OHFV/Stock,1
+,1325129-10,OH Fairview,OHFV/Stock,1
+,1325130-10,OH Fairview,OHFV/Stock,1
+,D1971-10,OH Fairview,OHFV/Stock,1
+,1325002-8,OH Fairview,OHFV/Stock,2
+,1325003-8,OH Fairview,OHFV/Stock,1
+,1325004-8,OH Fairview,OHFV/Stock,2
+,1325005-8,OH Fairview,OHFV/Stock,2
+,1324006-10,OH Lucena,OHLUC/Stock,1
+,123406-10,OH Lucena,OHLUC/Stock,1
+,123414-7,OH Lucena,OHLUC/Stock,1
+,123416-7,OH Lucena,OHLUC/Stock,1
+,123426-8,OH Lucena,OHLUC/Stock,1
+,124139-15,OH Lucena,OHLUC/Stock,1
+,124140-15,OH Lucena,OHLUC/Stock,1
+,123426-8,OH Mall of Asia,OHMOA/Stock,1
+,123428-8,OH Mall of Asia,OHMOA/Stock,1
+,123434-12,OH Mall of Asia,OHMOA/Stock,1
+,123435-12,OH Mall of Asia,OHMOA/Stock,1
+,124113-4,OH Mall of Asia,OHMOA/Stock,1
+,124177-6,OH Mall of Asia,OHMOA/Stock,1
+,124044-15,OH Pampanga,OHPAM/Stock,1
+,123092-4,OH Pampanga,OHPAM/Stock,1
+,123094-4,OH Pampanga,OHPAM/Stock,1
+,123445-4,OH Pampanga,OHPAM/Stock,1
+,123446-4,OH Pampanga,OHPAM/Stock,1
+,123447-4,OH Pampanga,OHPAM/Stock,1
+,123448-4,OH Pampanga,OHPAM/Stock,1
+,123506-4,OH Pampanga,OHPAM/Stock,1
+,D1971-10,OH Pampanga,OHPAM/Stock,1
+,D1946-20G,OH Pampanga,OHPAM/Stock,1
+,D21063-7G,OH Pampanga,OHPAM/Stock,2
+,925011-2,OH Pampanga,OHPAM/Stock,2
+,925013-2,OH Pampanga,OHPAM/Stock,1
+,925014-2,OH Pampanga,OHPAM/Stock,1
+,925015-1,OH Pampanga,OHPAM/Stock,1
+,925016-1,OH Pampanga,OHPAM/Stock,2
+,925017-1,OH Pampanga,OHPAM/Stock,4
+,925010-2,OH Pampanga,OHPAM/Stock,1
+,1123142-1,OH Pampanga,OHPAM/Stock,2
+,1123141-1,OH Pampanga,OHPAM/Stock,2
+,1123140-2,OH Pampanga,OHPAM/Stock,2
+,824039-27,OH Pampanga,OHPAM/Stock,1
+,824040-31,OH Pampanga,OHPAM/Stock,1
+,824043-27,OH Pampanga,OHPAM/Stock,1
+,824047-27,OH Pampanga,OHPAM/Stock,1
+,824048-31,OH Pampanga,OHPAM/Stock,1
+,124139-15,OH Pampanga,OHPAM/Stock,1
+,124140-15,OH Pampanga,OHPAM/Stock,1
+,1324003-12,OH Pampanga,OHPAM/Stock,2
+,1324006-10,OH Pampanga,OHPAM/Stock,2
+,124106-4,OH Pampanga,OHPAM/Stock,1
+,124113-4,OH Pampanga,OHPAM/Stock,1
+,124177-6,OH Pampanga,OHPAM/Stock,1
+,124178-8,OH Pampanga,OHPAM/Stock,1
+,123426-8,OH Pampanga,OHPAM/Stock,1
+,123428-8,OH Pampanga,OHPAM/Stock,1
+,123434-12,OH Pampanga,OHPAM/Stock,1
+,123435-12,OH Pampanga,OHPAM/Stock,1
+,D21018-12,OH Pampanga,OHPAM/Stock,1
+,125035-10,OH Pampanga,OHPAM/Stock,1
+,125036-10,OH Pampanga,OHPAM/Stock,1
+,125042-10,OH Pampanga,OHPAM/Stock,1
+,125043-10,OH Pampanga,OHPAM/Stock,1
+,1325107-8,OH Pampanga,OHPAM/Stock,1
+,1325110-8,OH Pampanga,OHPAM/Stock,1
+,1325096-8,OH Pampanga,OHPAM/Stock,1
+,1325097-8,OH Pampanga,OHPAM/Stock,1
+,1325099-8,OH Pampanga,OHPAM/Stock,1
+,1325100-8,OH Pampanga,OHPAM/Stock,1
+,1325125-10,OH Pampanga,OHPAM/Stock,2
+,1325127-10,OH Pampanga,OHPAM/Stock,1
+,1325002-8,OH Pampanga,OHPAM/Stock,1
+,1325003-8,OH Pampanga,OHPAM/Stock,1
+,1325004-8,OH Pampanga,OHPAM/Stock,1
+,1325005-8,OH Pampanga,OHPAM/Stock,1
+,824034-20,OH Pampanga,OHPAM/Stock,1
+,824046-20,OH Pampanga,OHPAM/Stock,1
+,824032-31,OH Pampanga,OHPAM/Stock,1
+,824036-31,OH Pampanga,OHPAM/Stock,1
+,824052-31,OH Pampanga,OHPAM/Stock,1
+,123406-10,OH Pampanga,OHPAM/Stock,1
+,123412-12,OH Pampanga,OHPAM/Stock,1
+,123416-7,OH Pampanga,OHPAM/Stock,2
+,124033-15,OH Pampanga,OHPAM/Stock,1
+,924069-1,OH Pampanga,OHPAM/Stock,12
+,M21058-19,OH Pampanga,OHPAM/Stock,2
+,D21032-8,SMH Pampanga,SMHPA/Stock,1
+,D21033-8,SMH Pampanga,SMHPA/Stock,1
+,123124-7,SMH Pampanga,SMHPA/Stock,2
+,123401-7,SMH Pampanga,SMHPA/Stock,1
+,123403-7,SMH Pampanga,SMHPA/Stock,1
+,123411-12,SMH Pampanga,SMHPA/Stock,1
+,124124-8,SMH Pampanga,SMHPA/Stock,1
+,124128-10,SMH Pampanga,SMHPA/Stock,1
+,124129-10,SMH Pampanga,SMHPA/Stock,1
+,1323028-8,SMH Pampanga,SMHPA/Stock,1
+,1323030-8,SMH Pampanga,SMHPA/Stock,1
+,1323067-13,SMH Pampanga,SMHPA/Stock,1
+,1323073-13,SMH Pampanga,SMHPA/Stock,1
+,1323082-13,SMH Pampanga,SMHPA/Stock,1
+,1323083-13,SMH Pampanga,SMHPA/Stock,1
+,1323084-13,SMH Pampanga,SMHPA/Stock,1
+,1323085-13,SMH Pampanga,SMHPA/Stock,1
+,1323140-10,SMH Pampanga,SMHPA/Stock,1
+,W21694-12,SMH Pampanga,SMHPA/Stock,1
+,1323063-13,SMH Pampanga,SMHPA/Stock,1
+,1323066-13,SMH Pampanga,SMHPA/Stock,1
+,1323090-13,SMH Pampanga,SMHPA/Stock,1
+,1323093-13,SMH Pampanga,SMHPA/Stock,1
+,125109-8,SMH Pampanga,SMHPA/Stock,1
+,124162-8,SMH Pampanga,SMHPA/Stock,1
+,124163-8,SMH Pampanga,SMHPA/Stock,1
+,824021-13,SMH Pampanga,SMHPA/Stock,2
+,824022-20,SMH Pampanga,SMHPA/Stock,2
+,824025-13,SMH Pampanga,SMHPA/Stock,1
+,824026-20,SMH Pampanga,SMHPA/Stock,2
+,1325122-9,SMH Pampanga,SMHPA/Stock,1
+,1325123-9,SMH Pampanga,SMHPA/Stock,1
+,D21009-5N,SMH Pampanga,SMHPA/Stock,2
+,D18135-19,SMH Pampanga,SMHPA/Stock,2
+,123489-12,SMH Pampanga,SMHPA/Stock,1
+,123490-12,SMH Pampanga,SMHPA/Stock,1
+,125013-4,SMH Pampanga,SMHPA/Stock,1
+,DS1952-20,SMH Lipa,SMHLI/Stock,1
+,1324046-7,SMH Lipa,SMHLI/Stock,1
+,124123-8,SMH Lipa,SMHLI/Stock,1
+,124124-8,SMH Lipa,SMHLI/Stock,1
+,124128-10,SMH Lipa,SMHLI/Stock,1
+,124129-10,SMH Lipa,SMHLI/Stock,1
+,1323032-8,SMH Lipa,SMHLI/Stock,1
+,1323037-8,SMH Lipa,SMHLI/Stock,1
+,1323060-13,SMH Lipa,SMHLI/Stock,1
+,1323074-13,SMH Lipa,SMHLI/Stock,1
+,1323077-13,SMH Lipa,SMHLI/Stock,1
+,1323063-13,SMH Lipa,SMHLI/Stock,1
+,1323090-13,SMH Lipa,SMHLI/Stock,1
+,1324003-12,OH North Edsa,OHNE/Stock,2
+,1324006-10,OH North Edsa,OHNE/Stock,2
+,124140-15,OH North Edsa,OHNE/Stock,1
+,124149-8,OH North Edsa,OHNE/Stock,2
+,1325269-8,OH North Edsa,OHNE/Stock,2
+,824051-27,OH North Edsa,OHNE/Stock,1
+,824032-31,OH North Edsa,OHNE/Stock,1
+,1324193-10,OH North Edsa,OHNE/Stock,1
+,W21431-8,OH North Edsa,OHNE/Stock,2
+,W21688-12,OH North Edsa,OHNE/Stock,2
+,924069-1,OH North Edsa,OHNE/Stock,9
+,1322055-8,SMH North Edsa,SMHNE/Stock,1
+,1323028-8,SMH North Edsa,SMHNE/Stock,1
+,1323030-8,SMH North Edsa,SMHNE/Stock,1
+,1323032-8,SMH North Edsa,SMHNE/Stock,1
+,1323037-8,SMH North Edsa,SMHNE/Stock,1
+,1323059-13,SMH North Edsa,SMHNE/Stock,1
+,1323060-13,SMH North Edsa,SMHNE/Stock,1
+,1323067-13,SMH North Edsa,SMHNE/Stock,1
+,1323073-13,SMH North Edsa,SMHNE/Stock,1
+,1323074-13,SMH North Edsa,SMHNE/Stock,1
+,1323077-13,SMH North Edsa,SMHNE/Stock,1
+,1323082-13,SMH North Edsa,SMHNE/Stock,1
+,1323083-13,SMH North Edsa,SMHNE/Stock,1
+,1323084-13,SMH North Edsa,SMHNE/Stock,1
+,1323085-13,SMH North Edsa,SMHNE/Stock,1
+,1323130-8,SMH North Edsa,SMHNE/Stock,1
+,1323131-8,SMH North Edsa,SMHNE/Stock,1
+,124123-8,SMH North Edsa,SMHNE/Stock,2
+,124124-8,SMH North Edsa,SMHNE/Stock,1
+,124128-10,SMH North Edsa,SMHNE/Stock,2
+,124129-10,SMH North Edsa,SMHNE/Stock,1
+,1324244-12,SMH North Edsa,SMHNE/Stock,2
+,1323068-13,SMH North Edsa,SMHNE/Stock,1
+,1323072-13,SMH North Edsa,SMHNE/Stock,1
+,1323075-13,SMH North Edsa,SMHNE/Stock,1
+,1323076-13,SMH North Edsa,SMHNE/Stock,1
+,1323078-13,SMH North Edsa,SMHNE/Stock,1
+,824021-13,SMH North Edsa,SMHNE/Stock,2
+,824022-20,SMH North Edsa,SMHNE/Stock,2
+,824025-13,SMH North Edsa,SMHNE/Stock,2
+,824026-20,SMH North Edsa,SMHNE/Stock,1
+,124162-8,SMH North Edsa,SMHNE/Stock,1
+,124163-8,SMH North Edsa,SMHNE/Stock,1
+,M1704-12,SMH North Edsa,SMHNE/Stock,2
+,M1704-19,SMH North Edsa,SMHNE/Stock,1
+,M1707-12,SMH North Edsa,SMHNE/Stock,2
+,M1707-19,SMH North Edsa,SMHNE/Stock,2
+,125109-8,SMH North Edsa,SMHNE/Stock,1
+,DS1952-20,SMH North Edsa,SMHNE/Stock,1
+,122039-8,SMH North Edsa,SMHNE/Stock,1
+,W22033-25,SMH North Edsa,SMHNE/Stock,1
+,W21685-8,OH Cabanatuan,OHCAB/Stock,1
+,W21687-8,OH Cabanatuan,OHCAB/Stock,2
+,W21719-8,OH Cabanatuan,OHCAB/Stock,1
+,W21721-8,OH Cabanatuan,OHCAB/Stock,1
+,925016-1,OH Cabanatuan,OHCAB/Stock,3
+,925017-1,OH Cabanatuan,OHCAB/Stock,4
+,824039-27,OH Cabanatuan,OHCAB/Stock,1
+,824040-31,OH Cabanatuan,OHCAB/Stock,1
+,824043-27,OH Cabanatuan,OHCAB/Stock,1
+,824044-31,OH Cabanatuan,OHCAB/Stock,1
+,824047-27,OH Cabanatuan,OHCAB/Stock,1
+,824048-31,OH Cabanatuan,OHCAB/Stock,1
+,123412-12,OH Cabanatuan,OHCAB/Stock,1
+,923009-3,OH Mall of Asia,OHMOA/Stock,1
+,923031-2,OH Mall of Asia,OHMOA/Stock,1
+,924063-2,OH Mall of Asia,OHMOA/Stock,2
+,924064-2,OH Mall of Asia,OHMOA/Stock,1
+,W21688-12,OH Mall of Asia,OHMOA/Stock,1
+,W21690-12,OH Mall of Asia,OHMOA/Stock,1
+,123284-19,SMH Mall of Asia,SMHMO/Stock,1
+,123281-19,SMH Mall of Asia,SMHMO/Stock,1
+,825006-12,SMH Las Pinas,SMHLP/Stock,2
+,825007-19,SMH Las Pinas,SMHLP/Stock,2
+,M1653-12,SMH Las Pinas,SMHLP/Stock,1
+,M1703-12,SMH Las Pinas,SMHLP/Stock,1
+,1324175-15,SMH Las Pinas,SMHLP/Stock,1
+,M1909-29,SMH Las Pinas,SMHLP/Stock,1
+,124165-8,SMH Las Pinas,SMHLP/Stock,1
+,1322104-13,SMH Las Pinas,SMHLP/Stock,1
+,1324152-15,SMH Las Pinas,SMHLP/Stock,1
+,1325260-8,SMH Las Pinas,SMHLP/Stock,1
+,1325261-8 ,SMH Las Pinas,SMHLP/Stock,1
+,1325262-8 ,SMH Las Pinas,SMHLP/Stock,1
+,1325263-8 ,SMH Las Pinas,SMHLP/Stock,1
+,1325268-8,SMH Las Pinas,SMHLP/Stock,1
+,124129-10,SMH Las Pinas,SMHLP/Stock,1
+,1324244-12,SMH Las Pinas,SMHLP/Stock,1
+,1324246-12,SMH Las Pinas,SMHLP/Stock,1
+,1322052-8,SMH Las Pinas,SMHLP/Stock,1
+,1322055-8,SMH Las Pinas,SMHLP/Stock,1
+,1323032-8,SMH Las Pinas,SMHLP/Stock,1
+,1323037-8,SMH Las Pinas,SMHLP/Stock,1
+,1323067-13,SMH Las Pinas,SMHLP/Stock,1
+,1323073-13,SMH Las Pinas,SMHLP/Stock,1
+,1323082-13,SMH Las Pinas,SMHLP/Stock,1
+,1323083-13,SMH Las Pinas,SMHLP/Stock,1
+,1323063-13,SMH Las Pinas,SMHLP/Stock,1
+,1323066-13,SMH Las Pinas,SMHLP/Stock,1
+,1323090-13,SMH Las Pinas,SMHLP/Stock,1
+,1323093-13,SMH Las Pinas,SMHLP/Stock,1
+,124139-15,OH Sta. Rosa,OHSTR/Stock,1
+,124140-15,OH Sta. Rosa,OHSTR/Stock,1
+,824048-31,OH Sta. Rosa,OHSTR/Stock,1
+,824040-31,OH Sta. Rosa,OHSTR/Stock,1
+,1324193-10,OH Sta. Rosa,OHSTR/Stock,1
+,1325180-10,OH Sta. Rosa,OHSTR/Stock,1
+,1325181-12,OH Sta. Rosa,OHSTR/Stock,1
+,1325269-8,OH Sta. Rosa,OHSTR/Stock,2
+,1325271-8,OH Sta. Rosa,OHSTR/Stock,1
+,1325270-8,OH Sta. Rosa,OHSTR/Stock,1
+,1324003-12,OH Sta. Rosa,OHSTR/Stock,1
+,1324006-10,OH Sta. Rosa,OHSTR/Stock,1
+,124113-4,OH Sta. Rosa,OHSTR/Stock,1
+,124126-10,OH Sta. Rosa,OHSTR/Stock,1
+,124127-10,OH Sta. Rosa,OHSTR/Stock,1
+,124177-6,OH Sta. Rosa,OHSTR/Stock,1
+,124178-8,OH Sta. Rosa,OHSTR/Stock,1
+,123426-8,OH Sta. Rosa,OHSTR/Stock,1
+,123428-8,OH Sta. Rosa,OHSTR/Stock,1
+,123435-12,OH Sta. Rosa,OHSTR/Stock,1
+,D21018-12,OH Sta. Rosa,OHSTR/Stock,1
+,W22127-12,SMH Cebu,SMHCE/Stock,-1
+,824041-13,OH Clark,OHCLK/Stock,1
+,1322082-8,SMH Davao,SMHDV/Stock,1
+,W21688-12,SMH Mall of Asia,SMHMO/Stock,1
+,W21689-12,SMH Mall of Asia,SMHMO/Stock,1
+,1323065-13,SMH North Edsa,SMHNE/Stock,1
+,M1704-12,OH Clark,OHCLK/Stock,2
+,M1704-19,OH Clark,OHCLK/Stock,2
+,M1707-12,OH Clark,OHCLK/Stock,2
+,M1707-19,OH Clark,OHCLK/Stock,2
+,1325269-8,OH Clark,OHCLK/Stock,2
+,1325270-8,OH Clark,OHCLK/Stock,2
+,1325271-8,OH Clark,OHCLK/Stock,2
+,D21018-12,OH Clark,OHCLK/Stock,1
+,D21063-7G,OH Clark,OHCLK/Stock,2
+,D21023-10G,OH Clark,OHCLK/Stock,1
+,W21431-8,OH Clark,OHCLK/Stock,2
+,W21361-8,OH Clark,OHCLK/Stock,2
+,W21362-8,OH Clark,OHCLK/Stock,2
+,824051-27,OH Clark,OHCLK/Stock,1
+,824052-31,OH Clark,OHCLK/Stock,1
+,M1625-12,OH Clark,OHCLK/Stock,2
+,M1909-29,OH Clark,OHCLK/Stock,1
+,1324244-12,SMH Clark,SMHCL/Stock,2
+,1324246-12,SMH Clark,SMHCL/Stock,2
+,124123-8,SMH Clark,SMHCL/Stock,1
+,124128-10,SMH Clark,SMHCL/Stock,2
+,124129-10,SMH Clark,SMHCL/Stock,1
+,124162-8,SMH Clark,SMHCL/Stock,2
+,124163-8,SMH Clark,SMHCL/Stock,1
+,125109-8,SMH Clark,SMHCL/Stock,1
+,1336324-15,SMH Clark,SMHCL/Stock,1
+,1336325-15,SMH Clark,SMHCL/Stock,1
+,123284-19,SMH Clark,SMHCL/Stock,1
+,123281-19,SMH Clark,SMHCL/Stock,1
+,125029-12,SMH Clark,SMHCL/Stock,1
+,125030-12,SMH Clark,SMHCL/Stock,1
+,125031-12,SMH Clark,SMHCL/Stock,1
+,125032-12,SMH Clark,SMHCL/Stock,1
+,1323068-13,SMH Clark,SMHCL/Stock,1
+,1323072-13,SMH Clark,SMHCL/Stock,1
+,1323075-13,SMH Clark,SMHCL/Stock,1
+,1323076-13,SMH Clark,SMHCL/Stock,1
+,1323078-13,SMH Clark,SMHCL/Stock,1
+,1323140-10,SMH Clark,SMHCL/Stock,1
+,1323141-10,SMH Clark,SMHCL/Stock,1
+,W21694-12,SMH Clark,SMHCL/Stock,1
+,1323074-13,SMH Clark,SMHCL/Stock,1
+,1323077-13,SMH Clark,SMHCL/Stock,1
+,1323082-13,SMH Clark,SMHCL/Stock,1
+,1323083-13,SMH Clark,SMHCL/Stock,1
+,1323084-13,SMH Clark,SMHCL/Stock,1
+,1323085-13,SMH Clark,SMHCL/Stock,1
+,1323130-8,SMH Clark,SMHCL/Stock,1
+,1323131-8,SMH Clark,SMHCL/Stock,1
+,1323028-8,SMH Clark,SMHCL/Stock,1
+,1323030-8,SMH Clark,SMHCL/Stock,1
+,1323032-8,SMH Clark,SMHCL/Stock,1
+,1323037-8,SMH Clark,SMHCL/Stock,1
+,1323059-13,SMH Clark,SMHCL/Stock,1
+,1323060-13,SMH Clark,SMHCL/Stock,1
+,1323067-13,SMH Clark,SMHCL/Stock,1
+,1323073-13,SMH Clark,SMHCL/Stock,1
+,1322052-8,SMH Clark,SMHCL/Stock,1
+,1322055-8,SMH Clark,SMHCL/Stock,1
+,123411-12,SMH Clark,SMHCL/Stock,1
+,124017-12,SMH Clark,SMHCL/Stock,1
+,124020-12,SMH Clark,SMHCL/Stock,1
+,124026-10,SMH Clark,SMHCL/Stock,1
+,124154-10,SMH Clark,SMHCL/Stock,1
+,124165-8,SMH Clark,SMHCL/Stock,1
+,125024-13,SMH Clark,SMHCL/Stock,1
+,D1950-7G,SMH Clark,SMHCL/Stock,1
+,D21009-5N,SMH Clark,SMHCL/Stock,1
+,D21010-5N,SMH Clark,SMHCL/Stock,1
+,DS1952-20,SMH Clark,SMHCL/Stock,1
+,825003-24,SMH Clark,SMHCL/Stock,1
+,M1653-12,SMH Clark,SMHCL/Stock,1
+,W22033-25,SMH Clark,SMHCL/Stock,1
+,M1704-12,OH Bacoor,OHBCR/Stock,1
+,M1704-19,OH Bacoor,OHBCR/Stock,1
+,M1707-12,OH Bacoor,OHBCR/Stock,1
+,M1707-19,OH Bacoor,OHBCR/Stock,1
+,824041-13,OH Bacoor,OHBCR/Stock,2
+,M1909-29,OH Bacoor,OHBCR/Stock,1
+,M1625-19,OH Bacoor,OHBCR/Stock,1
+,M1653-12,OH Bacoor,OHBCR/Stock,2
+,1324216-4,OH Bacoor,OHBCR/Stock,2
+,1324217-4,OH Bacoor,OHBCR/Stock,2
+,W21431-8,OH Bacoor,OHBCR/Stock,2
+,W21361-8,OH Bacoor,OHBCR/Stock,2
+,W21362-8,OH Bacoor,OHBCR/Stock,2
+,123497-10,OH Bacoor,OHBCR/Stock,1
+,W21690-12,OH Bacoor,OHBCR/Stock,2
+,124106-4,OH Bacoor,OHBCR/Stock,1
+,124111-4,OH Bacoor,OHBCR/Stock,1
+,124178-8,OH Bacoor,OHBCR/Stock,1
+,1324006-10,OH Bacoor,OHBCR/Stock,1
+,123406-10,OH Bacoor,OHBCR/Stock,1
+,123412-12,OH Bacoor,OHBCR/Stock,1
+,123414-7,OH Bacoor,OHBCR/Stock,1
+,123415-12,OH Bacoor,OHBCR/Stock,1
+,123416-7,OH Bacoor,OHBCR/Stock,1
+,123426-8,OH Bacoor,OHBCR/Stock,1
+,123428-8,OH Bacoor,OHBCR/Stock,1
+,123434-12,OH Bacoor,OHBCR/Stock,1
+,123435-12,OH Bacoor,OHBCR/Stock,1
+,125035-10,OH Bacoor,OHBCR/Stock,1
+,125036-10,OH Bacoor,OHBCR/Stock,1
+,824039-27,OH Bacoor,OHBCR/Stock,1
+,824040-31,OH Bacoor,OHBCR/Stock,1
+,824043-27,OH Bacoor,OHBCR/Stock,1
+,824044-31,OH Bacoor,OHBCR/Stock,1
+,824047-27,OH Bacoor,OHBCR/Stock,1
+,824048-31,OH Bacoor,OHBCR/Stock,1
+,1325109-8,OH Bacoor,OHBCR/Stock,1
+,1325110-8,OH Bacoor,OHBCR/Stock,1
+,1325099-8,OH Bacoor,OHBCR/Stock,1
+,1325100-8,OH Bacoor,OHBCR/Stock,1
+,1325269-8,OH Bacoor,OHBCR/Stock,2
+,1325270-8,OH Bacoor,OHBCR/Stock,1
+,1325271-8,OH Bacoor,OHBCR/Stock,1
+,1123142-1,OH Bacoor,OHBCR/Stock,1
+,1123141-1,OH Bacoor,OHBCR/Stock,1
+,1123140-2,OH Bacoor,OHBCR/Stock,1
+,925016-1,OH Bacoor,OHBCR/Stock,4
+,925017-1,OH Bacoor,OHBCR/Stock,4
+,1324204-4,OH Bacoor,OHBCR/Stock,1
+,1324205-4,OH Bacoor,OHBCR/Stock,1
+,1324218-4,OH Bacoor,OHBCR/Stock,2
+,1324232-4,OH Bacoor,OHBCR/Stock,2
+,1324105-24,SMH Ortigas,SMHOR/Stock,1
+,1324108-24,SMH Ortigas,SMHOR/Stock,1
+,1324124-20,SMH Ortigas,SMHOR/Stock,1
+,1324125-20,SMH Ortigas,SMHOR/Stock,1
+,1324148-15,SMH Ortigas,SMHOR/Stock,1
+,1323102-13,SMH Ortigas,SMHOR/Stock,1
+,123302-6,SMH Ortigas,SMHOR/Stock,1
+,W22035-25,SMH Ortigas,SMHOR/Stock,1
+,M1653-12,SMH Ortigas,SMHOR/Stock,1
+,1323140-10,SMH Ortigas,SMHOR/Stock,1
+,1324246-12,SMH Ortigas,SMHOR/Stock,2
+,123376-3,OH Megamall,OHMEG/Stock,1
+,123377-3,OH Megamall,OHMEG/Stock,1
+,123378-3,OH Megamall,OHMEG/Stock,1
+,123415-12,OH Megamall,OHMEG/Stock,1
+,122027-13,OH Megamall,OHMEG/Stock,1
+,D21016-10,OH Megamall,OHMEG/Stock,1
+,124139-15,OH Megamall,OHMEG/Stock,2
+,124140-15,OH Megamall,OHMEG/Stock,2
+,124149-8,OH Megamall,OHMEG/Stock,2
+,1324217-4,OH Megamall,OHMEG/Stock,2
+,1324230-4,OH Megamall,OHMEG/Stock,1
+,1324222-4,OH Megamall,OHMEG/Stock,1
+,1324223-4,OH Megamall,OHMEG/Stock,1
+,W21361-8,OH Megamall,OHMEG/Stock,2
+,D20059-5,OH Megamall,OHMEG/Stock,1
+,D20060-5,OH Megamall,OHMEG/Stock,1
+,D1958-12,OH Megamall,OHMEG/Stock,1
+,123116-7,OH Megamall,OHMEG/Stock,2
+,1125135-1,OH Megamall,OHMEG/Stock,1
+,1125136-1,OH Megamall,OHMEG/Stock,1
+,1125137-1,OH Megamall,OHMEG/Stock,1
+,1125138-1,OH Megamall,OHMEG/Stock,1

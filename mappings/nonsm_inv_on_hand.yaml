@@ -1,0 +1,42 @@
+﻿name: nonsm_inv_on_hand
+odoo_model: stock.quant
+target_table: nonsm_inv_on_hand
+
+full_sync_strategy: truncate
+batch_size: 1000
+order: write_date asc, id asc
+domain:
+  - - on_hand
+    - "="
+    - true
+  - - company_id
+    - in
+    - - 4
+      - 8
+cursor:
+  field: write_date
+  tie_breaker: id
+conflict_keys:
+  - source_odoo_id
+fields:
+  - source: id
+    target: source_odoo_id
+    type: int
+    transform: to_int
+  - source: product_id
+    target: product
+    type: text
+    transform: none_if_blank
+  - source: company_id
+    target: store_name
+    type: text
+    transform: none_if_blank
+  - source: location_id
+    target: store_whse
+    type: text
+    transform: none_if_blank
+  - source: quantity
+    target: qty_on_hand
+    type: int
+    transform: to_int
+

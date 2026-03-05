@@ -1,0 +1,79 @@
+﻿name: whse_rr_summary
+odoo_model: stock.move
+target_table: whse_rr_summary
+
+full_sync_strategy: truncate
+batch_size: 1000
+order: write_date asc, id asc
+domain:
+  - - company_id
+    - "="
+    - 1
+  - - state
+    - "="
+    - done
+  - - x_studio_po_vendor_name
+    - "!="
+    - false
+  - - x_studio_total_rr_qty
+    - ">"
+    - 0
+cursor:
+  field: write_date
+  tie_breaker: id
+conflict_keys:
+  - source_odoo_id
+fields:
+  - source: id
+    target: source_odoo_id
+    type: int
+    transform: to_int
+  - source: date
+    target: date_scheduled
+    type: datetime
+    transform: to_datetime
+  - source: origin
+    target: source_document
+    type: text
+    transform: none_if_blank
+  - source: x_studio_po_vendor_name
+    target: po_vendor_name
+    type: text
+    transform: none_if_blank
+  - source: reference
+    target: reference
+    type: text
+    transform: none_if_blank
+  - source: product_id
+    target: product
+    type: text
+    transform: none_if_blank
+  - source: x_studio_unit_price
+    target: unit_price
+    type: numeric
+    transform: to_numeric
+  - source: location_id
+    target: source_location
+    type: text
+    transform: none_if_blank
+  - source: location_dest_id
+    target: destination_location
+    type: text
+    transform: none_if_blank
+  - source: product_uom_qty
+    target: qty
+    type: int
+    transform: to_int
+  - source: product_uom
+    target: uom
+    type: text
+    transform: none_if_blank
+  - source: x_studio_total_rr_qty
+    target: total_rr_qty
+    type: int
+    transform: to_int
+  - source: state
+    target: status
+    type: text
+    transform: none_if_blank
+

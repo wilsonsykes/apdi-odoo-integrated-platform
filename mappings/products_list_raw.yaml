@@ -1,0 +1,54 @@
+﻿name: products_list_raw
+odoo_model: product.product
+target_table: products_list_raw
+
+full_sync_strategy: truncate
+batch_size: 1000
+order: write_date asc, id asc
+domain:
+  - - active
+    - "="
+    - true
+cursor:
+  field: write_date
+  tie_breaker: id
+conflict_keys:
+  - product
+fields:
+  - source: id
+    target: source_odoo_id
+    type: int
+    transform: to_int
+  - source: display_name
+    target: product
+    type: text
+    transform: text_100
+  - source: categ_id
+    target: product_category
+    type: text
+    transform: text_100
+  - source: x_studio_subcategory
+    target: subcategory
+    type: text
+    transform: text_100
+  - source: website_size_x
+    target: size
+    type: text
+    transform: text_100
+  - source: standard_price
+    target: cost
+    type: numeric
+    transform: to_numeric
+  - source: lst_price
+    target: unit_price
+    type: numeric
+    transform: to_numeric
+  - source: description_sale
+    target: description
+    type: text
+    transform: text_100
+  - source: x_studio_supplier_vendor
+    target: store_group
+    type: text
+    transform: text_100
+

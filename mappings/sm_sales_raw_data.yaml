@@ -1,0 +1,97 @@
+﻿name: sm_sales_raw_data
+odoo_model: sale.order.line
+target_table: sm_sales_raw_data
+
+full_sync_strategy: truncate
+batch_size: 1000
+order: write_date asc, id asc
+domain:
+  - - company_id
+    - "="
+    - 6
+  - - order_id
+    - ilike
+    - SO%
+cursor:
+  field: write_date
+  tie_breaker: id
+conflict_keys:
+  - source_odoo_id
+fields:
+  - source: id
+    target: source_odoo_id
+    type: int
+    transform: to_int
+  - source: order_id
+    target: order_reference
+    type: text
+    transform: none_if_blank
+  - source: x_studio_delivery_date_sales_order_line
+    target: delivery_date
+    type: datetime
+    transform: to_datetime
+  - source: product_id
+    target: product
+    type: text
+    transform: none_if_blank
+  - source: order_partner_id
+    target: customer
+    type: text
+    transform: none_if_blank
+  - source: product_uom_qty
+    target: quantity
+    type: int
+    transform: to_int
+  - source: price_unit
+    target: unit_price
+    type: numeric
+    transform: to_numeric
+  - source: x_studio_description
+    target: description
+    type: text
+    transform: none_if_blank
+  - source: x_studio_product_category
+    target: product_category
+    type: text
+    transform: none_if_blank
+  - source: x_studio_weight
+    target: weight
+    type: numeric
+    transform: none_if_blank
+  - source: salesman_id
+    target: salesperson
+    type: text
+    transform: none_if_blank
+  - source: x_studio_payment_type
+    target: type_of_payment
+    type: text
+    transform: none_if_blank
+  - source: invoice_status
+    target: invoice_status
+    type: text
+    transform: none_if_blank
+  - source: x_studio_order_status
+    target: order_status
+    type: text
+    transform: none_if_blank
+  - source: x_studio_delivered_total_quantity
+    target: delivery_quantity
+    type: text
+    transform: none_if_blank
+  - source: x_studio_barcode_sku
+    target: barcode
+    type: text
+    transform: none_if_blank
+  - source: price_subtotal
+    target: subtotal
+    type: numeric
+    transform: to_numeric
+  - source: x_studio_variant_sku
+    target: variant_sku
+    type: text
+    transform: none_if_blank
+  - source: x_studio_barcode_spatio_description
+    target: spatio_description
+    type: text
+    transform: none_if_blank
+

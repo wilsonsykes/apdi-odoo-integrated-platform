@@ -1,0 +1,203 @@
+;
+; Archive created at 2026-03-04 11:42:30
+;     dbname: apdireports
+;     TOC Entries: 192
+;     Compression: gzip
+;     Dump Version: 1.16-0
+;     Format: CUSTOM
+;     Integer: 4 bytes
+;     Offset: 8 bytes
+;     Dumped from database version: 17.2
+;     Dumped by pg_dump version: 17.2
+;
+;
+; Selected TOC Entries:
+;
+5126; 0 0 ACL - SCHEMA public pg_database_owner
+271; 1255 72892 PROCEDURE public gmroi_summary() postgres
+272; 1255 72893 FUNCTION public update_order_amount() postgres
+256; 1259 81116 TABLE public branch_list postgres
+5127; 0 0 ACL public TABLE branch_list postgres
+255; 1259 81115 SEQUENCE public branch_list_id_seq postgres
+5128; 0 0 SEQUENCE OWNED BY public branch_list_id_seq postgres
+262; 1259 89359 TABLE public celes_masterlist postgres
+5129; 0 0 ACL public TABLE celes_masterlist postgres
+254; 1259 81107 TABLE public department_list postgres
+5130; 0 0 ACL public TABLE department_list postgres
+253; 1259 81106 SEQUENCE public department_list_id_seq postgres
+5131; 0 0 SEQUENCE OWNED BY public department_list_id_seq postgres
+217; 1259 72894 TABLE public product_cost postgres
+5132; 0 0 ACL public TABLE product_cost postgres
+218; 1259 72897 TABLE public product_images postgres
+5133; 0 0 ACL public TABLE product_images postgres
+219; 1259 72902 TABLE public products_list_raw postgres
+5134; 0 0 ACL public TABLE products_list_raw postgres
+220; 1259 72907 TABLE public sm_sales_raw_data postgres
+5135; 0 0 ACL public TABLE sm_sales_raw_data postgres
+221; 1259 72912 TABLE public store_inv_on_hand postgres
+5136; 0 0 ACL public TABLE store_inv_on_hand postgres
+222; 1259 72917 TABLE public whse_inv_on_hand postgres
+5137; 0 0 ACL public TABLE whse_inv_on_hand postgres
+223; 1259 72922 TABLE public whse_rr_summary postgres
+5138; 0 0 ACL public TABLE whse_rr_summary postgres
+224; 1259 72927 VIEW public gmroi_summary postgres
+5139; 0 0 ACL public TABLE gmroi_summary postgres
+225; 1259 72932 TABLE public mappp_table1 postgres
+5140; 0 0 ACL public TABLE mappp_table1 postgres
+226; 1259 72935 SEQUENCE public mappp_table1_id_seq postgres
+5141; 0 0 SEQUENCE OWNED BY public mappp_table1_id_seq postgres
+227; 1259 72936 TABLE public mappp_table2 postgres
+5142; 0 0 ACL public TABLE mappp_table2 postgres
+228; 1259 72941 TABLE public mappp_table3 postgres
+5143; 0 0 ACL public TABLE mappp_table3 postgres
+229; 1259 72944 TABLE public mappp_table4 postgres
+5144; 0 0 ACL public TABLE mappp_table4 postgres
+230; 1259 72947 TABLE public mappp_table5 postgres
+5145; 0 0 ACL public TABLE mappp_table5 postgres
+261; 1259 89354 TABLE public md_masterlist postgres
+5146; 0 0 ACL public TABLE md_masterlist postgres
+258; 1259 81123 TABLE public mpc_staff_list postgres
+5147; 0 0 ACL public TABLE mpc_staff_list postgres
+257; 1259 81122 SEQUENCE public mpc_staff_list_id_seq postgres
+5148; 0 0 SEQUENCE OWNED BY public mpc_staff_list_id_seq postgres
+267; 1259 89381 TABLE public nonsm_inv_on_hand postgres
+5149; 0 0 ACL public TABLE nonsm_inv_on_hand postgres
+266; 1259 89380 SEQUENCE public nonsm_inv_on_hand_id_seq postgres
+5150; 0 0 SEQUENCE OWNED BY public nonsm_inv_on_hand_id_seq postgres
+269; 1259 89390 TABLE public nonsm_sales_raw_data postgres
+5151; 0 0 ACL public TABLE nonsm_sales_raw_data postgres
+268; 1259 89389 SEQUENCE public nonsm_sales_raw_data_id_seq postgres
+5152; 0 0 SEQUENCE OWNED BY public nonsm_sales_raw_data_id_seq postgres
+231; 1259 72950 SEQUENCE public product_images_id_seq postgres
+5153; 0 0 SEQUENCE OWNED BY public product_images_id_seq postgres
+263; 1259 89364 TABLE public sp_pricelist postgres
+5154; 0 0 ACL public TABLE sp_pricelist postgres
+264; 1259 89367 VIEW public product_prices_list postgres
+5155; 0 0 ACL public TABLE product_prices_list postgres
+232; 1259 72951 VIEW public products_list postgres
+5156; 0 0 ACL public TABLE products_list postgres
+252; 1259 81101 TABLE public sku_list postgres
+5157; 0 0 ACL public TABLE sku_list postgres
+265; 1259 89373 VIEW public rfmd_lineup_summary postgres
+5158; 0 0 ACL public TABLE rfmd_lineup_summary postgres
+260; 1259 81163 TABLE public rfmd_list_summary postgres
+5159; 0 0 ACL public TABLE rfmd_list_summary postgres
+259; 1259 81162 SEQUENCE public rfmd_list_summary_id_seq postgres
+5160; 0 0 SEQUENCE OWNED BY public rfmd_list_summary_id_seq postgres
+270; 1259 89418 VIEW public sales_raw_data postgres
+5161; 0 0 ACL public TABLE sales_raw_data postgres
+233; 1259 72955 SEQUENCE public sales_raw_data_id_seq postgres
+5162; 0 0 SEQUENCE OWNED BY public sales_raw_data_id_seq postgres
+234; 1259 72956 TABLE public store_delivery_summary postgres
+5163; 0 0 ACL public TABLE store_delivery_summary postgres
+235; 1259 72961 VIEW public sell_through_reports postgres
+5164; 0 0 ACL public TABLE sell_through_reports postgres
+251; 1259 81083 VIEW public sellthrough_mpc postgres
+5165; 0 0 ACL public TABLE sellthrough_mpc postgres
+237; 1259 72971 VIEW public sellthrough_mpc_v1 postgres
+5166; 0 0 ACL public TABLE sellthrough_mpc_v1 postgres
+238; 1259 72976 VIEW public sellthrough_mpc_v2 postgres
+5167; 0 0 ACL public TABLE sellthrough_mpc_v2 postgres
+239; 1259 72981 VIEW public sellthrough_mpc_v3 postgres
+5168; 0 0 ACL public TABLE sellthrough_mpc_v3 postgres
+240; 1259 72986 VIEW public sellthrough_mpc_v4 postgres
+5169; 0 0 ACL public TABLE sellthrough_mpc_v4 postgres
+236; 1259 72966 VIEW public sellthrough_mpc_v5 postgres
+5170; 0 0 ACL public TABLE sellthrough_mpc_v5 postgres
+241; 1259 72991 VIEW public store_aging_report postgres
+5171; 0 0 ACL public TABLE store_aging_report postgres
+242; 1259 72996 SEQUENCE public store_delivery_summary_ID_seq postgres
+5172; 0 0 SEQUENCE OWNED BY public store_delivery_summary_ID_seq postgres
+243; 1259 72997 SEQUENCE public store_inv_on_hand_id_seq postgres
+5173; 0 0 SEQUENCE OWNED BY public store_inv_on_hand_id_seq postgres
+244; 1259 72998 SEQUENCE public system_sellthru_summary_id_seq postgres
+245; 1259 72999 TABLE public system_sellthru_summary postgres
+5174; 0 0 ACL public TABLE system_sellthru_summary postgres
+246; 1259 73006 SEQUENCE public system_sellthru_summary_seq postgres
+247; 1259 73007 SEQUENCE public table3_id_seq postgres
+5175; 0 0 SEQUENCE OWNED BY public table3_id_seq postgres
+248; 1259 73008 TABLE public test_tb postgres
+5176; 0 0 ACL public TABLE test_tb postgres
+249; 1259 73011 SEQUENCE public whse_inv_on_hand_id_seq postgres
+5177; 0 0 SEQUENCE OWNED BY public whse_inv_on_hand_id_seq postgres
+250; 1259 73012 SEQUENCE public whse_rr_summary2_id_seq postgres
+5178; 0 0 SEQUENCE OWNED BY public whse_rr_summary2_id_seq postgres
+4873; 2604 81119 DEFAULT public branch_list id postgres
+4872; 2604 81110 DEFAULT public department_list id postgres
+4867; 2604 73013 DEFAULT public mappp_table1 id postgres
+4868; 2604 73014 DEFAULT public mappp_table3 id postgres
+4874; 2604 81126 DEFAULT public mpc_staff_list id postgres
+4876; 2604 89384 DEFAULT public nonsm_inv_on_hand id postgres
+4877; 2604 89393 DEFAULT public nonsm_sales_raw_data id postgres
+4862; 2604 73015 DEFAULT public product_images id postgres
+4875; 2604 81166 DEFAULT public rfmd_list_summary id postgres
+4863; 2604 73016 DEFAULT public sm_sales_raw_data id postgres
+4869; 2604 73017 DEFAULT public store_delivery_summary ID postgres
+4864; 2604 73018 DEFAULT public store_inv_on_hand id postgres
+4865; 2604 73019 DEFAULT public whse_inv_on_hand id postgres
+4866; 2604 73020 DEFAULT public whse_rr_summary id postgres
+5108; 0 81116 TABLE DATA public branch_list postgres
+5114; 0 89359 TABLE DATA public celes_masterlist postgres
+5106; 0 81107 TABLE DATA public department_list postgres
+5086; 0 72932 TABLE DATA public mappp_table1 postgres
+5088; 0 72936 TABLE DATA public mappp_table2 postgres
+5089; 0 72941 TABLE DATA public mappp_table3 postgres
+5090; 0 72944 TABLE DATA public mappp_table4 postgres
+5091; 0 72947 TABLE DATA public mappp_table5 postgres
+5113; 0 89354 TABLE DATA public md_masterlist postgres
+5110; 0 81123 TABLE DATA public mpc_staff_list postgres
+5117; 0 89381 TABLE DATA public nonsm_inv_on_hand postgres
+5119; 0 89390 TABLE DATA public nonsm_sales_raw_data postgres
+5079; 0 72894 TABLE DATA public product_cost postgres
+5080; 0 72897 TABLE DATA public product_images postgres
+5081; 0 72902 TABLE DATA public products_list_raw postgres
+5112; 0 81163 TABLE DATA public rfmd_list_summary postgres
+5104; 0 81101 TABLE DATA public sku_list postgres
+5082; 0 72907 TABLE DATA public sm_sales_raw_data postgres
+5115; 0 89364 TABLE DATA public sp_pricelist postgres
+5094; 0 72956 TABLE DATA public store_delivery_summary postgres
+5083; 0 72912 TABLE DATA public store_inv_on_hand postgres
+5098; 0 72999 TABLE DATA public system_sellthru_summary postgres
+5101; 0 73008 TABLE DATA public test_tb postgres
+5084; 0 72917 TABLE DATA public whse_inv_on_hand postgres
+5085; 0 72922 TABLE DATA public whse_rr_summary postgres
+5179; 0 0 SEQUENCE SET public branch_list_id_seq postgres
+5180; 0 0 SEQUENCE SET public department_list_id_seq postgres
+5181; 0 0 SEQUENCE SET public mappp_table1_id_seq postgres
+5182; 0 0 SEQUENCE SET public mpc_staff_list_id_seq postgres
+5183; 0 0 SEQUENCE SET public nonsm_inv_on_hand_id_seq postgres
+5184; 0 0 SEQUENCE SET public nonsm_sales_raw_data_id_seq postgres
+5185; 0 0 SEQUENCE SET public product_images_id_seq postgres
+5186; 0 0 SEQUENCE SET public rfmd_list_summary_id_seq postgres
+5187; 0 0 SEQUENCE SET public sales_raw_data_id_seq postgres
+5188; 0 0 SEQUENCE SET public store_delivery_summary_ID_seq postgres
+5189; 0 0 SEQUENCE SET public store_inv_on_hand_id_seq postgres
+5190; 0 0 SEQUENCE SET public system_sellthru_summary_id_seq postgres
+5191; 0 0 SEQUENCE SET public system_sellthru_summary_seq postgres
+5192; 0 0 SEQUENCE SET public table3_id_seq postgres
+5193; 0 0 SEQUENCE SET public whse_inv_on_hand_id_seq postgres
+5194; 0 0 SEQUENCE SET public whse_rr_summary2_id_seq postgres
+4907; 2606 81121 CONSTRAINT public branch_list branch_list_pkey postgres
+4915; 2606 89363 CONSTRAINT public celes_masterlist celes_masterlist_pkey postgres
+4905; 2606 81114 CONSTRAINT public department_list department_list_pkey postgres
+4891; 2606 73022 CONSTRAINT public mappp_table1 mappp_table1_pkey postgres
+4895; 2606 73024 CONSTRAINT public mappp_table5 mappp_table_pkey postgres
+4913; 2606 89358 CONSTRAINT public md_masterlist md_masterlist_pkey postgres
+4909; 2606 81130 CONSTRAINT public mpc_staff_list mpc_staff_list_pkey postgres
+4917; 2606 89388 CONSTRAINT public nonsm_inv_on_hand nonsm_inv_on_hand_pkey postgres
+4919; 2606 89397 CONSTRAINT public nonsm_sales_raw_data nonsm_sales_raw_data_pkey postgres
+4879; 2606 73026 CONSTRAINT public product_cost product_cost_pkey postgres
+4881; 2606 73028 CONSTRAINT public product_images product_images_path_key postgres
+4883; 2606 73030 CONSTRAINT public product_images product_images_pkey postgres
+4885; 2606 73032 CONSTRAINT public products_list_raw products_list_pkey postgres
+4911; 2606 81170 CONSTRAINT public rfmd_list_summary rfmd_list_summary_pkey1 postgres
+4887; 2606 73034 CONSTRAINT public sm_sales_raw_data sales_raw_data_pkey postgres
+4903; 2606 81105 CONSTRAINT public sku_list sku_list_pkey postgres
+4897; 2606 73036 CONSTRAINT public store_delivery_summary store_delivery_summary_pkey postgres
+4889; 2606 73038 CONSTRAINT public store_inv_on_hand store_inv_on_hand_pkey postgres
+4899; 2606 73040 CONSTRAINT public system_sellthru_summary system_sellthru_summary_pkey postgres
+4893; 2606 73042 CONSTRAINT public mappp_table3 table3_pkey postgres
+4901; 2606 73044 CONSTRAINT public test_tb test_tb_pkey postgres
+4920; 2620 73045 TRIGGER public system_sellthru_summary trigger_update_order_amount postgres
+2209; 826 73046 DEFAULT ACL public DEFAULT PRIVILEGES FOR TABLES postgres
+2210; 826 73047 DEFAULT ACL - DEFAULT PRIVILEGES FOR TABLES postgres
